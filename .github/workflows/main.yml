@@ -1,0 +1,31 @@
+name: Main
+on:
+  schedule:
+    - cron: "5 5 * * TUE"
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: "Checkout code"
+        uses: ruby/setup-ruby@v1.213.0
+        with:
+          ruby-version: 3.4.1
+          bundler-cache: true
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - run: echo "dates=$(bundle exec backup.rb list)" >> $GITHUB_OUTPUT
+        id: dates
+      - run: bundle exec backup.rb download ${PATH}
+        env:
+          PATH: ${{ fromJson(steps.dates.outputs.dates)[-1] }}
+      - run: bundle exec backup.rb dump ${PATH}
+        env:
+          PATH: ${{ fromJson(steps.dates.outputs.dates)[-1] }}
+      - run: bundle exec backup.rb commit ${PATH}
+        env:
+          PATH: ${{ fromJson(steps.dates.outputs.dates)[-1] }}
