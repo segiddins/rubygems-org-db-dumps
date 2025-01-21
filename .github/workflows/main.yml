@@ -10,7 +10,10 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: "Checkout code"
+      - uses: actions/checkout@v4.1.1
+        with:
+          persist-credentials: true
+      - name: "Setup Ruby"
         uses: ruby/setup-ruby@v1.213.0
         with:
           ruby-version: 3.4.1
