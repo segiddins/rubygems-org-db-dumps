@@ -42,3 +42,4 @@ jobs:
       - run: bundle exec backup.rb commit ${BACKUP_PATH}
         env:
           BACKUP_PATH: ${{ fromJson(steps.dates.outputs.dates)[0] }}
+          GH_TOKEN: ${{ github.token }}
