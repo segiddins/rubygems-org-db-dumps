@@ -23,12 +23,12 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
       - run: echo "dates=$(bundle exec backup.rb list)" >> $GITHUB_OUTPUT
         id: dates
-      - run: bundle exec backup.rb download ${PATH}
+      - run: bundle exec backup.rb download ${BACKUP_PATH}
         env:
-          PATH: ${{ fromJson(steps.dates.outputs.dates)[-1] }}
-      - run: bundle exec backup.rb dump ${PATH}
+          BACKUP_PATH: ${{ fromJson(steps.dates.outputs.dates)[-1] }}
+      - run: bundle exec backup.rb dump ${BACKUP_PATH}
         env:
-          PATH: ${{ fromJson(steps.dates.outputs.dates)[-1] }}
-      - run: bundle exec backup.rb commit ${PATH}
+          BACKUP_PATH: ${{ fromJson(steps.dates.outputs.dates)[-1] }}
+      - run: bundle exec backup.rb commit ${BACKUP_PATH}
         env:
-          PATH: ${{ fromJson(steps.dates.outputs.dates)[-1] }}
+          BACKUP_PATH: ${{ fromJson(steps.dates.outputs.dates)[-1] }}
