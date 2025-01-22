@@ -26,6 +26,9 @@ jobs:
         ports:
           # Maps tcp port 5432 on service container to the host
           - 5432:5432
+    env:
+      PGHOST: localhost
+      PGPORT: 5432
     steps:
       - uses: actions/checkout@v4.1.1
         with:
