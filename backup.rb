@@ -17,7 +17,7 @@ when "list"
     element.text
   end
 
-  puts JSON.generate(paths[-2..-1])
+  puts JSON.generate(paths.reverse)
 when "download"
   path = ARGV[1]
   system("curl", "--fail", "-o", "public_postgresql.tar", "#{base_url}#{path}", exception: true)

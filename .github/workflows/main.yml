@@ -27,14 +27,18 @@ jobs:
         id: dates
       - run: |
           echo "Unknown dates -- ${UNKNOWN_DATES}"
+          echo "last date -- ${LAST_DATE}"
+          echo "first date -- ${FIRST_DATE}"
         env:
           UNKNOWN_DATES: "${{ steps.dates.outputs.dates }}"
+          LAST_DATE: "${{ fromJson(steps.dates.outputs.dates)[-1] }}"
+          FIRST_DATE: "${{ fromJson(steps.dates.outputs.dates)[0] }}"
       - run: bundle exec backup.rb download ${BACKUP_PATH}
         env:
-          BACKUP_PATH: ${{ fromJson(steps.dates.outputs.dates)[-1] }}
+          BACKUP_PATH: ${{ fromJson(steps.dates.outputs.dates)[0] }}
       - run: bundle exec backup.rb dump ${BACKUP_PATH}
         env:
-          BACKUP_PATH: ${{ fromJson(steps.dates.outputs.dates)[-1] }}
+          BACKUP_PATH: ${{ fromJson(steps.dates.outputs.dates)[0] }}
       - run: bundle exec backup.rb commit ${BACKUP_PATH}
         env:
-          BACKUP_PATH: ${{ fromJson(steps.dates.outputs.dates)[-1] }}
+          BACKUP_PATH: ${{ fromJson(steps.dates.outputs.dates)[0] }}
