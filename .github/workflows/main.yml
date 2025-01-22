@@ -9,6 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      PGHOST: localhost
+      PGPORT: 5432
+      PGUSER: postgres
     steps:
       - uses: actions/checkout@v4.1.1
         with:
@@ -19,6 +23,10 @@ jobs:
           ruby-version: 3.4.1
           bundler-cache: true
       - uses: ikalnytskyi/action-setup-postgres@v7
+      - run: |
+          echo "localhost:5432:*:*:postgres" >> ~/.pgpass
+      - run: |
+          chmod 0600 ~/.pgpass
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
