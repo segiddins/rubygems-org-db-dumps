@@ -27,6 +27,8 @@ jobs:
         ports:
           # Maps tcp port 5432 on service container to the host
           - 5432:5432
+        volumes:
+          - ./tables:/home/runner/work/rubygems-org-db-dumps/rubygems-org-db-dumps/tables
     env:
       PGHOST: localhost
       PGPORT: 5432
