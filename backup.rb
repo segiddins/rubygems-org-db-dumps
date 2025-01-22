@@ -23,7 +23,7 @@ when "download"
   system("curl", "--fail", "-o", "public_postgresql.tar", "#{base_url}#{path}", exception: true)
   system("tar", "xf", "public_postgresql.tar", "public_postgresql/databases/PostgreSQL.sql.gz", exception: true)
   system("gunzip", "public_postgresql/databases/PostgreSQL.sql.gz", exception: true)
-  system("dropdb", "rubygems", exception: true)
+  system("dropdb", "rubygems")
   system("createdb", "rubygems", exception: true)
   system("psql", "--dbname", "rubygems", "-c", "CREATE EXTENSION IF NOT EXISTS hstore;", exception: true)
   system("psql", "--dbname", "rubygems", "--echo-errors", "--file=public_postgresql/databases/PostgreSQL.sql", exception: true)
