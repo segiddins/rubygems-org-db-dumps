@@ -26,7 +26,7 @@ jobs:
       - run: |
           echo "Unknown dates -- ${UNKNOWN_DATES}"
         env:
-          UNKNOWN_DATES: ${{ fromJson(steps.dates.outputs.dates) }}
+          UNKNOWN_DATES: "${{ fromJson(steps.dates.outputs.dates) }}"
       - run: bundle exec backup.rb download ${BACKUP_PATH}
         env:
           BACKUP_PATH: ${{ fromJson(steps.dates.outputs.dates)[-1] }}
