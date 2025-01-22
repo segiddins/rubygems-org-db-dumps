@@ -9,10 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    env:
-      PGHOST: localhost
-      PGPORT: 5432
-      PGUSER: postgres
     steps:
       - uses: actions/checkout@v4.1.1
         with:
