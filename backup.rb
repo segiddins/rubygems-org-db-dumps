@@ -85,7 +85,7 @@ when "commit"
   system("git", "push", exception: true)
   system("git", "tag", date, exception: true)
   system("git", "push", "--tags", exception: true)
-  system("gh", "release", "upload", date, "public_postgresql.tar", exception: true)
+  system("gh", "release", "create", date, "public_postgresql.tar", exception: true)
 else
   puts "Usage: #{$0} list"
   exit 1
