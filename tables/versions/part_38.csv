@@ -1,0 +1,534 @@
+id,authors,description,number,rubygem_id,built_at,updated_at,summary,platform,created_at,indexed,prerelease,position,latest,full_name,licenses,size,requirements,required_ruby_version,sha256,metadata,required_rubygems_version,yanked_at,info_checksum,yanked_info_checksum,pusher_id,canonical_number,cert_chain,pusher_api_key_id,gem_platform,gem_full_name,spec_sha256
+1900000,Tobias Schoknecht,A parser for sepa files format,0.5.1,230259,1980-01-02 00:00:00,2025-07-07 07:19:10.648495,"Gem for parsing camt, pain, ... files into a speaking object.",ruby,2025-07-07 07:19:09.991982,t,f,0,t,sepa_file_parser-0.5.1,"---
+- MIT
+",10752,"--- []
+",>= 0,x/NF0ORM7nAEYlKUR63C/17FvJfIFLB7cS28T6Kua4M=,"""changelog_uri""=>""https://github.com/viafintech/sepa_file_parser/blob/master/CHANGELOG.md"", ""bug_tracker_uri""=>""https://github.com/viafintech/sepa_file_parser/issues"", ""source_code_uri""=>""https://github.com/viafintech/sepa_file_parser""",>= 0,,7f855af0bc42f987079fc861b0c6fd16,,86957,0.5.1,,231973,ruby,sepa_file_parser-0.5.1,7NXFYvpx6Umfq9M06EGityB9IgSz0XjgzBrBGMXIYb4=
+1900001,Bogdan Gusiev,The library allows you to easily build datagrid aka data tables with sortable columns and filters,2.0.3,42738,2025-07-07 00:00:00,2025-07-07 07:19:53.204086,Library that provides DSL to present table like data,ruby,2025-07-07 07:19:52.243732,t,f,0,t,datagrid-2.0.3,"---
+- MIT
+",46080,"--- []
+",>= 3.0,M5v9dv0rExN/XZLxd3yGFp6EcQr7SDvxjUeTuYxbpjc=,"""homepage_uri""=>""https://github.com/bogdan/datagrid"", ""changelog_uri""=>""https://github.com/bogdan/datagrid/blob/main/CHANGELOG.md"", ""bug_tracker_uri""=>""https://github.com/bogdan/datagrid/issues"", ""source_code_uri""=>""https://github.com/bogdan/datagrid"", ""documentation_uri""=>""https://rubydoc.info/gems/datagrid"", ""rubygems_mfa_required""=>""true""",>= 0,,1137a68b5609fdc66dc9aee6100135cf,,44812,2.0.3,,231627,ruby,datagrid-2.0.3,uDFuhzrVJYdXl+Evj2B78GfB+wuwnvtHkmBReVmhMaQ=
+1900002,"Renato ""Lond"" Cerqueira, David Moreno",Ruby's favorite feed auto-discovery tool,2.0.0,235898,1980-01-02 00:00:00,2025-07-07 07:34:45.905846,RSS/Atom feed auto-discovery tool,ruby,2025-07-07 07:34:45.248607,t,f,2,f,async-feedbag-2.0.0,"---
+- MIT
+",8704,"--- []
+",>= 3.0,dQRtzC0ImSAuoejb825et2jO9hXFxlZAEgIuCxS6dbU=,"""rubygems_mfa_required""=>""true""",>= 0,,178107c43ba9b93ef037dd22795c5ee8,,210156,2,,238656,ruby,async-feedbag-2.0.0,+nZ8tetSrkGi92m97FOO2DR3DSxwOA80nlM04ZExCJU=
+1900003,Asrat,An engine which contains core models for Supply Chain Financing.,0.4.9,234436,1980-01-02 00:00:00,2025-07-07 07:37:27.608573,An Engine for Supply Chain Financing,ruby,2025-07-07 07:37:26.80717,t,f,1,f,bscf-core-0.4.9,"---
+- MIT
+",26112,"--- []
+",>= 3.2,mo2EPVBj1HBZ3uyuo+3nGda3rR8y2GJsTBvGhd9Qv2g=,"""homepage_uri""=>""https://mksaddis.com/"", ""changelog_uri""=>""https://github.com/BITS-DEVSEC"", ""source_code_uri""=>""https://github.com/BITS-DEVSEC""",>= 0,,ddb7c389b9f77086518700e8dab3017a,,199316,0.4.9,,212934,ruby,bscf-core-0.4.9,t449z83IKVgSZJP7mIM7t8Pj8AdszeWPSkIGmiF0f68=
+1900004,GOV.UK Dev,"A set of extensions to markdown layered on top of the kramdown
+library for use in the UK Government Single Domain project",10.4.1,48307,1980-01-02 00:00:00,2025-07-07 07:46:19.975182,Markup language for single domain,ruby,2025-07-07 07:46:18.869295,t,f,0,t,govspeak-10.4.1,"--- []
+",81408,"--- []
+",>= 3.2,4C7lyj24tvV1U6uD5Mn44bAe9NosJhZsuyM1sTcPOG0=,"",>= 0,,497938d54ad8a758c1bc8c4321a1f799,,59597,10.4.1,,161594,ruby,govspeak-10.4.1,h29uh0aLW/XJaQc4HwkYw0d8RLC8pHMtbSOB+Z4oMEg=
+1900005,vitock,,0.11.10,209264,2025-07-07 00:00:00,2025-07-07 07:48:39.556076,"A clean fast, minimalist Jekyll theme.",ruby,2025-07-07 07:48:38.630543,t,f,0,t,jekyll-zeta-0.11.10,"---
+- GPLv3
+",166912,"--- []
+",>= 0,9yOEVQk/QFHwxWpBriVnIJO1+Jk/BIb+YmLNfiZH1Oo=,"",>= 0,,ba1beeb3b08e6cdd1206ed3e353b7632,,169149,0.11.10,,169983,ruby,jekyll-zeta-0.11.10,4Ap8fcMhN4YRElxM2xs96vPHCg13FJWao0HKjq/mSZ4=
+1900006,GoCardless,Ibandit is a Ruby library for manipulating and validating IBANs. It allows you to construct an IBAN from national banking details; deconstruct an IBAN into national banking details; and validate an IBAN's check digits and format.,1.26.1,118129,2025-07-07 00:00:00,2025-07-07 07:55:09.149031,"Convert national banking details into IBANs, and vice-versa.",ruby,2025-07-07 07:55:08.168488,t,f,0,t,ibandit-1.26.1,"---
+- MIT
+",427008,"--- []
+",>= 2.7.0,YibRaHZcH6JGaPKQPO2WIQktyx8OwW0cXUgRIFGl4BA=,"""rubygems_mfa_required""=>""true""",>= 0,,5a9cf1a2bc0240065cc0e1e58c584f56,,85546,1.26.1,,233362,ruby,ibandit-1.26.1,dDLrVIZSAif+exAx5cyIhTjw4rmIgWvN5NrL9ZrKf0I=
+1900007,"Renato ""Lond"" Cerqueira, David Moreno",Ruby's favorite feed auto-discovery tool,2.0.1,235898,1980-01-02 00:00:00,2025-07-07 08:00:43.877067,RSS/Atom feed auto-discovery tool,ruby,2025-07-07 08:00:43.333387,t,f,1,f,async-feedbag-2.0.1,"---
+- MIT
+",8192,"--- []
+",>= 3.2,7pDMlL+Tc5wSveQsWVULAFjDi+zufWOCqP9spWVz/xo=,"""rubygems_mfa_required""=>""true""",>= 0,,675019b99d97c00b9f7bdca4932125bb,,210156,2.0.1,,238656,ruby,async-feedbag-2.0.1,0FhQztVO/XrN2TtBObzrkyowqLE7xSm/sDBkbH+aI/0=
+1900008,Thomas Boerger,OpenAPI client for Gopad,1.22.0,230329,1980-01-02 00:00:00,2025-07-07 08:18:18.047309,Etherpad for markdown with Go,ruby,2025-07-07 08:18:17.256825,t,f,0,t,gopad-1.22.0,"---
+- Apache-2.0
+",36864,"--- []
+",>= 2.6,KF6oFIGDtTnZxcdbh+aavQbrOBiB0pIATS/xfeyo8lw=,"""rubygems_mfa_required""=>""true""",>= 0,,3abe39ba6b1fabae0862aede0c32683c,,46790,1.22,,188900,ruby,gopad-1.22.0,AJpseVwEYSu4uGuLxqunLjKeYk/M+w4l8p/JASt7dQ8=
+1900009,Tommy Jeff,Webview ruby binding for macOS,0.3.8,235775,2025-07-07 00:00:00,2025-07-07 08:21:49.957665,Webview ruby binding for macOS,ruby,2025-07-07 08:21:49.302915,t,f,5,f,cocoawebview-0.3.8,"---
+- MIT
+",10752,"--- []
+",>= 3.1.0,+9Rw0eG4eXyLzK+QMBRaARIEmG0Uq06tjUYCcFyFnGI=,"""homepage_uri""=>""https://github.com/orklann/cocoawebview"", ""source_code_uri""=>""https://github.com/orklann/cocoawebview""",>= 0,,922d27ac29d7af2b25fa6381aef7abef,,189077,0.3.8,,232810,ruby,cocoawebview-0.3.8,JMTDUAhfBHuTxBWyGg+tRLgYbyXNvuBDi2nYWD10pgM=
+1900010,Tommy Jeff,Webview ruby binding for macOS,0.3.9,235775,2025-07-07 00:00:00,2025-07-07 08:24:09.906648,Webview ruby binding for macOS,ruby,2025-07-07 08:24:09.145019,t,f,4,f,cocoawebview-0.3.9,"---
+- MIT
+",10752,"--- []
+",>= 3.1.0,UInqMazfq5hL1Nyi/hunQLXeMJBGs6WrtQNozmRRg6E=,"""homepage_uri""=>""https://github.com/orklann/cocoawebview"", ""source_code_uri""=>""https://github.com/orklann/cocoawebview""",>= 0,,a72600775a65e1ceb9cbe648ec13e78f,,189077,0.3.9,,232810,ruby,cocoawebview-0.3.9,fnwJUaXLPaHBPVOYwY4GbPjR6KcOlNkqXCXfG1CphWU=
+1900011,Tommy Jeff,Webview ruby binding for macOS,0.3.10,235775,2025-07-07 00:00:00,2025-07-07 08:29:45.39331,Webview ruby binding for macOS,ruby,2025-07-07 08:29:44.74173,t,f,3,f,cocoawebview-0.3.10,"---
+- MIT
+",10752,"--- []
+",>= 3.1.0,3wE7ld8FD510pfuOyq+eTMptIC/j1qJ9YOpwSDElLfU=,"""homepage_uri""=>""https://github.com/orklann/cocoawebview"", ""source_code_uri""=>""https://github.com/orklann/cocoawebview""",>= 0,,de2530fc68b06591dbd4025deb3f165c,,189077,0.3.10,,232810,ruby,cocoawebview-0.3.10,Nhxg508AmQ6ptsBYT6wuJqSgcjKQlWhwpvuvZcvouK4=
+1900012,zon,File to Clipboard gem,3.111.021,232367,2025-07-07 00:00:00,2025-07-07 08:30:50.143595,file to clipboard,ruby,2025-07-07 08:30:49.285898,t,f,0,t,posting_duo-3.111.021,"---
+- zon
+",81408,"--- []
+",>= 0,6qIX4Gv3gpgWYR6CHtmI5j9JNL8NszJspO8I6aQwaKQ=,"",>= 0,,5a9764b09d519cd8e75f74a6f3be736e,,205053,3.111.21,,229701,ruby,posting_duo-3.111.021,wSu20hZfT8el5SpWuqze85B4nD8tio6zxLo6yxZbnfE=
+1900013,zon,posting app,3.111.021,232354,2025-07-07 00:00:00,2025-07-07 08:31:20.21379,posting,ruby,2025-07-07 08:31:19.518829,t,f,0,t,posting_zon-3.111.021,"---
+- zon
+",80384,"--- []
+",>= 0,uNtQdJPHnhQ0+blbr/4yyday8GJ45GNqUyYtlA3yozc=,"",>= 0,,7a77bd4e61e001b2ac1c9c7824dc4eb5,,205053,3.111.21,,229701,ruby,posting_zon-3.111.021,qGHu6VsojY2mo5sOtCugEgxWS7N0zZ5I6KA/482n1Ks=
+1900014,Tommy Jeff,Webview ruby binding for macOS,0.3.11,235775,2025-07-07 00:00:00,2025-07-07 08:31:42.376687,Webview ruby binding for macOS,ruby,2025-07-07 08:31:41.830493,t,f,2,f,cocoawebview-0.3.11,"---
+- MIT
+",10752,"--- []
+",>= 3.1.0,nrJWuWlFvAFWdPG5r5NBVcoYUIABDCApEg5KXvz4Pb8=,"""homepage_uri""=>""https://github.com/orklann/cocoawebview"", ""source_code_uri""=>""https://github.com/orklann/cocoawebview""",>= 0,,c9ce82da8ae54bf8fa6e7411356d0163,,189077,0.3.11,,232810,ruby,cocoawebview-0.3.11,Q5HvEeeQwX3iVkTsoUzjCuuj/qIukwef2m1XkbK5eZM=
+1900015,Thomas Boerger,OpenAPI client for Kleister,1.20.0,230432,1980-01-02 00:00:00,2025-07-07 08:33:13.787542,Manage mod packs for Minecraft,ruby,2025-07-07 08:33:13.044601,t,f,0,t,kleister-1.20.0,"---
+- Apache-2.0
+",60416,"--- []
+",>= 2.6,lTcuznlbrPXY3BwIDTlW3IyYDJJLAZkBtogl6A7aOq8=,"""rubygems_mfa_required""=>""true""",>= 0,,20b4ae5d8a214d8574af9c0d64d7c000,,46790,1.20,,188900,ruby,kleister-1.20.0,z5J2FibA0Xi8fL0RgyPO6wlMoqlZhxxUfnfJxrQlf10=
+1900016,Gabriele Tassoni,"Ruby on Rails REST APIs built by convention using the DB schema as the foundation, please see README for mode of use.",3.5.4,193177,1980-01-02 00:00:00,2025-07-07 08:36:37.832496,Convention based RoR engine which uses DB schema introspection to create REST APIs.,ruby,2025-07-07 08:36:36.768875,t,f,0,t,model_driven_api-3.5.4,"---
+- MIT
+",26624,"--- []
+",>= 0,xey0+FXtHEObq/WTNQbbNhDPrday+CrgrUnwaUx19Gc=,"""allowed_push_host""=>""https://rubygems.org""",>= 0,,3653a1677b689830f35775a2dc14bdd9,,102350,3.5.4,,101848,ruby,model_driven_api-3.5.4,WMW3Er2+p1luMiBUe+4dD6jKchZHWP35ijlbLRT4B2o=
+1900017,Ribose Inc.,"Utility for SUMA (STEP Unified Model-Based Standards Architecture)
+",0.1.15,230479,2025-07-07 00:00:00,2025-07-07 08:37:57.05921,Utility for SUMA (STEP Unified Model-Based Standards Architecture),ruby,2025-07-07 08:37:56.347892,t,f,0,t,suma-0.1.15,"---
+- BSD-2-Clause
+",32256,"--- []
+",>= 3.0.0,mPmKMeDJttj8qox7FTHtHrJaCvIH1mDS8+DA2/MdLUI=,"""rubygems_mfa_required""=>""true""",>= 0,,96b6dfccb65a4e8a4bba0a669a2f621e,,146458,0.1.15,,192553,ruby,suma-0.1.15,JvAmTA/OEWmOhg5/0qbi1bLmdZMHn7b8zeq4964qx1g=
+1900018,Павел Бабин,"Фильтрация, пагинация и формирование эл. таблиц на базе Grape",2.0.0.pre.beta.14,220397,2025-07-07 00:00:00,2025-07-07 08:39:20.376234,Формирование списков записей для API на базе Grape,ruby,2025-07-07 08:39:19.703061,t,t,0,f,grape-listing-2.0.0.pre.beta.14,"---
+- Copyright
+",12288,"--- []
+",>= 3.1.0,HGojE6+dJRSY8t9WHCzH/7LZzQ1s/RHYzV57a6huvsY=,"""rubygems_mfa_required""=>""true""",> 1.3.1,,9ff6b4bfdc9069c4e5265332434914da,,75101,2.pre.beta.14,,236606,ruby,grape-listing-2.0.0.pre.beta.14,PWCkGN0eQABWorNC6vMptHdLy82fDduD7MVillSPCn8=
+1900019,Tommy Jeff,Webview ruby binding for macOS,0.3.12,235775,2025-07-07 00:00:00,2025-07-07 08:45:47.406432,Webview ruby binding for macOS,ruby,2025-07-07 08:45:46.808767,t,f,1,f,cocoawebview-0.3.12,"---
+- MIT
+",10752,"--- []
+",>= 3.1.0,84gtc+9h2Zs9tOd+1Rak6jN6wUXAYEFODVXOMDFHICs=,"""homepage_uri""=>""https://github.com/orklann/cocoawebview"", ""source_code_uri""=>""https://github.com/orklann/cocoawebview""",>= 0,,9c2ade021a07ac12eceb9b9ad89e2e31,,189077,0.3.12,,232810,ruby,cocoawebview-0.3.12,yQSK+3zKx8lqiWJBzynbe7CKbICW0rc0HpG9a79BXig=
+1900020,Simply Business,Require this gem in your application to use Simply Business common rubocop rules.,2.20.1,197288,2025-07-07 00:00:00,2025-07-07 08:50:12.792794,Provides a single point of reference for common rubocop rules.,ruby,2025-07-07 08:50:11.802937,t,f,0,t,simplycop-2.20.1,"---
+- MIT
+",28672,"--- []
+",">= 3.2, < 3.5",+b6yJnAnf80KsPvpixoY/mOODyog+PHxhRxdBKpesk0=,"",>= 0,,8cca9a43ac0d2df740c61fe9b35d9200,,84882,2.20.1,,84506,ruby,simplycop-2.20.1,zGkfW0mI1o3SDtsWF5+aAeIPRMatKqD8gleol19n+3o=
+1900021,Tommy Jeff,Webview ruby binding for macOS,0.3.13,235775,2025-07-07 00:00:00,2025-07-07 08:52:33.570099,Webview ruby binding for macOS,ruby,2025-07-07 08:52:32.930051,t,f,0,t,cocoawebview-0.3.13,"---
+- MIT
+",10752,"--- []
+",>= 3.1.0,duBRis3Rx5TMns2A49ZBLP1NjcXUKZFJhoL0snsCR1U=,"""homepage_uri""=>""https://github.com/orklann/cocoawebview"", ""source_code_uri""=>""https://github.com/orklann/cocoawebview""",>= 0,,f1e8157b2a314895fa65b70d962ce8ff,,189077,0.3.13,,232810,ruby,cocoawebview-0.3.13,Z8C1Rt/iRH23vCOxvGRjNyYF/GEGBoG3r/x7EqJRuyo=
+1900022,Cuadra AI,"Build AI agents with your own data, accelerate time-to-value, and create solutions as unique as your business.",1.0.1,235899,2025-07-07 00:00:00,2025-07-07 09:07:35.187974,Cuadra AI SDK,ruby,2025-07-07 09:07:34.573238,t,f,1,f,cuadra-ai-sdk-1.0.1,"---
+- MIT
+",20992,"--- []
+",>= 2.6,I94p5F/9CaBRySOoLNKnReGr5V9zJZ5vr8hiF2JEC5s=,"",>= 0,,73e0bffb2334208b8d1aaef0d1c06f41,,236168,1.0.1,,238658,ruby,cuadra-ai-sdk-1.0.1,Y3w29tx3WiutWx7VG0qHmUlmQiFcK2NJEupySRd0M2g=
+1900023,Cyril Kato,"SIN (Style Identifier Notation) provides a rule-agnostic format for identifying styles
+in abstract strategy board games. This gem implements the SIN Specification v1.0.0 with
+a modern Ruby interface featuring immutable style objects and functional programming
+principles. SIN uses single ASCII letters with case-based side encoding (A-Z for first player,
+a-z for second player), enabling clear distinction between different style families in
+multi-style gaming environments. Perfect for cross-style matches, game engines, and hybrid
+gaming systems requiring compact style identification.
+",1.0.0,235900,1980-01-02 00:00:00,2025-07-07 09:35:21.21083,SIN (Style Identifier Notation) implementation for Ruby with immutable style objects,ruby,2025-07-07 09:35:20.485703,t,f,0,t,sashite-sin-1.0.0,"---
+- MIT
+",11264,"--- []
+",>= 3.2.0,AV4OFlKl0QfJIwuYIC0kU+ChjrvtvZaWLtzCdkBwR1c=,"""homepage_uri""=>""https://github.com/sashite/sin.rb"", ""bug_tracker_uri""=>""https://github.com/sashite/sin.rb/issues"", ""source_code_uri""=>""https://github.com/sashite/sin.rb"", ""documentation_uri""=>""https://rubydoc.info/github/sashite/sin.rb/main"", ""specification_uri""=>""https://sashite.dev/specs/sin/1.0.0/"", ""rubygems_mfa_required""=>""true""",>= 0,,5ade77fcbce2e066e125b923e543f8ae,,93,1,,231497,ruby,sashite-sin-1.0.0,PM0esp0YbV0g0ydjowiTDwNbjCRVRJ9q0UdW+9us2wE=
+1900024,Marten Veldthuis,,0.5.24,198386,2025-07-07 00:00:00,2025-07-07 09:40:53.868596,Quby::Compiler compiles a DSL for questionnaires to JSON,ruby,2025-07-07 09:40:53.090368,t,f,1,f,quby-compiler-0.5.24,"---
+- MIT
+",59392,"--- []
+",>= 2.3.0,GKXzaF1v23UoFG6JVJs9nu/Y2pW5dGADItHlpsQhOm8=,"""homepage_uri""=>""https://gitlab.roqua.nl/roqua/quby-compiler""",>= 0,,0ad8b524105e02dd02797301b7b3be1a,,75512,0.5.24,,181955,ruby,quby-compiler-0.5.24,dT0r+6jz+6mE4z8NzyqKgzsF0UR+QKva5acT13oT5XI=
+1900025,"Eric Chapweske, Ben Osheroff",,4.4.0,57028,2025-07-07 00:00:00,2025-07-07 09:43:53.255066,"Resque queue backed by database audits, with automatic retry",ruby,2025-07-07 09:43:52.545332,t,f,0,t,resque-durable-4.4.0,"---
+- MIT
+",7680,"--- []
+",>= 3.1,Y5jatmeeWK4gi7llSebZYzB0iUvw7/GGL5k+it4s+Mk=,"",>= 0,,3cd16ad13f577aba2a1d465e3cd25da0,,,4.4,,238659,ruby,resque-durable-4.4.0,Vz6ioszacs0O+6ZjvanP4g2sMn+6rNCOATrlJbrCRy4=
+1900026,getstream.io,Ruby client for Stream Chat.,3.19.0,183775,2025-07-07 00:00:00,2025-07-07 09:54:50.918854,The low level client for serverside calls for Stream Chat.,ruby,2025-07-07 09:54:50.098254,t,f,0,t,stream-chat-ruby-3.19.0,"--- []
+",36352,"--- []
+",>= 3.0.0,YGV7djHeEFghjroXmjJcQkIWkLJs5GStuBFfEaJ5lhQ=,"""homepage_uri""=>""https://getstream.io/chat/docs/"", ""changelog_uri""=>""https://github.com/GetStream/stream-chat-ruby/blob/master/CHANGELOG.md"", ""bug_tracker_uri""=>""https://github.com/GetStream/stream-chat-ruby/issues"", ""source_code_uri""=>""https://github.com/GetStream/stream-chat-ruby"", ""documentation_uri""=>""https://getstream.io/chat/docs/ruby/?language=ruby"", ""rubygems_mfa_required""=>""false""",>= 0,,e196b07a2b4c04be0c63292c67a714a2,,148995,3.19,,162522,ruby,stream-chat-ruby-3.19.0,MpqWazOSO3y0whq7N3t2jH4L0i75x52EjjhwqMFoMX4=
+1900027,Fabrice Carrega,"A Ruby client for the Lemonway Onboarding API, providing an easy way to interact with the API for onboarding users and managing their accounts.",0.2.1,235901,2025-07-07 00:00:00,2025-07-07 09:57:13.983929,Ruby wrapper for the Lemonway Onboarding API.,ruby,2025-07-07 09:57:13.374387,t,f,0,t,lemonway_onboarding-0.2.1,"---
+- MIT
+",13824,"--- []
+",>= 2.7.0,iYecc0sCZ/Idq+6XMz8c3Q3CMb2KWl7yjT5SyIO0WO4=,"""homepage_uri""=>""https://github.com/treize37/lemonway_onboarding"", ""changelog_uri""=>""https://github.com/Treize37/lemonway_onboarding/blob/main/CHANGELOG.md"", ""source_code_uri""=>""https://github.com/treize37/lemonway_onboarding"", ""allowed_push_host""=>""https://rubygems.org""",>= 0,,f90b1bd4a400f391a0f2c25d03bdd3f0,,235961,0.2.1,,238279,ruby,lemonway_onboarding-0.2.1,vWmP28LMXyOyB85yE37DLKRyYDUWgEGCVY9bJCyPhXY=
+1900028,Edward Beesley,,0.1.3,234214,2025-07-07 00:00:00,2025-07-07 10:01:34.218847,"A Ruby gem that stores encoded polygon data for UK counties, with the ability to return county information for given coordinates.",ruby,2025-07-07 10:01:33.370108,t,f,0,t,uk_county_locator-0.1.3,"---
+- MIT
+",1728000,"--- []
+",>= 2.6.0,wDoRRzLP8LrLayQQZX1+E9jDU75yM3bAUJ05SfumiqE=,"""homepage_uri""=>""https://github.com/EdBeese/uk_county_locator"", ""changelog_uri""=>""https://github.com/EdBeese/uk_county_locator/blob/main/CHANGELOG.md"", ""source_code_uri""=>""https://github.com/EdBeese/uk_county_locator"", ""allowed_push_host""=>""https://rubygems.org""",>= 0,,1b5b8beb35de349d74089c76572d23f9,,226668,0.1.3,,234184,ruby,uk_county_locator-0.1.3,Ev5RfGU5QTgMyMKLa7cB87BY8lLhjWLCQmEkG+Bsavg=
+1900029,Cuadra AI,"Build AI agents with your own data, accelerate time-to-value, and create solutions as unique as your business.",1.0.2,235899,2025-07-07 00:00:00,2025-07-07 10:12:53.792245,Cuadra AI SDK,ruby,2025-07-07 10:12:53.251433,t,f,0,t,cuadra-ai-sdk-1.0.2,"---
+- MIT
+",20992,"--- []
+",>= 2.6,oN74tsn6AdC2miVmkd2HQ3OpdwhhrFwMTXMBuejtRKc=,"",>= 0,,5ec595b197c0abfc1c226772448ada82,,236168,1.0.2,,238658,ruby,cuadra-ai-sdk-1.0.2,CAMUyN8NZx1RWl9GFu0Rl19b8AM7MX0nBSlpbi9t9Ps=
+1900030,Asrat,An engine which contains core models for Supply Chain Financing.,0.4.91,234436,1980-01-02 00:00:00,2025-07-07 10:31:56.377939,An Engine for Supply Chain Financing,ruby,2025-07-07 10:31:55.367758,t,f,0,t,bscf-core-0.4.91,"---
+- MIT
+",26112,"--- []
+",>= 3.2,OEYmHgiFew3wXHENKHPxQtnIYb0vyvRTyADTZfoA0Ow=,"""homepage_uri""=>""https://mksaddis.com/"", ""changelog_uri""=>""https://github.com/BITS-DEVSEC"", ""source_code_uri""=>""https://github.com/BITS-DEVSEC""",>= 0,,aeac095efb1d084406fd68d8c5e8cae3,,199316,0.4.91,,212934,ruby,bscf-core-0.4.91,8LeleEFI6CTdh+Wh6hF9TSWkJ+fxbSnxqKak/ARfC1c=
+1900031,Abhay Rana,A simple gem by @razorpay to help you validate your IFSC codes. IFSC codes are bank codes within India,2.0.45,164135,2022-10-28 00:00:00,2025-07-07 10:35:14.849013,IFSC code database to help you validate IFSC codes,ruby,2025-07-07 10:35:13.848803,t,f,0,t,ifsc-2.0.45,"---
+- MIT
+",463872,"--- []
+",>= 0,mNn7KfEKne4Gd9xSojoSWub2oNygBxE+IapvtZwG3nc=,"",>= 0,,b1353a26f72c3ca918550db38b8e08b5,,85355,2.0.45,,178077,ruby,ifsc-2.0.45,Na/NYxR633j0Ye4nMtNQw5bEUTcvziXQdPMMxOvxqwE=
+1900032,kk,"String, time, file, crypto, array, validation, debug, DSL, formatting and more.",0.1.0,235902,2025-07-07 00:00:00,2025-07-07 10:37:21.577871,A collection of geek-style Ruby utility modules.,ruby,2025-07-07 10:37:20.933139,t,f,0,t,kutils-0.1.0,"---
+- MIT
+",8704,"--- []
+",>= 2.7.0,6Eywad81LHa+Smc6cP0e6bPc84aQRVTrG8pmZNuLDTE=,"",>= 0,,7de9aa333af7a1b50c10aad699d0a07c,,211826,0.1,,238410,ruby,kutils-0.1.0,Zo+R5YOETIYCs6QcKzKs+ot7Ly11IIr0BOQWtVtLbFU=
+1900033,MHCLG Energy Performance of Buildings,,2.1.1,201958,2025-07-07 00:00:00,2025-07-07 11:28:14.853153,Library used to parse Energy Performance Certificates (EPC),ruby,2025-07-07 10:38:07.879629,f,f,2,f,epb_view_models-2.1.1,"---
+- MIT
+",3683840,"--- []
+",>= 3.1,BaWagtZHliDvi5gxAotbLRjTGEk5uh5gjbtx0GbaMsA=,"",>= 0,2025-07-07 11:28:14.710188,bc78951e8be0b940d1779345e1363ce1,a873e4c1af5d4a5a0e578c30f7e8af63,170785,2.1.1,,168393,ruby,epb_view_models-2.1.1,sQZhKp6tDvGoBS313bpvS6FL3z8tzrCqfDrm6K3bMRI=
+1900034,Jozef Vaclavik,Trifle::Traces is a way too simple timeline tracer that helps you track custom outputs.,1.2.0,209669,2025-07-07 00:00:00,2025-07-07 10:50:52.875344,Simple tracing backed by Hash,ruby,2025-07-07 10:50:52.263412,t,f,0,t,trifle-traces-1.2.0,"---
+- MIT
+",10752,"--- []
+",>= 2.6,XQcwmyWvk7/Gr4mvn144OCDIthBwD3AP6gsBBLntp+E=,"""homepage_uri""=>""https://trifle.io"", ""changelog_uri""=>""https://trifle.io/trifle-traces/changelog"", ""source_code_uri""=>""https://github.com/trifle-io/trifle-traces""",>= 0,,5da68f1e5ac33c591882b9dc7c4a95c9,,91079,1.2,,238320,ruby,trifle-traces-1.2.0,wntqoJ6NQdMexwb+QE7H+C/rfSCf8vjE1sME9owzHg4=
+1900035,Aslak Hellesøy,JSON schema-based messages for Cucumber's inter-process communication,28.0.0,176878,2025-07-07 00:00:00,2025-07-07 11:11:23.07036,cucumber-messages-28.0.0,ruby,2025-07-07 11:11:22.16871,t,f,0,t,cucumber-messages-28.0.0,"---
+- MIT
+",22016,"--- []
+",>= 3.0,UtfMC62djlArTlV7BUTqqhamMW6kGt4sDmuhBDxdVYw=,"""changelog_uri""=>""https://github.com/cucumber/messages/blob/main/CHANGELOG.md"", ""bug_tracker_uri""=>""https://github.com/cucumber/messages/issues"", ""source_code_uri""=>""https://github.com/cucumber/messages"", ""mailing_list_uri""=>""https://groups.google.com/forum/#!forum/cukes"", ""documentation_uri""=>""https://www.rubydoc.info/github/cucumber/messages""",>= 3.2.3,,febc14064f1a4a3eb203a99a1323fa3a,,123382,28,,238101,ruby,cucumber-messages-28.0.0,FlY8lXknpKwnpR2xqkGVXf4cD3JYE4eRle7rj/U5MUc=
+1900036,MHCLG Energy Performance of Buildings,,2.1.2,201958,2025-07-07 00:00:00,2025-07-07 11:17:21.488402,Library used to parse Energy Performance Certificates (EPC),ruby,2025-07-07 11:17:20.595169,t,f,1,f,epb_view_models-2.1.2,"---
+- MIT
+",3683328,"--- []
+",>= 3.1,gN/OXT4Agd9xGgocbiU3/IE/4Ayk9/sdEITGJ7KHMcQ=,"",>= 0,,c96d774a59a7785713757ca93e509996,,170785,2.1.2,,168393,ruby,epb_view_models-2.1.2,Z2wKh/Vc1wTptbmrtOcTmwKqlpLdMwQk+2d8jbR/n8g=
+1900037,Kentaro Hayashi,Collection rules for Fluentd plugin coding style,0.1.0,235903,1980-01-02 00:00:00,2025-07-07 11:23:52.201127,RuboCop rules for Fluentd plugin,ruby,2025-07-07 11:23:51.579526,t,f,0,t,rubocop-fluentd-0.1.0,"---
+- Apache-2.0
+",11264,"--- []
+",>= 2.7.0,BH/XNNuV9GB+X/4lAv5KroVK14Qvqjm2pzd0E8aFXZc=,"""homepage_uri""=>""https://github.com/kenhys/rubocop-fluentd"", ""changelog_uri""=>""https://github.com/kenhys/rubocop-fluentd/blob/main/CHANGELOG.md"", ""source_code_uri""=>""https://github.com/kenhys/rubocop-fluentd"", ""allowed_push_host""=>""https://rubygems.org"", ""rubygems_mfa_required""=>""true"", ""default_lint_roller_plugin""=>""RuboCop::Fluentd::Plugin""",>= 0,,2b53cae598e23c050972f3c776970a1b,,66261,0.1,,238660,ruby,rubocop-fluentd-0.1.0,+kzFZ5wDYOPHI48dQmD6A1xDxZSHu+BdJDkr/OVGw2U=
+1900038,GetStream,,0.3.85,209349,2025-07-07 00:00:00,2025-07-07 11:27:13.916184,stream custom actions,ruby,2025-07-07 11:27:12.934986,t,f,1,f,fastlane-plugin-stream_actions-0.3.85,"--- []
+",21504,"--- []
+",>= 2.4,var/eZny9JJHqsBcYrJ9GFtGia21tGZorcfZ5nJ50/A=,"""rubygems_mfa_required""=>""true""",>= 0,,4c98034ee93c080f52658e86803e7d59,,120919,0.3.85,,165238,ruby,fastlane-plugin-stream_actions-0.3.85,4kpoZVtQO7snKG9PHuflmQAWpVFfmQiitLXwKRW55Do=
+1900039,Tencent Cloud,"Tencent Cloud Ruby SDK is the official software development kit, which allows Ruby developers to write software that makes use of Tencent Cloud service AI3D.",3.0.1096,235904,2025-07-07 00:00:00,2025-07-07 11:31:31.123781,Tencent Cloud SDK for Ruby - AI3D,ruby,2025-07-07 11:31:30.424262,t,f,0,t,tencentcloud-sdk-ai3d-3.0.1096,"---
+- Apache-2.0
+",7680,"--- []
+",>= 0,ga7PaiH+T6m+PFhPif48J33zMUw0KTZzf3VLtv1ntAw=,"""changelog_uri""=>""https://github.com/TencentCloud/tencentcloud-sdk-ruby/blob/master/CHANGELOG.md"", ""source_code_uri""=>""https://github.com/TencentCloud/tencentcloud-sdk-ruby/tencentcloud-sdk-ai3d""",>= 0,,d74eb38ae11f92eb0906dc0f61584c66,,150749,3.0.1096,,160719,ruby,tencentcloud-sdk-ai3d-3.0.1096,RH6eBHmg31uep7yTjR8jjzBAYJY2OQELyxhS7fyncvc=
+1900040,Tencent Cloud,"Tencent Cloud Ruby SDK is the official software development kit, which allows Ruby developers to write software that makes use of Tencent Cloud service.",3.0.1096,200527,2025-07-07 00:00:00,2025-07-07 11:31:39.904263,Tencent Cloud SDK for Ruby - Common,ruby,2025-07-07 11:31:33.046807,t,f,0,t,tencentcloud-sdk-common-3.0.1096,"---
+- Apache-2.0
+",9728,"--- []
+",>= 0,3nUlg3PwQonsOMevUSkc3Ee5FpTycubgActkVA0wjK0=,"""changelog_uri""=>""https://github.com/TencentCloud/tencentcloud-sdk-ruby/blob/master/CHANGELOG.md"", ""source_code_uri""=>""https://github.com/TencentCloud/tencentcloud-sdk-ruby/tencentcloud-sdk-common""",>= 0,,e7898a837fabe0cd7037990e54128622,,150749,3.0.1096,,160719,ruby,tencentcloud-sdk-common-3.0.1096,3md8rZCyj9KIW9rp+taQSrkL1HtlbYuxq3dsVAMaCWQ=
+1900041,Tencent Cloud,"Tencent Cloud Ruby SDK is the official software development kit, which allows Ruby developers to write software that makes use of Tencent Cloud service CVM.",3.0.1096,203354,2025-07-07 00:00:00,2025-07-07 11:31:44.03093,Tencent Cloud SDK for Ruby - CVM,ruby,2025-07-07 11:31:41.96868,t,f,0,t,tencentcloud-sdk-cvm-3.0.1096,"---
+- Apache-2.0
+",100352,"--- []
+",>= 0,CYuTEQREJ7DMUX1h2qQH6olI9j7Yi10qGnJS2q5NkoA=,"""changelog_uri""=>""https://github.com/TencentCloud/tencentcloud-sdk-ruby/blob/master/CHANGELOG.md"", ""source_code_uri""=>""https://github.com/TencentCloud/tencentcloud-sdk-ruby/tencentcloud-sdk-cvm""",>= 0,,8957eca0af867e3b957e4003b2f7cca6,,150749,3.0.1096,,160719,ruby,tencentcloud-sdk-cvm-3.0.1096,gMVZklMnx8GRQ4pDCXG0MomXrENZWE+CV+Y2Urf1wII=
+1900042,Tencent Cloud,"Tencent Cloud Ruby SDK is the official software development kit, which allows Ruby developers to write software that makes use of Tencent Cloud service OCR.",3.0.1096,203680,2025-07-07 00:00:00,2025-07-07 11:31:48.227146,Tencent Cloud SDK for Ruby - OCR,ruby,2025-07-07 11:31:45.817881,t,f,0,t,tencentcloud-sdk-ocr-3.0.1096,"---
+- Apache-2.0
+",126976,"--- []
+",>= 0,OXmlvMTqWVadvZWzsei2Fu46cDthy11cLOv2vf50W+s=,"""changelog_uri""=>""https://github.com/TencentCloud/tencentcloud-sdk-ruby/blob/master/CHANGELOG.md"", ""source_code_uri""=>""https://github.com/TencentCloud/tencentcloud-sdk-ruby/tencentcloud-sdk-ocr""",>= 0,,6da451018a82beee65197d22fcce67b3,,150749,3.0.1096,,160719,ruby,tencentcloud-sdk-ocr-3.0.1096,OMekM2dwCzf/FSIIB5LUjpaOLc4mrjRye/sMMgYR11I=
+1900043,GetStream,,0.3.86,209349,2025-07-07 00:00:00,2025-07-07 11:37:08.886371,stream custom actions,ruby,2025-07-07 11:37:08.166413,t,f,0,t,fastlane-plugin-stream_actions-0.3.86,"--- []
+",21504,"--- []
+",>= 2.4,6PCUskacCw8jHb5JF+1d07+hY12vKJbI89O7zw6Y21w=,"""rubygems_mfa_required""=>""true""",>= 0,,f4a993a38046a7220b4aae628d7d4d3b,,120919,0.3.86,,165238,ruby,fastlane-plugin-stream_actions-0.3.86,q9Kwf6dxmYjYwwG0YtKTfVy4ZD8bHSJzVGM/YZEiBug=
+1900044,"Gáspár Nagy, Aslak Hellesøy, Steve Tooke",Gherkin parser,32.2.0,189113,1980-01-02 00:00:00,2025-07-07 11:37:28.911898,cucumber-gherkin-32.2.0,ruby,2025-07-07 11:37:28.235368,t,f,1,f,cucumber-gherkin-32.2.0,"---
+- MIT
+",32256,"--- []
+",>= 3.2,ozaZ076cf+G21KJsGqGBUPJ0qQyHGmvBgR1XlaUuStY=,"""changelog_uri""=>""https://github.com/cucumber/gherkin/blob/main/CHANGELOG.md"", ""bug_tracker_uri""=>""https://github.com/cucumber/gherkin/issues"", ""source_code_uri""=>""https://github.com/cucumber/gherkin/blob/main/ruby"", ""mailing_list_uri""=>""https://groups.google.com/forum/#!forum/cukes"", ""documentation_uri""=>""https://cucumber.io/docs/gherkin/""",>= 3.2.8,,87212cd7734e865dd7e1b1e45fed9dd9,,123382,32.2,,237808,ruby,cucumber-gherkin-32.2.0,7LmVf9rU7mLvWGGGr59l1rdpCOQAJ2BuyQsO3nKPMME=
+1900045,"Stephen MacVicar, Vanessa Fotso, Emily Michaud",DaVinci CRD Test Kit,0.12.2,230494,2025-07-07 00:00:00,2025-07-07 11:43:08.08321,DaVinci CRD Test Kit,ruby,2025-07-07 11:43:07.420902,t,f,0,t,davinci_crd_test_kit-0.12.2,"---
+- Apache-2.0
+",595456,"--- []
+",>= 3.3.6,qHWoDlUc55t3P7RzRUOcke7yMAfq4C0LkmVzGzbwAC4=,"""homepage_uri""=>""https://github.com/inferno-framework/davinci-crd-test-kit"", ""source_code_uri""=>""https://github.com/inferno-framework/davinci-crd-test-kit"", ""inferno_test_kit""=>""true""",>= 0,,021130ad6377db6abceced7f2f33281e,,157558,0.12.2,,167406,ruby,davinci_crd_test_kit-0.12.2,wkKJ8CMdcIgOO2zv4Ea3NL9YR9T5l67S1zCPoCnn/iU=
+1900046,Karl Naden,DaVinci Plan Net Test Kit,0.12.1,216489,2025-07-07 00:00:00,2025-07-07 11:44:37.688766,DaVinci Plan Net Test Kit,ruby,2025-07-07 11:44:37.034379,t,f,0,t,davinci_plan_net_test_kit-0.12.1,"---
+- Apache-2.0
+",493056,"--- []
+",>= 3.3.6,POTgW7mMtSskCMPpqfbsOcUyKwD2+3Mh9+BgKJDSVQY=,"""homepage_uri""=>""https://github.com/inferno-framework/davinci-plan-net-test-kit"", ""source_code_uri""=>""https://github.com/inferno-framework/davinci-plan-net-test-kit"", ""inferno_test_kit""=>""true""",>= 0,,ad80c860a158d78e73a74a24895043cd,,157558,0.12.1,,167406,ruby,davinci_plan_net_test_kit-0.12.1,jhactKv/nm0LMzPCDLzBCjUjnia24mF0PSV9E1bAJmM=
+1900047,Marten Veldthuis,,0.5.25,198386,2025-07-07 00:00:00,2025-07-07 11:54:53.691086,Quby::Compiler compiles a DSL for questionnaires to JSON,ruby,2025-07-07 11:54:52.651633,t,f,0,t,quby-compiler-0.5.25,"---
+- MIT
+",59392,"--- []
+",>= 2.3.0,dBwYOJJ2hTrOz/0CHXGIICMEY7Q66Y2ml13DG7f4uY0=,"""homepage_uri""=>""https://gitlab.roqua.nl/roqua/quby-compiler""",>= 0,,ddad8734a8b50866eeca4fa49c0979f6,,75512,0.5.25,,181955,ruby,quby-compiler-0.5.25,EBqeheSi1BSz4x//ILT2rPxcqCIchqhGmPTjCrlBZEw=
+1900048,"Renato ""Lond"" Cerqueira, David Moreno",Ruby's favorite feed auto-discovery tool,2.0.2,235898,1980-01-02 00:00:00,2025-07-07 12:07:04.919775,RSS/Atom feed auto-discovery tool,ruby,2025-07-07 12:07:04.318272,t,f,0,t,async-feedbag-2.0.2,"---
+- MIT
+",8704,"--- []
+",>= 3.2,8qbK3zMMn91gMLIJ59INGSaY9DkAg3CP7KZCcqoV0Xs=,"""rubygems_mfa_required""=>""true""",>= 0,,d34a4a410032c2c0bb76104f7f9f6785,,210156,2.0.2,,238656,ruby,async-feedbag-2.0.2,cneFAi20pJ0Og+QHTQPFfXChsmGIuiCa8N8EAYOSiWI=
+1900049,"Gáspár Nagy, Aslak Hellesøy, Steve Tooke",Gherkin parser,33.0.0,189113,1980-01-02 00:00:00,2025-07-07 12:10:38.296275,cucumber-gherkin-33.0.0,ruby,2025-07-07 12:10:37.558616,t,f,0,t,cucumber-gherkin-33.0.0,"---
+- MIT
+",32256,"--- []
+",>= 3.2,BPy81tiQRB1FbH3qZ1AIUfNn8hO9IDbI3lx16SwqYWU=,"""changelog_uri""=>""https://github.com/cucumber/gherkin/blob/main/CHANGELOG.md"", ""bug_tracker_uri""=>""https://github.com/cucumber/gherkin/issues"", ""source_code_uri""=>""https://github.com/cucumber/gherkin/blob/main/ruby"", ""mailing_list_uri""=>""https://groups.google.com/forum/#!forum/cukes"", ""documentation_uri""=>""https://cucumber.io/docs/gherkin/""",>= 3.2.8,,3ea8b5b15791f503bb44144b496f82eb,,123382,33,,237808,ruby,cucumber-gherkin-33.0.0,4cTKlziTqQ+mLycWzSLvhAIpL4WW7o4R+JyyAcNFMFU=
+1900050,Geir Isene,"A modern terminal interface to OpenAI with a full TUI using rcurses. Features include interactive chat mode, conversation history, model selection, and more. Version 2.1: Added chat scrolling with PgUp/PgDown, improved prompt styling, and latest conversations first.",2.1,210727,2025-07-07 00:00:00,2025-07-07 12:27:58.923365,openai is a terminal interface to the OpenAI solution at beta.openai.com,ruby,2025-07-07 12:27:58.055671,t,f,0,t,openai-term-2.1,"---
+- Unlicense
+",11776,"--- []
+",>= 0,+ODroGVGRs/X4c9A+lfaQWkoe6mcMmq1XsTos5RRxdY=,"""source_code_uri""=>""https://github.com/isene/openai""",>= 0,,bc53d758ef159b13631aaff36d2413f9,,161721,2.1,,168467,ruby,openai-term-2.1,AawXAMli/82uhykpiKFsM8zrxjYgB8YD8EKau1kxvSk=
+1900051,MHCLG Energy Performance of Buildings,,2.1.3,201958,2025-07-07 00:00:00,2025-07-07 12:46:55.810497,Library used to parse Energy Performance Certificates (EPC),ruby,2025-07-07 12:46:54.827464,t,f,0,t,epb_view_models-2.1.3,"---
+- MIT
+",3683328,"--- []
+",>= 3.1,WiEO9tN7Mcp474gyVWNfbx8lBkmazHzXwMlyUBRTJCY=,"",>= 0,,b3520618aac6ac8bffa7ecee54a14a5b,,170785,2.1.3,,168393,ruby,epb_view_models-2.1.3,iW+9qJj4HrAqzbyPv627A3TX/I0NDY0DHWjxFE9R74Y=
+1900052,Alexandr Bulancov,,0.4.0,234063,2025-07-07 00:00:00,2025-07-07 13:03:21.752525,A library to add together anything.,ruby,2025-07-07 13:03:21.133859,t,f,1,f,vector_number-0.4.0,"---
+- MIT
+",19968,"--- []
+",>= 3.1.0,jzgIBzJQBMtinHNOLRxTRf10iCtwBf4hPO8X+ZN/wCQ=,"""homepage_uri""=>""https://github.com/trinistr/vector_number"", ""changelog_uri""=>""https://github.com/trinistr/vector_number/blob/v0.4.0/CHANGELOG.md"", ""bug_tracker_uri""=>""https://github.com/trinistr/vector_number/issues"", ""source_code_uri""=>""https://github.com/trinistr/vector_number/tree/v0.4.0"", ""documentation_uri""=>""https://rubydoc.info/gems/vector_number/0.4.0"", ""rubygems_mfa_required""=>""true""",>= 0,,7f564c3c4ecf0a7ef57600145193742e,,223960,0.4,,233822,ruby,vector_number-0.4.0,M4RSWKxAXQZTwfjVyFVeT2XHB73l7hPOA02O4h5JfVA=
+1900053,WorkOS,API client for WorkOS,5.21.0,188530,2025-07-07 00:00:00,2025-07-07 13:15:40.16109,API client for WorkOS,ruby,2025-07-07 13:15:39.231659,t,f,0,t,workos-5.21.0,"---
+- MIT
+",127488,"--- []
+",>= 3.1,RVXeO/k59OEfYQoquRw/iguJ1GLiSnjNhjXUytJtCYQ=,"""documentation_uri""=>""https://docs.workos.com/sdk/ruby""",>= 0,,ee7b5506b3518fe7f3f12d161eb4b361,,142938,5.21,,142092,ruby,workos-5.21.0,u9W8ZRFyGK506KstDeeu1PbArGrfsuT3C12e+af8dOA=
+1900054,Jonny Burger,A Ruby SDK for Remotion Lambda,4.0.322,232777,2025-07-07 00:00:00,2025-07-07 13:17:32.973096,Remotion Lambda SDK,ruby,2025-07-07 13:17:32.230501,t,f,0,t,remotion_lambda-4.0.322,"---
+- MIT
+",7680,"--- []
+",>= 0,YJ5IGtqO8+lbjVkKjRi/JntWPZgtMfW7IDgafWrh+Kc=,"",>= 0,,66e14c13ae295ce519f8dbce7e321d01,,208754,4.0.322,,237049,ruby,remotion_lambda-4.0.322,CtGeC/iKPrvOuN9s9Z3XvZQ+Jc5msyCgLywzNTWLOWc=
+1900055,Linh Nguyen Quang,"Rails Validation API provides a powerful for validating request parameters in Rails applications. Features include automatic validator loading based on controller/action names, nested parameter validation, custom error handling, and seamless integration with Rails controllers through concerns. Perfect for API applications requiring robust parameter validation with minimal boilerplate code.",1.3.0,235861,2025-07-07 00:00:00,2025-07-07 13:31:42.532091,Enhanced parameter validation system for Rails APIs with automatic controller integration,ruby,2025-07-07 13:31:41.891178,t,f,1,f,rails_validation_api-1.3.0,"---
+- MIT
+",8192,"--- []
+",>= 0,Mhx5XSGG6M4vykRuDDmaIKx27Omu839PKz0NxGLkd2c=,"""funding_uri""=>""https://www.buymeacoffee.com/linh236"", ""homepage_uri""=>""https://github.com/linhnq-cs/rails_vailidation_api"", ""bug_tracker_uri""=>""https://github.com/linhnq-cs/rails_vailidation_api/issues"", ""source_code_uri""=>""https://github.com/linhnq-cs/rails_validation_api""",>= 0,,6f720dae345ef0f06b1ab673ee246703,,170730,1.3,,238584,ruby,rails_validation_api-1.3.0,pSWCLMuu5uAeQEayqcUXGbNI7lcVf0ZmHzj0IpIbdDA=
+1900056,Linh Nguyen Quang,"Rails Validation API provides a powerful for validating request parameters in Rails applications. Features include automatic validator loading based on controller/action names, nested parameter validation, custom error handling, and seamless integration with Rails controllers through concerns. Perfect for API applications requiring robust parameter validation with minimal boilerplate code.",1.3.1,235861,2025-07-07 00:00:00,2025-07-07 13:33:58.597163,Enhanced parameter validation system for Rails APIs with automatic controller integration,ruby,2025-07-07 13:33:58.007739,t,f,0,t,rails_validation_api-1.3.1,"---
+- MIT
+",8192,"--- []
+",>= 0,4NaOh+a1klqrnzsCngkwjv8ay35svVS7cnHc3sxRqHs=,"""funding_uri""=>""https://www.buymeacoffee.com/linh236"", ""bug_tracker_uri""=>""https://github.com/linhnq-cs/rails_vailidation_api/issues""",>= 0,,1fdaf36d3917216f7d7fea9717283a2a,,170730,1.3.1,,238584,ruby,rails_validation_api-1.3.1,LJu9LGJ5P03+l+yL0txOjQzfN78KYVUAcJgqN88ON8M=
+1900057,Brands Insurance,,2.0.0,214104,2025-07-07 00:00:00,2025-07-07 13:37:15.536674,DL# Format validator,ruby,2025-07-07 13:37:14.797858,t,f,0,t,license-validator-2.0.0,"---
+- MIT
+",12288,"--- []
+",>= 3.1.0,LbhEtdjhNfzHnqdRQwwLXzRWNasbrdQuCZxzELps7Kk=,"""homepage_uri""=>""https://github.com/brandsinsurance/license-validator/"", ""changelog_uri""=>""https://github.com/brandsinsurance/license-validator/blob/main/CHANGELOG.adoc"", ""source_code_uri""=>""https://github.com/brandsinsurance/license-validator"", ""rubygems_mfa_required""=>""true""",>= 0,,80787d8dd97112a74cba832f48d1d6af,,175637,2,,174215,ruby,license-validator-2.0.0,WD8oE4R/vc27f5ylQFvQnGt4nfPw589aUKQeTomuVMM=
+1900058,Samuel Volin,Fast open source i18n plugin for Jekyll blogs.,1.10.0,133555,2025-07-07 00:00:00,2025-07-07 13:37:36.934454,I18n plugin for Jekyll Blogs,ruby,2025-07-07 13:37:36.304105,t,f,0,t,jekyll-polyglot-1.10.0,"---
+- MIT
+",16896,"--- []
+",>= 3.1.0,CAGXXrXvccE/fKKmKugW/h1osxcAgCExcQ5GlVWrwtM=,"""rubygems_mfa_required""=>""true""",>= 3.1.0,,0062a9300f1effc089b4703d72043d33,,94273,1.10,,169275,ruby,jekyll-polyglot-1.10.0,o6nDRoMahFzrN2OnMm+X4ZN2nF1IP4sd9XNoi+OoVkE=
+1900059,"Paul Lewis, David Sambucci, Shaun Beynon-Thomas",Generates fake application data that can be used in testing,5.1.5,235905,2025-07-07 00:00:00,2025-07-07 13:40:54.086121,Gem to generate and submit application data,ruby,2025-07-07 13:40:53.361269,t,f,0,t,dvla-application_helper-5.1.5,"---
+- MIT
+",1510912,"--- []
+",~> 3.0,dXYv7FbUVlZdB4IMtdyxP8lIRZCGGJ0loG3imN4qApg=,"""homepage_uri""=>""https://www.dvla.gov.uk""",>= 0,,7c8ba425e0b945daa0b07fa276b96158,,236171,5.1.5,,238661,ruby,dvla-application_helper-5.1.5,gY1YeprJaKqa7jwhGicfsr5Q4LpKVBcd5q4vSE8pZh8=
+1900060,Hisafumi Kikkawa,"A Ruby library for easily using Perplexity AI's API. Allows setting API keys, selecting models, and customizing options.",0.4.0,234472,2025-07-07 00:00:00,2025-07-07 14:00:41.83035,Ruby wrapper for Perplexity API,ruby,2025-07-07 14:00:41.240214,t,f,1,f,perplexity_api-0.4.0,"---
+- MIT
+",15872,"--- []
+",>= 3.1.0,MU2efCfIxs+pR0MGiXQUx3aIEnlnD5D1CbqxFI5u+2w=,"""homepage_uri""=>""https://github.com/hisafumi-kikkawa/perplexity_api"", ""changelog_uri""=>""https://github.com/hisafumi-kikkawa/perplexity_api/blob/master/CHANGELOG.md"", ""source_code_uri""=>""https://github.com/hisafumi-kikkawa/perplexity_api"", ""allowed_push_host""=>""https://rubygems.org""",>= 0,,77569f9eda329136589a4b25bd0ffce1,,149468,0.4,,238662,ruby,perplexity_api-0.4.0,tv2Ktr8cZjyqo23KLcQMnCAWNzR7G/U6r1QDSTY7LVk=
+1900061,leavez,"integrate pods in form of prebuilt frameworks conveniently, reducing compile time",0.0.16,235840,1980-01-02 00:00:00,2025-07-07 14:16:56.335208,"A CocoaPods plugin to integrate pods in form of prebuilt frameworks, not source code, by adding just one flag in podfile. Speed up compiling dramatically.",ruby,2025-07-07 14:16:55.744606,t,f,0,t,cocoapods-binary-matchup-0.0.16,"---
+- MIT
+",26624,"--- []
+",>= 0,5DfU+96WSNDt01RaUGeEyPgaCyHD3N8ljsjQ9+JLi70=,"",>= 0,,ff1f7dca635c45a9996ffd72359cf9f2,,236080,0.0.16,,238497,ruby,cocoapods-binary-matchup-0.0.16,5QM+wpQyjPbqMQ+Y08zPjB83eeXwqS2FnLi9Vkj91Cs=
+1900062,Vendo Connect Inc.,,1.2.5,234567,2025-07-07 00:00:00,2025-07-07 14:19:01.881973,Official Spree Commerce Stripe payment gateway extension,ruby,2025-07-07 14:19:01.255977,t,f,0,t,spree_stripe-1.2.5,"---
+- AGPL-3.0-or-later
+",38400,"---
+- none
+",>= 3.0,FuFf8RnwE4v9+k2hiotClA7rDhzMlacY1oJSYrw31M8=,"",>= 0,,b3e51a9dbae5139e4e69429d19876515,,97573,1.2.5,,161406,ruby,spree_stripe-1.2.5,TNo+XMXzsFKsl7pD0MZ3f2x7+9ZGEjcjmM9x9xpjmQA=
+1900063,Szymon Kopciewski,Micro-framework for building applications with data-driven architecture,1.0.0,235906,1980-01-02 00:00:00,2025-07-07 14:24:50.597947,Micro-framework for building applications with data-driven architecture,ruby,2025-07-07 14:24:49.853002,t,f,0,t,piko-tools-1.0.0,"---
+- GPL-3.0
+",17920,"--- []
+",>= 3.2,+ux+/IKo39EoCMP4rwy/IvE1amHPcRJJEqB+mgxIuUg=,"",>= 0,,7e0f73a3f6f3cd149e7443fc4cbd5e77,,86278,1,,185350,ruby,piko-tools-1.0.0,9XknjKKK/ItVs0wX3ZGbkm1UL+PIOwy6VXaDEtNGchI=
+1900064,Patrick Vice,"A Ruby client for the Model Context Protocol (MCP) that seamlessly integrates with RubyLLM.
+Connect to MCP servers via SSE or stdio transports, automatically convert MCP tools into
+RubyLLM-compatible tools, and enable AI models to interact with external data sources and
+services. Makes using MCP with RubyLLM as easy as possible.
+",0.5.0,235276,2025-07-07 00:00:00,2025-07-07 14:24:54.550801,A RubyLLM MCP Client,ruby,2025-07-07 14:24:53.260453,t,f,0,t,ruby_llm-mcp-0.5.0,"---
+- MIT
+",34816,"--- []
+",>= 3.1.3,5M2l/9SjE11EvdHW28nBuPp7t0un8wgfFbQGXOFCNtk=,"""homepage_uri""=>""https://github.com/patvice/ruby_llm-mcp"", ""changelog_uri""=>""https://github.com/patvice/ruby_llm-mcp/commits/main"", ""bug_tracker_uri""=>""https://github.com/patvice/ruby_llm-mcp/issues"", ""source_code_uri""=>""https://github.com/patvice/ruby_llm-mcp"", ""allowed_push_host""=>""https://rubygems.org"", ""documentation_uri""=>""https://github.com/patvice/ruby_llm-mcp"", ""rubygems_mfa_required""=>""true""",>= 0,,8092fc7bd65aa08686c51846ec6599dd,,83758,0.5,,236884,ruby,ruby_llm-mcp-0.5.0,azQ57djrc/6JWPIJJZZMHGPYm2U0evnlLP24DjqAgc0=
+1900065,CyberArk Maintainers,Conjur API,6.0.1.pre.481,73809,2025-07-07 00:00:00,2025-07-07 14:25:52.224139,Conjur API,ruby,2025-07-07 14:25:51.269123,t,t,0,f,conjur-api-6.0.1.pre.481,"---
+- Apache-2.0
+",92672,"--- []
+",>= 1.9,S6UZ8fxOXRrZ2lDwmRG1wHssZ4ihgOnd0SKs7Jumwp8=,"",> 1.3.1,,5ccc36053aab20b965a38b6c5861ce04,,82908,6.0.1.pre.481,,82544,ruby,conjur-api-6.0.1.pre.481,Ul5q+hWBY13e3e3a2tIr+vVJsxoWGNljDzTvoy6L8U0=
+1900066,OpenAPI-Generator,"Fetch, Upload, Organize, and Distribute Software Packages",3.31.1,184270,2025-07-07 00:00:00,2025-07-07 14:29:39.194806,Pulp 3 API Ruby Gem,ruby,2025-07-07 14:29:36.772774,t,f,0,t,pulp_rpm_client-3.31.1,"---
+- GPLv2+
+",161792,"--- []
+",>= 2.7,sfvGEKHkBjFtca0pmy1rcDb7wuplR1vigYbrbfXYeYk=,"",>= 0,,d9ff3a2b0e34ec19cc16d22a8eae51e8,,137992,3.31.1,,137193,ruby,pulp_rpm_client-3.31.1,9UXw8aACBxD1oLQMHjhz8yGVD6IBBnwbnV8s5C5GMPg=
+1900067,Titus Johnson,Alula Ruby API Client,2.19.0,205934,2025-07-07 00:00:00,2025-07-07 14:31:40.537166,Ruby bindings for the Alula API,ruby,2025-07-07 14:31:39.453034,t,f,0,t,alula-ruby-2.19.0,"--- []
+",130560,"--- []
+",>= 3.3.0,32OHpPeWamA0faBQv8yVhUaH8oBNbpReeXp3bxZpQbg=,"",>= 0,,5caefbf3b982c5b073687f7b45dc1fba,,167831,2.19,,164436,ruby,alula-ruby-2.19.0,vndfGihnbyhucRLLcOqNatfh5UU56HYfftnykB9D5vc=
+1900068,Abdelkader Boudih,"It offers base classes and helpers for creating MCP applications, making it easier to integrate your Ruby/Rails application with the MCP standard",0.70.0,233892,1980-01-02 00:00:00,2025-07-07 14:33:29.639897,Provides essential tooling for building Model Context Protocol (MCP) capable servers,ruby,2025-07-07 14:33:28.828012,t,f,0,t,actionmcp-0.70.0,"---
+- MIT
+",114688,"--- []
+",>= 0,2UB54tdky4juo/Q8JJgg76KVI4r8skYKkNFkI3yFUiE=,"""homepage_uri""=>""https://github.com/seuros/action_mcp"", ""changelog_uri""=>""https://github.com/seuros/action_mcp/blob/master/CHANGELOG.md"", ""source_code_uri""=>""https://github.com/seuros/action_mcp"", ""rubygems_mfa_required""=>""true""",>= 0,,54cef8e5de692c086a41ab775113d9ce,,27590,0.70,,176886,ruby,actionmcp-0.70.0,XuS2jfuJdbr6WMaPpTxYnLGyfknkJKoJKFXOHSvgGJM=
+1900069,Delightech,"A Ruby library for easily using Perplexity AI's API. Allows setting API keys, selecting models, and customizing options.",0.4.1,234472,1980-01-02 00:00:00,2025-07-07 14:57:45.84666,Ruby wrapper for Perplexity API,ruby,2025-07-07 14:57:45.171681,t,f,0,t,perplexity_api-0.4.1,"---
+- MIT
+",15360,"--- []
+",>= 3.1.0,pzysD63W8LnCaQioE6zrlPl3VQ+WS2QPTO8dbqQSU/A=,"""homepage_uri""=>""https://github.com/delightech/perplexity_api"", ""changelog_uri""=>""https://github.com/delightech/perplexity_api/blob/main/CHANGELOG.md"", ""source_code_uri""=>""https://github.com/delightech/perplexity_api"", ""allowed_push_host""=>""https://rubygems.org""",>= 0,,6a46bf5fdcc87392fb142bee90328d12,,149468,0.4.1,,238664,ruby,perplexity_api-0.4.1,iq37xQskfV/Avmy4rhLv2UwvDsD5qa1e9/SqqhTBEFg=
+1900070,Tobias Svensson,Opinionated presenters for Rails 5 - without the cruft,0.3.2,216041,1980-01-02 00:00:00,2025-07-07 15:02:30.697834,Opinionated presenters for Rails 5 - without the cruft,ruby,2025-07-07 15:02:29.997685,t,f,0,t,detaso-oprah-0.3.2,"---
+- MIT
+",17408,"--- []
+",>= 0,+MSsah5RHTuUjB80fKCfKi66t1g3eqY5CrYd+x+JVUI=,"",>= 0,,e47127d6c757faae571d4a5feb8d27c3,,,0.3.2,,238666,ruby,detaso-oprah-0.3.2,KrnQ/0qFKrnei0cwcPgRCkpcEYrjmIrlz/qLsqfpCgg=
+1900071,Bernd Ahlers,A tool for building software packages with fpm.,0.38.0,47483,2025-07-07 00:00:00,2025-07-07 15:12:17.8048,A tool for building software packages with fpm.,ruby,2025-07-07 15:12:16.90158,t,f,0,t,fpm-cookery-0.38.0,"--- []
+",72704,"--- []
+",>= 0,OjGfS7xIpL/36tVgSZMmZCMP18O874yqMdrc+LCBNTQ=,"",>= 0,,fb54764c9036d2135bb36ce7b405e2a2,,43403,0.38,,238665,ruby,fpm-cookery-0.38.0,g5sHfXU/DbOXPbyAFAJnvK4IBQMcWY6O3YVRLoWi5Qw=
+1900072,Subin T P,Multiwoven Integrations is a comprehensive Ruby gem designed to facilitate seamless connectivity between various data sources and SaaS platforms.,0.30.5,215808,2025-07-07 00:00:00,2025-07-07 15:13:44.376041,Integration suite for open source reverse ETL platform,ruby,2025-07-07 15:13:42.858618,t,f,0,t,multiwoven-integrations-0.30.5,"---
+- MIT
+",182784,"--- []
+",>= 2.6.0,5EdX4MdO0btiQfAgRZM3lw0wi6ckqbMxQCOki1gADV4=,"""github_repo""=>""https://github.com/Multiwoven/multiwoven"", ""homepage_uri""=>""https://www.multiwoven.com/"", ""changelog_uri""=>""https://github.com/Multiwoven/multiwoven/blob/main/integrations/CHANGELOG.md"", ""source_code_uri""=>""https://github.com/Multiwoven/multiwoven/tree/main/integrations""",>= 0,,b79f7b879b3339da88446361d8166726,,186650,0.30.5,,188569,ruby,multiwoven-integrations-0.30.5,SiBuhoTogx196Uphg3WiUZkIAn0Z7N+rBsCiRUDoNmk=
+1900073,healthfinch,Provides a simple interface to the Allscripts Unity API using JSON. Developed at healthfinch by Health Catalyst https://healthcatalyst.com,7.0.0,87132,2025-07-07 00:00:00,2025-07-07 15:20:28.475856,Allscripts Unity API client,ruby,2025-07-07 15:20:27.65878,t,f,0,t,allscripts_unity_client-7.0.0,"---
+- MIT
+",15360,"--- []
+",>= 3.3.5,CHYMvCFTaPCBNZWAhjqpF18Ge2NvBcvCmTeAs3EbZ70=,"",>= 0,,fb7d02bb73a9c483ceae17cda0446592,,83949,7,,173833,ruby,allscripts_unity_client-7.0.0,FJaAwSixgBOLaYG24iDSqekbikXfMgbpl/ebXZ+So1o=
+1900074,Mezbah Alam,PgInsights provides a plug-and-play insights dashboard for analyzing PostgreSQL performance and query data inside any Rails application.,0.3.0,235791,2025-07-07 00:00:00,2025-07-07 15:21:25.422053,PostgreSQL insights dashboard engine for Rails applications.,ruby,2025-07-07 15:21:24.726327,t,f,0,t,pg_insights-0.3.0,"---
+- MIT
+",60928,"--- []
+",>= 0,fn2cxNVFEf0wScUCz28KOMPVlXB3k4rRAigosNQgCr0=,"""homepage_uri""=>""https://github.com/mezbahalam/pg_insights"", ""changelog_uri""=>""https://github.com/mezbahalam/pg_insights/blob/main/CHANGELOG.md"", ""source_code_uri""=>""https://github.com/mezbahalam/pg_insights""",>= 0,,8fb09a2590f19f0af7f113ae61c58046,,72261,0.3,,192478,ruby,pg_insights-0.3.0,zXwOt12R8JkSBOfLzVQ8JzdboyAGfL25/44lw7GDngQ=
+1900075,a-chacon,"OasCore simplifies API documentation by automatically generating OpenAPI Specification (OAS 3.1) documents from your Ruby application routes. It eliminates the need for manual documentation, ensuring accuracy and consistency.",1.1.0,235404,1980-01-02 00:00:00,2025-07-07 15:27:12.094501,Generates OpenAPI Specification (OAS) documents by analyzing and extracting routes from Rails applications.,ruby,2025-07-07 15:27:11.493027,t,f,0,t,oas_core-1.1.0,"---
+- GPL-3.0-only
+",19456,"--- []
+",>= 3.1,MwF9bth2BWMlgufpxkVfzWYlEvh01uNPjiYfxcrWZDA=,"""homepage_uri""=>""https://github.com/a-chacon/oas_core"", ""changelog_uri""=>""https://github.com/a-chacon/oas_core/blob/main/CHANGELOG.md"", ""source_code_uri""=>""https://github.com/a-chacon/oas_core"", ""rubygems_mfa_required""=>""true""",>= 0,,ebff56638276072cddae194b4e930906,,,1.1,,238667,ruby,oas_core-1.1.0,wTC4Gp+x0xpZIsov9jWQuIthdb8EAdGKwgr7nFFBHbc=
+1900076,Jason Colyer,GitLab gem of GitLab Customer Support Operations,1.0.0,235907,2025-07-07 00:00:00,2025-07-07 15:28:33.082801,GitLab Customer Support Operations > GitLab,ruby,2025-07-07 15:28:32.356031,t,f,0,t,gitlab-customer-support-operations_gitlab-1.0.0,"---
+- MIT
+",48128,"--- []
+",= 3.2.2,/78JNSL8XFUr4FnsR2oknzwSvPZlf2rtIGi74ppwbdg=,"""bug_tracker_uri""=>""https://gitlab.com/reyloc/gitlab-customer-support-operations_gitlab/-/issues"", ""documentation_uri""=>""https://reyloc.gitlab.io/gitlab-customer-support-operations_gitlab/""",>= 0,,0fc1d56cd97e0224a9689d2f05650391,,78332,1,,228938,ruby,gitlab-customer-support-operations_gitlab-1.0.0,oLxKHu5XSU26844Lghjj8bmXP6psg87JNNERiL3H5Pk=
+1900077,akiraNuma,"This is a Ruby interface for multiple LLM providers, such as OpenAI, Anthropic, DeepSeek, and Google Gemini.It provides easy access to Completion and Embedding functionalities.",0.3.0,235366,2025-07-07 00:00:00,2025-07-07 15:36:32.257757,"This is a Ruby interface for multiple LLM providers, such as OpenAI, Anthropic, DeepSeek, and Google Gemini.",ruby,2025-07-07 15:36:31.616777,t,f,1,f,llm_hub-0.3.0,"---
+- MIT
+",10752,"--- []
+",>= 3.1.0,j1nXIuakHkAo0Hj1pQNGNcALNYclINzAYmlxxzDAIQo=,"""homepage_uri""=>""https://github.com/akiraNuma/llm_hub"", ""changelog_uri""=>""https://github.com/akiraNuma/llm_hub/blob/main/CHANGELOG.md"", ""source_code_uri""=>""https://github.com/akiraNuma/llm_hub"", ""allowed_push_host""=>""https://rubygems.org"", ""rubygems_mfa_required""=>""true""",>= 0,,27740b680a04233bbc3cb98614a1663a,,187758,0.3,,185989,ruby,llm_hub-0.3.0,ZApjmgdEaZmHdfpcQS4z+Mg6E+FFMTjpmRNzRH0Bivc=
+1900078,Oliver Valls,Articulates the collective action of diverse actors in order to address shared challenges and the problems that derive from them across the territory.,0.6.0,233675,2025-07-07 00:00:00,2025-07-07 15:39:14.520221,A decidim challenges module,ruby,2025-07-07 15:39:13.929282,t,f,0,t,decidim-challenges-0.6.0,"---
+- AGPL-3.0
+",233472,"--- []
+",>= 3.1.1,nXI+EiND0K+enEnvKyl0LHgVtOrE570wEO9B/5vsI50=,"""rubygems_mfa_required""=>""true""",>= 0,,7c058c2437eb04b913469415069e1013,,81432,0.6,,222991,ruby,decidim-challenges-0.6.0,0dMvHqXlL/wrmg5BEB5sd0+zpJU858iBVY2KQa0yGYc=
+1900079,Stephen MacVicar,US Core Inferno tests,0.11.6,205617,2025-07-07 00:00:00,2025-07-07 15:45:51.847227,US Core Inferno tests,ruby,2025-07-07 15:45:50.971023,t,f,0,t,us_core_test_kit-0.11.6,"---
+- Apache-2.0
+",10648064,"--- []
+",>= 3.3.6,Gy+tFsqndWiERmncJ6Y5JxVuOfGNuW14gbaP57nwk20=,"""homepage_uri""=>""https://github.com/inferno-framework/us-core-test-kit"", ""source_code_uri""=>""https://github.com/inferno-framework/us-core-test-kit"", ""inferno_test_kit""=>""true""",>= 0,,922d8d3ddcb816bba9223efe3afff19b,,199424,0.11.6,,213004,ruby,us_core_test_kit-0.11.6,PwROmG7v+Sxai7wtqiqpkZi9C3ZIBDuT4C0E9mrRKlQ=
+1900080,Jan Grodowski,,0.7.2,173214,2025-07-07 00:00:00,2025-07-07 15:54:42.950392,Actionable code coverage - detects untested code blocks in recent changes,ruby,2025-07-07 15:54:36.765546,t,f,0,t,undercover-0.7.2,"---
+- MIT
+",2845184,"--- []
+",>= 3.0.0,9sQwrcID4rGhv5Ac1dfamO4udnFgkTWAsQkC/2hIirU=,"""rubygems_mfa_required""=>""true""",>= 0,,8b970b6fc0acc055b0d87a4fed36d0b8,,104651,0.7.2,,167807,ruby,undercover-0.7.2,FIQvUU2dzuBEE8kPA2O8kNPyGSqFCQ9uZpyQEwaNav0=
+1900081,"Karl Naden, Shaumik Ashraf, Diego Griese",Test Kit for the Da Vinci Payer Data Exchange (PDex) FHIR Implementation Guide,0.12.2,230496,2025-07-07 00:00:00,2025-07-07 15:57:32.537987,Da Vinci PDex Test Kit,ruby,2025-07-07 15:57:26.035799,t,f,0,t,davinci_pdex_test_kit-0.12.2,"---
+- Apache-2.0
+",1053184,"--- []
+",>= 3.3.6,FxO4aBTjfJhdMbNBdnvjsLdZf7YQUKpexi9GzLjlmMI=,"""homepage_uri""=>""https://github.com/inferno-framework/davinci-pdex-test-kit/"", ""source_code_uri""=>""https://github.com/inferno-framework/davinci-pdex-test-kit/"", ""inferno_test_kit""=>""true""",>= 0,,28acbe326f86d3bd3e72924d4e614fdd,,157558,0.12.2,,167406,ruby,davinci_pdex_test_kit-0.12.2,3U3nZoyi8WRK7S0nYvA7kAdIAqSEaGgtYugkMfDNSdM=
+1900082,Eustaquio Rangel,"Check all the repository files lines dates and group it by year and month, allowing check how old code is still in use",0.2.0,208457,2025-07-07 00:00:00,2025-07-07 16:04:24.375138,Create a CSV file with line year and month from your Git repository,ruby,2025-07-07 16:04:21.31877,t,f,0,t,git-age-0.2.0,"--- []
+",47104,"--- []
+",>= 2.3.0,p9yBqQK9bug4WriZ7BJ6WAPkikJLS5aI8ruvb1ixvl4=,"""homepage_uri""=>""https://github.com/taq/git-age"", ""source_code_uri""=>""https://github.com/taq/git-age""",>= 0,,f778c7a8d2bb899a7c90dacac536f08c,,1177,0.2,"-----BEGIN CERTIFICATE-----
+MIIEhTCCAu2gAwIBAgIBATANBgkqhkiG9w0BAQsFADBEMQwwCgYDVQQDDAN0YXEx
+HzAdBgoJkiaJk/IsZAEZFg9ldXN0YXF1aW9yYW5nZWwxEzARBgoJkiaJk/IsZAEZ
+FgNjb20wHhcNMjUwNzAzMTEwNTQ0WhcNMjYwNzAzMTEwNTQ0WjBEMQwwCgYDVQQD
+DAN0YXExHzAdBgoJkiaJk/IsZAEZFg9ldXN0YXF1aW9yYW5nZWwxEzARBgoJkiaJ
+k/IsZAEZFgNjb20wggGiMA0GCSqGSIb3DQEBAQUAA4IBjwAwggGKAoIBgQDFGxrA
+XFlGTCSYCq7I3wSXk7s7MzobHtkBkPMllpy7GP1Fm+GCnBzKf8ydRCbrLTXJT1sj
+9pkRbUejqTuMpJIVkOBcDKOfi6q/giT+zsUeJFHM0frGE+Eou7fmu4R8b11HLV66
+kdxpKLDEMikmiXt8slncXJtzrHXdwTGBOTcXq7zOcHCpJF+suk+v4/6voAxLchab
+WTl5toZyDySurazkd5IkMYvnE9QbGvy2s7A97dUORiAfr9P+DyLUFcg8OykJcNla
+Jn1ai1BSGCopl7s1zuxTUJkKIKx9emSVC5bHKz1LLL9v4D26UumXfz+3eZSw5Uw1
+WWD7fDSm4eVJ0Nv9RpE/GCEKymQaxrMF0FClUmaWQqFue5rC5sd3GDKkED09kJfh
+y6QtcfmgDQFn9Fw0Xjjr/5Z+Oe/YjySixPrsvPJtJsNPrA+JJpVAWXFteFVsjjgt
+rVPQ+VOJ1/WuSjfHHMFrdQ03NgaQv8cGEFLC2nfYV87FxxYIfx7HQ8nEHeMCAwEA
+AaOBgTB/MAkGA1UdEwQCMAAwCwYDVR0PBAQDAgSwMB0GA1UdDgQWBBQq3/CFnxue
+ZKkpgoKtsqcQ1Tp30TAiBgNVHREEGzAZgRd0YXFAZXVzdGFxdWlvcmFuZ2VsLmNv
+bTAiBgNVHRIEGzAZgRd0YXFAZXVzdGFxdWlvcmFuZ2VsLmNvbTANBgkqhkiG9w0B
+AQsFAAOCAYEAKHqAxMgi8vdeI8u9Uc6u460DLvBCI38xSdo9i3BX8ZnIXlAuaYTG
+W+hQc+BMAnTHOxicz93ItVAK8bGhLkJeqI6H0uVvDkANLAGRIXQSt/xj3Jnmy9tL
+LEezYG53xST2riT4CHrJl9rXiyZZ8Q4AsrESDQ3caWAj2hLcrqE6NFQcV1At1lIy
+7fl+8gObBLn2u6qm/KrkYS8E42j4pDeZdkr7KG3Fm5QE3pJcb0M+bkapFaacSuCR
+6oRkinhNhcmNFnY4CWT9+UYVw7kZ/MB4PkiyDun0wwhKTIz6FcKEUZcD28+LJZhf
+gH3nTc+lYcGf2ogfyI8zb2RD+IaTjPEZlz8Jb3SQ5xEebaHVIw1G8O2W7aVFv3Yx
+ipay7GJOMMX24H8Cuwab6VR+XDmac11TWqxdxgMrnX/iEbFOvm4ATx4ex3WujfDg
+t1N168XKmHLf0EONA7w6EVUkkgqBUODRq63vRithFLB3LTCzspKFG2ZkVYrNJGFP
+z6BoxQhjecS+
+-----END CERTIFICATE-----
+",1167,ruby,git-age-0.2.0,dkak1fo42+XG9IwYoJYIKCSBsVejLEO5LeeRYxLz4kc=
+1900083,"Alexander Repnikov, Eloy Rojas Bartolomé",Provides an interface to fetch NUTS numbers (Nomenclature of territorial units for statistics),0.1.0.alpha,235908,1980-01-02 00:00:00,2025-07-07 16:08:26.181256,Provides an interface to fetch NUTS numbers (Nomenclature of territorial units for statistics),ruby,2025-07-07 16:08:25.555241,t,t,0,f,ar-eurostat-nuts-0.1.0.alpha,"---
+- MIT
+",8192,"--- []
+",>= 2.7.0,z43ItgbcmIqin7Wzd3hRJnogvL1ou0DL7hJKSevk6zU=,"",>= 0,,f07ac87793bed0a6c667e3513e991f74,,190664,0.1.alpha,,238668,ruby,ar-eurostat-nuts-0.1.0.alpha,GK2P9YXz5m6PXNkqafKCZ9ACkL1Z9e6aPjKg9fyLdwQ=
+1900084,Espago,"Gem containing the `.rubocop.yml` config used
+in Espago's projects
+",1.1.9,208800,1980-01-02 00:00:00,2025-07-07 16:21:31.182012,Espago's rubocop config,ruby,2025-07-07 16:21:30.411005,t,f,0,t,rubocop-espago-1.1.9,"---
+- MIT
+",6144,"--- []
+",>= 3.0.0,glA/FWXxSoXRn9PPlX2tk7L5Uy713OzR9ZuysSRPYsY=,"""source_code_uri""=>""https://github.com/espago/rubocop-espago"", ""allowed_push_host""=>""https://rubygems.org"", ""rubygems_mfa_required""=>""true""",>= 0,,20c5497d1eeaeb7e44cf98dcdd21b7e1,,145341,1.1.9,,238230,ruby,rubocop-espago-1.1.9,v3ASHK3KGo7hsI5dAUVueJhh8k4absoGqVHQRplHipI=
+1900085,Bill McKinnon,Download market data from Yahoo! Finance's API,0.4.1,231587,2025-07-07 00:00:00,2025-07-07 16:22:09.325701,A shameless port of python's yfinance module to ruby,ruby,2025-07-07 16:22:08.466344,t,f,1,f,yf_as_dataframe-0.4.1,"---
+- MIT
+",103936,"--- []
+",>= 3.0.0,hXEiZND3X1vMW0l6JDR+62tgZCPVPG+Bz9G77BIR4mU=,"""homepage_uri""=>""https://www.github.com/bmck/yf_as_dataframe"", ""changelog_uri""=>""https://github.com/bmck/yf_as_dataframe/CHANGELOG.rst"", ""source_code_uri""=>""https://github.com/bmck/yf_as_dataframe""",>= 0,,f54827e91b469b1bf1802be430302d20,,48174,0.4.1,,191684,ruby,yf_as_dataframe-0.4.1,ITxob+PkrosLI/k9ln2XQvGmHJdjnWb3kIQX41tnRjg=
+1900086,Marius Bobin,,0.2.3,211702,2025-07-07 00:00:00,2025-07-07 16:27:26.905876,Deployment wrapper around docker-compose and SSH Kit,ruby,2025-07-07 16:27:26.238351,t,f,0,t,shippy-0.2.3,"---
+- MIT
+",13312,"--- []
+",>= 3.0.0,6qJM5LR40ULHWwq2vw5sZulX0DkakguRQqO/7cNzIU4=,"""homepage_uri""=>""https://mbobin.me/shippy"", ""source_code_uri""=>""https://mbobin.me/shippy"", ""allowed_push_host""=>""https://rubygems.org""",>= 0,,e04e354a3b81a5f020122d1bffd216b0,,108004,0.2.3,,232705,ruby,shippy-0.2.3,w/AXA5TfQoxw1vhwoLt9JrGa4uywmMHA/em7K/0CCJo=
+1900087,akiraNuma,A Ruby interface for multiple LLM providers.It provides easy access to Completion and Embedding functionalities.,0.3.1,235366,2025-07-07 00:00:00,2025-07-07 16:29:53.302051,A Ruby interface for multiple LLM providers.,ruby,2025-07-07 16:29:52.524115,t,f,0,t,llm_hub-0.3.1,"---
+- MIT
+",10752,"--- []
+",>= 3.1.0,ECtRJwOWPF2DFJPeoXjV48MlZugniFNTHkKh/M7E9fw=,"""homepage_uri""=>""https://github.com/akiraNuma/llm_hub"", ""changelog_uri""=>""https://github.com/akiraNuma/llm_hub/blob/main/CHANGELOG.md"", ""source_code_uri""=>""https://github.com/akiraNuma/llm_hub"", ""allowed_push_host""=>""https://rubygems.org"", ""rubygems_mfa_required""=>""true""",>= 0,,0358cd1de47d058a72967bc3777bd09d,,187758,0.3.1,,185989,ruby,llm_hub-0.3.1,qQJvvPhiclcpTZ/LTPvPPMLmdzmQVwWJibmG5YV/QJw=
+1900088,Svix,Svix makes webhooks easy and reliable.  Learn more at https://www.svix.com,1.69.0,201127,2025-07-07 00:00:00,2025-07-07 16:30:04.841149,Svix webhooks API client and webhook verification library,ruby,2025-07-07 16:30:03.563709,t,f,0,t,svix-1.69.0,"---
+- MIT
+",35840,"--- []
+",>= 0,lUuf2M1pI/36aJC0xofkAB2qvRuhvYhdeZlGFQl6hVI=,"""homepage_uri""=>""https://www.svix.com"", ""changelog_uri""=>""https://github.com/svix/svix-libs/blob/main/ChangeLog.md"", ""source_code_uri""=>""https://github.com/svix/svix-libs"", ""allowed_push_host""=>""https://rubygems.org""",>= 0,,ae5547146536cc4d46f1e937822fd7bf,,157319,1.69,,164078,ruby,svix-1.69.0,EPGMsitAo03jk4AviLKylIPXpNUHKx29ruRUaMvw2CA=
+1900089,Alexandr Bulancov,,0.4.1,234063,2025-07-07 00:00:00,2025-07-07 16:34:13.170031,A library to add together anything.,ruby,2025-07-07 16:34:12.386101,t,f,0,t,vector_number-0.4.1,"---
+- MIT
+",19968,"--- []
+",>= 3.1.0,RvXYCnVxvMpjrCSBTycjhUDE5wWT//b4mncwVcMjYLI=,"""homepage_uri""=>""https://github.com/trinistr/vector_number"", ""changelog_uri""=>""https://github.com/trinistr/vector_number/blob/v0.4.1/CHANGELOG.md"", ""bug_tracker_uri""=>""https://github.com/trinistr/vector_number/issues"", ""source_code_uri""=>""https://github.com/trinistr/vector_number/tree/v0.4.1"", ""documentation_uri""=>""https://rubydoc.info/gems/vector_number/0.4.1"", ""rubygems_mfa_required""=>""true""",>= 0,,56e29ce5af386b8842db137cc981ea98,,223960,0.4.1,,233822,ruby,vector_number-0.4.1,gl9rJrVjQt22igm0BMNy00CxPQcEVQwtOx3n6EpsE0I=
+1900090,0.15.4,,0.15.4,186147,2025-07-07 00:00:00,2025-07-07 16:42:35.759592,Helper for Redmine plugins,ruby,2025-07-07 16:42:34.92071,t,f,0,t,redmine_plugins_helper-0.15.4,"--- []
+",12288,"--- []
+",>= 2.7,PnWFO1+JONt2BgoJURjqtokWP+zEyQZI4k9u+1NJ+e8=,"",>= 0,,88104ef2a1a8b78c8492a44a6de494fe,,104851,0.15.4,,235336,ruby,redmine_plugins_helper-0.15.4,P0T8YmgyrJi6OOu7PhyXApVKVRsJrFLGuKRq9KLci5I=
+1900091,BugSnag,,1.1.0,231540,2025-07-07 00:00:00,2025-07-07 16:43:51.131494,BugSnag integration for the Ruby Open Telemetry SDK,ruby,2025-07-07 16:43:50.498869,t,f,0,t,bugsnag_performance-1.1.0,"---
+- MIT
+",17920,"--- []
+",>= 3.0,nDu4RHVk8XKL3k0gewt/v63kio5B9jVbcqCWdcCsUIo=,"""homepage_uri""=>""https://www.bugsnag.com"", ""changelog_uri""=>""https://github.com/bugsnag/bugsnag-ruby-performance/blob/v1.1.0/CHANGELOG.md"", ""bug_tracker_uri""=>""https://github.com/bugsnag/bugsnag-ruby-performance/issues"", ""source_code_uri""=>""https://github.com/bugsnag/bugsnag-ruby-performance"", ""documentation_uri""=>""https://docs.bugsnag.com/performance/integration-guides/ruby/"", ""rubygems_mfa_required""=>""true""",>= 0,,792efedcaaee0b2dbc3915b0276f8371,,144570,1.1,,238670,ruby,bugsnag_performance-1.1.0,DeXO2CWz5qBiyMwtzkX6OCtnCx37nS4uzE1FuiF6x1k=
+1900092,https://alg.li/support,A simple Ruby client for the algolia.com REST API,3.21.1,195890,1980-01-02 00:00:00,2025-07-07 16:46:57.83461,A simple Ruby client for the algolia.com REST API,ruby,2025-07-07 16:46:56.666185,t,f,0,t,algolia-3.21.1,"---
+- MIT
+",392192,"--- []
+",>= 0,YN/jQdPaLBp3DXFOhYf4ItakweGpGnANlMaDqUVP104=,"""bug_tracker_uri""=>""https://github.com/algolia/algoliasearch-client-ruby/issues"", ""source_code_uri""=>""https://github.com/algolia/algoliasearch-client-ruby"", ""rubygems_mfa_required""=>""true""",>= 0,,7e409d36d718aaccf67eed7d7820d498,,,3.21.1,,238671,ruby,algolia-3.21.1,b0G8FEHU+G6hXplLNR3o10P7lDLoj/VnRuzYW/OAumQ=
+1900093,Juan Gomez,Simplify complex business logic using a tiny command (service) object framework.,1.0.1,234219,1980-01-02 00:00:00,2025-07-07 16:49:21.395901,Command (aka service) objects with intent,ruby,2025-07-07 16:49:20.741008,t,f,0,t,cmdx-1.0.1,"---
+- MIT
+",168448,"--- []
+",>= 3.1.0,nVSa8M7K/keOjOsc32bHc8d/Eap4wxEeuQgtMrjEQD0=,"""homepage_uri""=>""https://github.com/drexed/cmdx"", ""changelog_uri""=>""https://github.com/drexed/cmdx/CHANGELOG.md"", ""bug_tracker_uri""=>""https://github.com/drexed/cmdx/issues"", ""source_code_uri""=>""https://github.com/drexed/cmdx"", ""documentation_uri""=>""https://github.com/drexed/cmdx/blob/main/README.md"", ""rubygems_mfa_required""=>""true""",>= 0,,c1ab618e37d59a9d11b6488b2e899742,,71531,1.0.1,,230876,ruby,cmdx-1.0.1,2vWkC6NqULkqC0adAgeWmohVJV24X1i7gCc8qJhKTS0=
+1900094,Miguel Landaeta,,0.7.7.beta1,216436,1980-01-02 00:00:00,2025-07-07 17:02:59.593222,An implementation of HTTP Messages Signatures (RFC9421),ruby,2025-07-07 17:02:58.922834,t,t,0,f,linzer-0.7.7.beta1,"---
+- MIT
+",28672,"--- []
+",>= 2.6.0,zQch0f14Eb8ftgQzIVtPR+dO4gNDoIG/mzB/yan6vdk=,"""homepage_uri""=>""https://github.com/nomadium/linzer"", ""changelog_uri""=>""https://github.com/nomadium/linzer/blob/master/CHANGELOG.md"", ""source_code_uri""=>""https://github.com/nomadium/linzer""",>= 0,,51178440a276a3c1339d2cd5fa4f6187,,,0.7.7.beta.1,,238672,ruby,linzer-0.7.7.beta1,T9dtpsxOr3GB2UiwdUlQTMrdvOVRJ6x/m/QWfV8H26A=
+1900095,Ryan Lue,"",0.2.8,200883,2025-07-07 00:00:00,2025-07-07 17:12:13.313297,Import/rename photos & videos from one directory to another.,ruby,2025-07-07 17:12:12.570324,t,f,0,t,photein-0.2.8,"---
+- MIT
+",26112,"--- []
+",>= 2.6.0,y39I5Vdy83c2ebl1ScHj1cVzBoEYiECzGujuIhh8rzc=,"""source_code_uri""=>""https://github.com/rlue/photein""",>= 0,,66069389e36af552b2879fbddd1ca296,,109421,0.2.8,,108852,ruby,photein-0.2.8,6lCM8bzI1zKI3R0iFSBT4DzZXT3TmXwDQq9p/7LoJP8=
+1900096,Phil Crissman,A Ruby gem implementing the combinatory logic birds from Raymond Smullyan's To Mock a Mockingbird,0.1.2,235492,1980-01-02 00:00:00,2025-07-07 17:14:55.469464,A Ruby implementation of combinators from Raymond Smullyan's To Mock a Mockingbird,ruby,2025-07-07 17:14:54.931569,t,f,1,f,smullyan-0.1.2,"---
+- MIT
+",9728,"--- []
+",>= 2.7.0,a5JDRjBXnaLvG0j/C9R1s0lW/V90Vk5NrGwx3CRRGX4=,"""homepage_uri""=>""https://github.com/philcrissman/smullyan"", ""changelog_uri""=>""https://github.com/philcrissman/smullyan/blob/main/CHANGELOG.md"", ""source_code_uri""=>""https://github.com/philcrissman/smullyan"", ""allowed_push_host""=>""https://rubygems.org""",>= 0,,52aff1f3cae282378156606b21ec6561,,45450,0.1.2,,237497,ruby,smullyan-0.1.2,9TVdwzUXRJGwaxVd8yiWvjiqNb4CZ2ZmSf2Za5YQi7g=
+1900097,Ryan Lue,"",0.1.9,204309,2025-07-07 00:00:00,2025-07-07 17:15:32.524138,Import/rename photos & videos from one directory to another.,ruby,2025-07-07 17:15:31.925473,t,f,0,t,xferase-0.1.9,"---
+- MIT
+",11776,"--- []
+",>= 2.6.0,Q+4V3OzvEWIWkHxj8SY2toXSw+dPPyJbXQNhG+6nJv8=,"""source_code_uri""=>""https://github.com/rlue/xferase""",>= 0,,051f792ae5b0edbdf10b120a1138ce88,,109421,0.1.9,,108852,ruby,xferase-0.1.9,mfUfh2Eu9ArAATXvwD0TQSl1nFO/rhRjXD5+oIoKIwI=
+1900098,stytch,,10.23.0,196535,2025-07-07 00:00:00,2025-07-07 17:18:04.735486,Stytch Ruby Gem,ruby,2025-07-07 17:18:03.749129,t,f,0,t,stytch-10.23.0,"---
+- MIT
+",105984,"--- []
+",>= 2.7.0,tW+xiblD/YtFJOpOELfOW1GOKEZhUqpBaXitioQDC50=,"""homepage_uri""=>""https://stytch.com"", ""source_code_uri""=>""https://github.com/stytchauth/stytch-ruby""",>= 0,,04d6c32886c9b2f3bba8560a8d19ea48,,151174,10.23,,176913,ruby,stytch-10.23.0,aguNV3+GJOwFao6SZ/GaOvdqgu16IvU5viOKmjcJr2A=
+1900099,Rafael Silva,"A Ruby gem providing a consistent interface for various AI/ML tokenizers including OpenAI GPT, Anthropic Claude, Google Gemini, Meta Llama, Mistral, Qwen, and embedding models like BERT, BGE, and multilingual-E5. Features caching, truncation, token counting, and error handling across different tokenization libraries.",0.3.1,235814,1980-01-02 00:00:00,2025-07-07 17:27:54.973569,"Unified tokenizer interface for AI/ML models supporting OpenAI, Anthropic, Gemini, Llama, and embedding models",ruby,2025-07-07 17:27:54.037217,t,f,0,t,discourse_ai-tokenizers-0.3.1,"---
+- MIT
+",21582848,"--- []
+",>= 3.2.0,p3UvL3tLKf6hSOLIk7KHoUeMTciCj2hMCeUdWjO7w3M=,"""homepage_uri""=>""https://github.com/discourse/discourse_ai-tokenizers"", ""changelog_uri""=>""https://github.com/discourse/discourse_ai-tokenizers/blob/main/CHANGELOG.md"", ""source_code_uri""=>""https://github.com/discourse/discourse_ai-tokenizers""",>= 0,,165205353b3012b2800bad5d56f644ff,,143660,0.3.1,,142810,ruby,discourse_ai-tokenizers-0.3.1,eodmxWT2hPiQa973uB3BtvdUOrLggXXPR8bz0cnTLNA=
+1900100,Mohsen Alizadeh,A Ruby client library for Valkey based on redis-rb.,0.1.0,235909,2025-07-07 00:00:00,2025-07-07 17:29:52.3255,A Ruby client library for Valkey based on redis-rb.,ruby,2025-07-07 17:29:51.680217,t,f,0,t,valkey-0.1.0,"--- []
+",1950720,"--- []
+",>= 3.1.0,7wEi9xvytb23mP4FrM1eoOmpVmStZ3jUDPyhUCxxnl0=,"""homepage_uri""=>""https://github.com/mohsen-alizadeh/valkey-rb"", ""changelog_uri""=>""https://github.com/mohsen-alizadeh/valkey-rb"", ""source_code_uri""=>""https://github.com/mohsen-alizadeh/valkey-rb""",>= 0,,0ab15e6198c80087962a624c29fe1df1,,74311,0.1,,238673,ruby,valkey-0.1.0,fuWOgVlja+ajmbC/sXT/M2Uf7LBgG4e8mYw+7fqZU7M=
+1900101,"Ryan Tomayko, Magnus Holm, Jeremy Evans",Generic interface to multiple Ruby template engines,2.6.1,15609,1980-01-02 00:00:00,2025-07-07 17:40:54.326208,Generic interface to multiple Ruby template engines,ruby,2025-07-07 17:40:53.586827,t,f,0,t,tilt-2.6.1,"---
+- MIT
+",26624,"--- []
+",>= 2.0,NambuirffB42L1tI+bWBzOTt+6mBF+NGlt3m0wjYR3A=,"""changelog_uri""=>""https://github.com/jeremyevans/tilt/blob/master/CHANGELOG.md"", ""bug_tracker_uri""=>""https://github.com/jeremyevans/tilt/issues"", ""source_code_uri""=>""https://github.com/jeremyevans/tilt"", ""mailing_list_uri""=>""https://github.com/jeremyevans/tilt/discussions""",>= 0,,c533ed01d18a284175d02e075799296e,,1196,2.6.1,,1186,ruby,tilt-2.6.1,gtHzOXptZxKFDMtgX9Yh4WiIesyTvesAH6DVKFeTTdk=
+1900102,"Chalk AI, Inc.",A simple Ruby client for Chalk,0.4.0,215894,2025-07-07 00:00:00,2025-07-07 17:54:03.727956,A simple Ruby client for Chalk,ruby,2025-07-07 17:54:03.037186,t,f,0,t,chalk_ruby-0.4.0,"---
+- Apache-2.0
+",88576,"--- []
+",>= 0,poajB1MlPr4a5J2THxo54bO4WfmJbXNoDFpUU8w/1V0=,"""bug_tracker_uri""=>""https://github.com/chalk-ai/chalk-ruby/issues"", ""source_code_uri""=>""https://github.com/chalk-ai/chalk-ruby"", ""documentation_uri""=>""https://docs.chalk.ai/docs""",>= 0,,25cf4108262732252c85ea1f5c9cf9aa,,186815,0.4,,233673,ruby,chalk_ruby-0.4.0,9H+phL8Bk7mxAjDtVkt9TMnF1TZss2+2M8I2jVBmFkw=
+1900103,Sean Yeoh,,0.1.16,234815,1980-01-02 00:00:00,2025-07-07 17:54:26.114808,Shadcn Phlexcomponents is a UI Component library built for Ruby on Rails.,ruby,2025-07-07 17:54:25.398988,t,f,0,t,shadcn_phlexcomponents-0.1.16,"---
+- MIT
+",78848,"--- []
+",>= 3.3.0,tvBLGrT8gt242g+fae92G88zRJDcKFUEzaMHK68N5sA=,"""homepage_uri""=>""https://github.com/sean-yeoh/shadcn_phlexcomponents"", ""changelog_uri""=>""https://github.com/sean-yeoh/shadcn_phlexcomponents/blob/main/CHANGELOG.md"", ""source_code_uri""=>""https://github.com/sean-yeoh/shadcn_phlexcomponents""",>= 0,,3921c9c79ff21654c68c59a16718f0ab,,,0.1.16,,238675,ruby,shadcn_phlexcomponents-0.1.16,GJXDYV4hCiHUvKHEQ4lTn30Y/VReuqNOIMnUhWhJP28=
+1900104,Bill McKinnon,Download market data from Yahoo! Finance's API,0.4.2,231587,2025-07-07 00:00:00,2025-07-07 17:55:30.285409,A shameless port of python's yfinance module to ruby,ruby,2025-07-07 17:55:29.564111,t,f,0,t,yf_as_dataframe-0.4.2,"---
+- MIT
+",103424,"--- []
+",>= 3.0.0,l0wCb5b/p2QV3kQlZuZDyUU0Wk7DJjF11w/JPwf7XDg=,"""homepage_uri""=>""https://www.github.com/bmck/yf_as_dataframe"", ""changelog_uri""=>""https://github.com/bmck/yf_as_dataframe/CHANGELOG.rst"", ""source_code_uri""=>""https://github.com/bmck/yf_as_dataframe""",>= 0,,bde65c24ccc7195d74fe91d5b9cc1f3f,,48174,0.4.2,,191684,ruby,yf_as_dataframe-0.4.2,2bNHxYZLax+OgZJQ4M9xLH4AHWTWi1H/dhxpMFNcK6s=
+1900105,Vincent Prêtre,HTML formatter for Cucumber,21.13.0,191466,2025-07-07 00:00:00,2025-07-07 17:58:10.512003,cucumber-html-formatter-21.13.0,ruby,2025-07-07 17:58:09.749106,t,f,0,t,cucumber-html-formatter-21.13.0,"---
+- MIT
+",283648,"--- []
+",>= 2.6,iC4gt9qGQtYoQRK8yDfLlnOEkAhrrCJxN/VD6uWH7k0=,"""homepage_uri""=>""https://github.com/cucumber/html-formatter"", ""changelog_uri""=>""https://github.com/cucumber/html-formatter/blob/main/CHANGELOG.md"", ""bug_tracker_uri""=>""https://github.com/cucumber/html-formatter/issues"", ""source_code_uri""=>""https://github.com/cucumber/html-formatter"", ""mailing_list_uri""=>""https://groups.google.com/forum/#!forum/cukes"", ""documentation_uri""=>""https://github.com/cucumber/html-formatter""",>= 3.0.3,,09408db826d10f9dadf38e67786a8bbb,,123382,21.13,,237809,ruby,cucumber-html-formatter-21.13.0,5ehieoxWjaMnOu++gJEJJZEs3uJ3kJq+S3uiRUsJ+oM=
+1900106,"Power UX, Power Devs",Playbook UI is built out in Ruby View Components and React Components. Playbook takes a modern design approach and applies it in a way that makes it easy to support bleeding edge or legacy systems.,14.22.0.pre.alpha.PLAY22958842,184070,2025-07-07 00:00:00,2025-07-07 18:16:19.817942,Playbook Design System,ruby,2025-07-07 18:16:15.45908,t,t,17,f,playbook_ui-14.22.0.pre.alpha.PLAY22958842,"---
+- ISC
+",2270720,"--- []
+",>= 0,Shr1Mxv7wo1phsKK/1agaH/Zs8ftAC9aD1PvjOJM5No=,"",>= 0,,ce9169fb6f62da793d3f4013696be564,,169274,14.22.pre.alpha.PLAY.22958842,,235337,ruby,playbook_ui-14.22.0.pre.alpha.PLAY22958842,CfM/rualLDku/k4ttbY7PvCbmktMctUIoCNYlepkvQQ=
+1900107,"Power UX, Power Devs",Display all the components from Playbook UI inside your own system.,14.22.0.pre.alpha.PLAY22958842,212437,2025-07-07 00:00:00,2025-07-07 18:16:23.167205,Playbook Design System Docs,ruby,2025-07-07 18:16:20.607446,t,t,17,f,playbook_ui_docs-14.22.0.pre.alpha.PLAY22958842,"---
+- ISC
+",1121792,"--- []
+",>= 0,xTMiOAfSbqQJr+czbFhuybWFUQDwpWMmyylEX2Blulg=,"",>= 0,,e89b64edfcaf375ae54123aa766ca5bc,,169274,14.22.pre.alpha.PLAY.22958842,,235337,ruby,playbook_ui_docs-14.22.0.pre.alpha.PLAY22958842,22tyMttYWYNIvCDdOpc21Zij5XPASsFwFTKYVWU2yno=
+1900108,krupkat,,0.0.9,205217,2025-07-07 00:00:00,2025-07-07 18:29:31.990786,Liquid filter for custom locale date formatting.,ruby,2025-07-07 18:29:31.340966,t,f,0,t,jekyll-date-localization-0.0.9,"---
+- MIT
+",7680,"--- []
+",>= 2.0.0,HT/1/I6JonIIruNY9mbmIKwkyr5/brMiUO3GuNRxdnU=,"",>= 0,,436bdd4bf8e8e0291605214c4ca6812e,,166643,0.0.9,,238677,ruby,jekyll-date-localization-0.0.9,X9780Xo0iZzPrKNuNegEBzI9a4bcuUKGJkE9qWV0sXE=
+1900109,Andy Waite,,0.2.2,235863,1980-01-02 00:00:00,2025-07-07 18:31:55.332253,A tool for distributing Claude Code slash commands.,ruby,2025-07-07 18:31:54.69698,t,f,1,f,claude_code_slash_commands-0.2.2,"---
+- MIT
+",10752,"--- []
+",>= 3.2.0,y85nzkVRXI+lrrQ7ddW5sVv2AiUm1sNSgPerU0z8PXk=,"""homepage_uri""=>""https://github.com/andyw8/claude_code_slash_commands"", ""source_code_uri""=>""https://github.com/andyw8/claude_code_slash_commands"", ""allowed_push_host""=>""https://rubygems.org""",>= 0,,ae6fdc8f0588e5acead13c4b29a0ae2d,,47382,0.2.2,,172555,ruby,claude_code_slash_commands-0.2.2,KjW4tNyo357jZLL6R1PpjV9DJbVPnre7YVGrS8bWQfQ=
+1900110,Andy Waite,,0.2.3,235863,1980-01-02 00:00:00,2025-07-07 18:35:24.540114,A tool for distributing Claude Code slash commands.,ruby,2025-07-07 18:35:23.980996,t,f,0,t,claude_code_slash_commands-0.2.3,"---
+- MIT
+",10752,"--- []
+",>= 3.2.0,blmkKx9HUt397zJcLvz7c72OPKqAn9UbXNGk1NFPNIw=,"""homepage_uri""=>""https://github.com/andyw8/claude_code_slash_commands"", ""source_code_uri""=>""https://github.com/andyw8/claude_code_slash_commands"", ""allowed_push_host""=>""https://rubygems.org""",>= 0,,8b2d96e02173680f155c91377dd2d27e,,47382,0.2.3,,172555,ruby,claude_code_slash_commands-0.2.3,UA1H4MYLm+866Jq3a7m4H3NT91nAWfJcGTn3ScpSj+k=
+1900111,DougNeo,"Fornece métodos práticos para validar, gerar e formatar números de CPF e CNPJ, incluindo ferramentas de linha de comando para facilitar integrações em sistemas bancários, governamentais e aplicações Ruby em geral.",0.1.0,235910,2025-07-07 00:00:00,2025-07-07 19:14:33.505414,"Validação, geração e formatação de números de CPF e CNPJ para o Brasil.",ruby,2025-07-07 19:14:32.842639,t,f,1,f,cpf_cnpj_plus-0.1.0,"---
+- MIT
+",9728,"--- []
+",>= 3.1.0,Fcb2oK2bzqpBvfI1sXiQzzgw/0qC+QQadDbQSKFSchw=,"""homepage_uri""=>""https://github.com/DougNeo/cpf_cnpj_plus.git"", ""changelog_uri""=>""https://github.com/DougNeo/cpf_cnpj_plus.git/blob/main/CHANGELOG.md"", ""source_code_uri""=>""https://github.com/DougNeo/cpf_cnpj_plus.git"", ""allowed_push_host""=>""https://rubygems.org""",>= 0,,de82bd13b7d48fc7fa8fc8dd2b08f607,,236166,0.1,,238678,ruby,cpf_cnpj_plus-0.1.0,sdJhifO1hflXpI7LLTveU7p+/I6YL9KLOYBvmoMswn4=
+1900112,Elastic,This gem is a Logstash plugin required to be installed on top of the Logstash core pipeline using $LS_HOME/bin/logstash-plugin install gemname. This gem is not a stand-alone program,12.0.4,101874,2025-07-07 00:00:00,2025-07-07 19:14:59.213454,Stores logs in Elasticsearch,java,2025-07-07 19:14:57.928498,t,f,0,t,logstash-output-elasticsearch-12.0.4-java,"---
+- apache-2.0
+",197632,"--- []
+",>= 0,Wy2/3Vr+QT0tkX8wFwtaXsLEf17/ISUm67DvwazJpFw=,"""logstash_group""=>""output"", ""logstash_plugin""=>""true""",>= 0,,24c737c48808cebd386652b202ea6742,,82288,12.0.4,,235802,java,logstash-output-elasticsearch-12.0.4-java,mCx/5AlvPpTFNSCyiey33DQr3oa1n/aEQc+New5u4kI=
+1900113,Phil Crissman,A Ruby gem implementing the combinatory logic birds from Raymond Smullyan's To Mock a Mockingbird,0.1.3,235492,1980-01-02 00:00:00,2025-07-07 19:33:43.518742,A Ruby implementation of combinators from Raymond Smullyan's To Mock a Mockingbird,ruby,2025-07-07 19:33:41.434172,t,f,0,t,smullyan-0.1.3,"---
+- MIT
+",9728,"--- []
+",>= 2.7.0,Y1IYeVh/USLxgHmWVO4PFF0vrZ3HQnee5BTozjRtj9g=,"""homepage_uri""=>""https://github.com/philcrissman/smullyan"", ""changelog_uri""=>""https://github.com/philcrissman/smullyan/blob/main/CHANGELOG.md"", ""source_code_uri""=>""https://github.com/philcrissman/smullyan"", ""allowed_push_host""=>""https://rubygems.org""",>= 0,,7d5c91dba2ce7f2441a916ae345feb91,,45450,0.1.3,,237497,ruby,smullyan-0.1.3,f+NBTZBttJxDa1bIuHDBBhreodDK7VVbDwRkSPL1tOE=
+1900114,DougNeo,"Fornece métodos práticos para validar, gerar e formatar números de CPF e CNPJ, incluindo
+                        ferramentas de linha de comando para facilitar integrações em sistemas bancários,
+                        governamentais e aplicações Ruby em geral.",0.2.0,235910,2025-07-07 00:00:00,2025-07-07 19:39:57.36979,"Validação, geração e formatação de números de CPF e CNPJ para o Brasil.",ruby,2025-07-07 19:39:56.243037,t,f,0,t,cpf_cnpj_plus-0.2.0,"---
+- MIT
+",10240,"--- []
+",>= 3.1.0,puepRflrYEYSxpvDBIZ4WQyewMo/dgyWc6jKLUO5mOE=,"""homepage_uri""=>""https://github.com/DougNeo/cpf_cnpj_plus.git"", ""changelog_uri""=>""https://github.com/DougNeo/cpf_cnpj_plus.git/blob/main/CHANGELOG.md"", ""source_code_uri""=>""https://github.com/DougNeo/cpf_cnpj_plus.git"", ""allowed_push_host""=>""https://rubygems.org""",>= 0,,c6d3e336bcf8afd982f299d9ab3cc59f,,236166,0.2,,238678,ruby,cpf_cnpj_plus-0.2.0,nkV5i4btVgJ+XKwr1YT9gtrLoAFHuIbARrLBYLWyoXc=
+1900115,"Power UX, Power Devs",Playbook UI is built out in Ruby View Components and React Components. Playbook takes a modern design approach and applies it in a way that makes it easy to support bleeding edge or legacy systems.,14.22.0.pre.alpha.PLAY22958843,184070,2025-07-07 00:00:00,2025-07-07 20:04:42.205323,Playbook Design System,ruby,2025-07-07 20:04:37.432995,t,t,16,f,playbook_ui-14.22.0.pre.alpha.PLAY22958843,"---
+- ISC
+",2270720,"--- []
+",>= 0,/aVdr/utPa4+41mYnuiYiJnu90f73JYCd9OQp2HZXWA=,"",>= 0,,eafc05634c383aa0f80e9176172d2e4e,,169274,14.22.pre.alpha.PLAY.22958843,,235337,ruby,playbook_ui-14.22.0.pre.alpha.PLAY22958843,5eXIhI74s1+cMnNFNWMKOlCEdqJ3SUzA2Z/co2nWt3c=
+1900116,"Power UX, Power Devs",Display all the components from Playbook UI inside your own system.,14.22.0.pre.alpha.PLAY22958843,212437,2025-07-07 00:00:00,2025-07-07 20:04:48.006059,Playbook Design System Docs,ruby,2025-07-07 20:04:43.440968,t,t,16,f,playbook_ui_docs-14.22.0.pre.alpha.PLAY22958843,"---
+- ISC
+",1121792,"--- []
+",>= 0,QFbQ9EoVkGpgQZyaLnP30a17HOHS+flCO5cAY+WMRTc=,"",>= 0,,e102b3d24f88224f2d57db79615d7588,,169274,14.22.pre.alpha.PLAY.22958843,,235337,ruby,playbook_ui_docs-14.22.0.pre.alpha.PLAY22958843,f8ExQH77gO+5OmrEI05cYky91PbR7j9/Eoqn6MzF/R4=
+1900117,Ribose Inc.,"mn2pdf converts Metanorma XML into PDF.
+This gem is a wrapper around mn2pdf.jar available from
+https://github.com/metanorma/mn2pdf, with versions matching the JAR file.
+",2.28,192671,2025-07-07 00:00:00,2025-07-07 20:10:42.274844,mn2pdf converts Metanorma XML into PDF.,ruby,2025-07-07 20:10:40.58258,t,f,0,t,mn2pdf-2.28,"---
+- BSD-2-Clause
+",57605120,"--- []
+",>= 2.7.0,ZIwIjPSVIeleEYe+Jz8ESOkhJZnCqpNWFPlYyPdGUI4=,"",>= 0,,29c3b5926f396a9592c595e1cedd60aa,,146458,2.28,,192553,ruby,mn2pdf-2.28,2r0eKElWjPc99oTDJTXlzYpdFZOCfo1S8WZj6NkHK9Y=
+1900118,"Evan Brooks, Robert Keresnyei",,0.5.4,233814,1980-01-02 00:00:00,2025-07-07 20:11:56.479519,Concerns for building Bootstrap components with Ruby on Rails.,ruby,2025-07-07 20:11:55.780903,t,f,0,t,bootstrap_concerns-0.5.4,"---
+- MIT
+",6656,"--- []
+",>= 3.4.0,klNTDSCPtijzNLnNxqzRMFMZ7RyP38XvSQmcnXhAkK0=,"",>= 0,,0a15a5d8430868bd222e0f37c600d3f4,,221337,0.5.4,,233158,ruby,bootstrap_concerns-0.5.4,ulEafKxeC1hY3V3sqJ11GE5gh9zHpxnRwKKnOg1yZzQ=
+1900119,Szymon Lipka,"Gem to generate queries for ActiveRecord migrations, allowing you to see the SQL that will be executed when running migrations.",1.1.0,235857,1980-01-02 00:00:00,2025-07-07 20:31:57.949418,Migrations queries for ActiveRecord,ruby,2025-07-07 20:31:57.199646,t,f,0,t,migration_queries-1.1.0,"---
+- MIT
+",10752,"--- []
+",>= 3.1.0,rjmODpXVYh5CIYu0oOIoDL+OeUfDwUwFF/qBH0w+tc4=,"""homepage_uri""=>""https://github.com/szymonlipka/migration_queries"", ""changelog_uri""=>""https://github.com/szymonlipka/migration_queries/blob/master/CHANGELOG.md"", ""source_code_uri""=>""https://github.com/szymonlipka/migration_queries""",>= 0,,8515faac1320d916547f1dccf0eb03f8,,236102,1.1,,238563,ruby,migration_queries-1.1.0,PKJQWg5RqTT9hqT22nxAHt1BsI5K7271oHsVw1e6CSo=
+1900120,Modern Treasury,,0.1.0.pre.alpha.22,206835,2025-07-07 00:00:00,2025-07-07 20:32:05.381091,Ruby library to access the Modern Treasury API,ruby,2025-07-07 20:32:04.631496,t,t,0,f,modern_treasury-0.1.0.pre.alpha.22,"--- []
+",624128,"--- []
+",>= 3.2.0,diDC2a/49lLNwUKljDWunnDAEp71EZQAg5mSl3QugG0=,"""homepage_uri""=>""https://gemdocs.org/gems/modern_treasury"", ""source_code_uri""=>""https://github.com/Modern-Treasury/modern-treasury-ruby"", ""rubygems_mfa_required""=>""false""",> 1.3.1,,4419b47e74ed8f6fd4f72d77d6ee9641,,223485,0.1.pre.alpha.22,,233614,ruby,modern_treasury-0.1.0.pre.alpha.22,xsTaELLd9692Runm0n9Ec4Bb8z7nmbM0Bi8AoaWR6V8=
+1900121,"Maia Engeli, Peter Giacomo Lombardo, Spiros Eliopoulos, Xuan Cao",Automatic tracing and metrics for Ruby applications. Get started at cloud.solarwinds.com,7.0.0.prev3,203483,2025-07-07 00:00:00,2025-07-07 20:39:57.507687,SolarWindsAPM performance instrumentation gem for Ruby,ruby,2025-07-07 20:39:56.744815,t,t,0,f,solarwinds_apm-7.0.0.prev3,"---
+- Apache-2.0
+",45056,"--- []
+",>= 3.1.0,W6cTAvC1P/6f0KRMRUaZ+YtpOnoZEye0gDJpbDSex1g=,"""homepage_uri""=>""https://documentation.solarwinds.com/en/success_center/observability/content/intro/landing-page.html"", ""changelog_uri""=>""https://github.com/solarwinds/apm-ruby/releases"", ""source_code_uri""=>""https://github.com/solarwinds/apm-ruby"", ""documentation_uri""=>""https://documentation.solarwinds.com/en/success_center/observability/default.htm#cshid=config-ruby-agent"", ""rubygems_mfa_required""=>""true""",> 1.3.1,,37c15568b0d338b4a205964a7a2242ca,,172210,7.prev.3,,237577,ruby,solarwinds_apm-7.0.0.prev3,s+vt8+v+GpguVxk2hPKdnP32Y0q2+wM0iEuOuW3JEz0=
+1900122,"Peter Mangiafico, Justin Littman",This provides API interaction with the ORCID API,0.6.0,213429,2025-07-07 00:00:00,2025-07-07 20:45:54.546612,Interface for interacting with the ORCID API.,ruby,2025-07-07 20:45:53.788034,t,f,0,t,sul_orcid_client-0.6.0,"--- []
+",16384,"--- []
+",>= 3.2.0,ve7q4smGiC04r/h+IHr/z1xlB3PI5XtYH6RrhvSwAQo=,"""homepage_uri""=>""https://github.com/sul-dlss/orcid_client"", ""changelog_uri""=>""https://github.com/sul-dlss/orcid_client/releases"", ""source_code_uri""=>""https://github.com/sul-dlss/orcid_client"", ""rubygems_mfa_required""=>""true""",>= 0,,0a4cf3307a666fb5ecb02226e86e2d00,,165254,0.6,,192092,ruby,sul_orcid_client-0.6.0,qf//cy7hzDOtZoTBOIvh0NkNYK5yGxeUzRZJO95fV6k=
+1900123,Aaron Christiansen,,9.1.2,184694,2025-07-07 00:00:00,2025-07-07 21:09:04.62009,"A type information generator, merger and parser for Sorbet and Ruby 3/Steep",ruby,2025-07-07 21:09:03.912376,t,f,0,t,parlour-9.1.2,"---
+- MIT
+",67584,"--- []
+",>= 0,RGziQkPhJfDoxPm1ciw7hgY9QtixBshHp9c6jMaTw4I=,"",>= 0,,c41858c1e61ffe4291c6ad0b8404d43b,,117883,9.1.2,,165105,ruby,parlour-9.1.2,pXefZgAxopHRKcTcm/4f4pkyu4DExdK6Qoo3D3jSRrs=
