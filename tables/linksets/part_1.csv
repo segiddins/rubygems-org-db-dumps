@@ -28748,7 +28748,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 129612,132737,"",,,,,,2015-09-08 20:56:31.004172,2015-09-08 20:56:31.005893
 129613,132738,https://github.com/mrpowers/slack_notifier_wrapper,,,,,,2015-09-08 20:59:55.331311,2015-09-08 20:59:55.333297
 129614,132739,https://github.com/tonyheadford/bstard,,,,,,2015-09-08 21:05:28.034501,2015-09-08 21:05:28.036331
-129615,132740,https://pluga.co/,https://github.com/nfe/client-ruby,https://github.com/nfe/client-ruby,"",https://github.com/nfe/client-ruby,"",2015-09-08 21:05:46.365005,2016-08-08 20:50:43.805017
+129615,132740,https://nfe.io,https://github.com/nfe/client-ruby,https://github.com/nfe/client-ruby,"",https://github.com/nfe/client-ruby,"",2015-09-08 21:05:46.365005,2026-07-02 03:21:51.446188
 129616,132741,https://github.com/MrJoy/surface_master,,,,,,2015-09-08 21:07:50.641407,2015-09-08 21:07:50.643513
 129617,132742,http://github.com/Skookum/eventum,,,,,,2015-09-08 21:28:51.312296,2015-09-08 21:28:51.314806
 129618,132743,https://github.com/voxpupuli/beaker-hiera,,,,,,2015-09-08 22:20:54.185428,2021-05-18 14:13:46.93014
@@ -35066,14 +35066,14 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 136128,139260,https://github.com/alChaCC/suntech_rails,,,,,,2016-01-20 14:44:46.048036,2016-01-20 14:44:46.049993
 136129,139261,https://github.com/tehplayer/vogogo-ruby,,,,,,2016-01-20 14:55:01.386629,2016-01-20 15:02:07.444913
 136130,139262,https://github.com/DeveloperCielo/Webservice-1.5-ruby,,,,,,2016-01-20 16:23:30.875315,2016-01-20 16:23:30.876707
-136131,139263,http://hanamirb.org,"","","",https://github.com/hanami/hanami,"",2016-01-20 16:23:49.515196,2017-01-27 10:15:56.53174
-136132,139264,http://hanamirb.org,,,,,,2016-01-20 16:24:36.282454,2016-01-20 16:24:36.284357
+136131,139263,https://hanamirb.org,"","","",https://github.com/hanami/hanami,"",2016-01-20 16:23:49.515196,2026-07-01 01:19:06.612842
+136132,139264,https://hanamirb.org,,,,,,2016-01-20 16:24:36.282454,2026-07-01 00:34:46.61432
 136133,139265,https://hanamirb.org,,,,,,2016-01-20 16:25:13.716028,2026-06-11 23:45:12.330054
 136134,139266,http://hanamirb.org,,,,,,2016-01-20 16:25:45.67873,2016-01-20 16:25:45.680039
-136135,139267,http://hanamirb.org,,,,,,2016-01-20 16:26:23.276223,2016-01-20 16:26:23.277501
+136135,139267,https://hanamirb.org,,,,,,2016-01-20 16:26:23.276223,2026-07-01 00:32:51.459008
 136136,139268,http://hanamirb.org,,,,,,2016-01-20 16:26:55.121225,2016-01-20 16:26:55.125017
-136137,139269,http://hanamirb.org,,,,,,2016-01-20 16:27:29.235601,2016-01-20 16:27:29.236875
-136138,139270,http://hanamirb.org,,,,,,2016-01-20 16:28:01.811489,2016-01-20 16:28:01.81363
+136137,139269,https://hanamirb.org,,,,,,2016-01-20 16:27:29.235601,2026-07-01 00:21:44.395242
+136138,139270,https://hanamirb.org,,,,,,2016-01-20 16:28:01.811489,2026-07-01 00:17:41.995406
 136139,139271,http://hanamirb.org,,,,,,2016-01-20 16:29:01.898325,2016-01-20 16:29:01.899714
 136140,139272,https://hanamirb.org,,,,,,2016-01-20 16:29:36.986442,2025-11-12 12:21:57.75238
 136141,139273,https://github.com/lqd-io/liquid-ruby,,,,,,2016-01-20 17:12:08.015408,2016-01-20 17:12:08.017297
@@ -35482,7 +35482,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 136583,139715,https://github.com/PavelTyk/easy-sms,,,,,,2016-01-28 12:13:00.530673,2016-01-28 12:13:00.532032
 136584,139716,https://github.com/mikz/rack-jspm,,,,,,2016-01-28 12:18:03.409009,2016-01-28 12:18:03.410703
 136585,139717,https://github.com/chris-teague/locoyo,,,,,,2016-01-28 13:14:12.301006,2016-01-28 13:14:12.302369
-136586,139718,https://github.com/SerwerSMSpl/,,,,,,2016-01-28 13:20:43.698813,2016-01-28 13:20:43.700741
+136586,139718,https://github.com/SerwerSMSpl/serwersms-ruby-api,,,,,,2016-01-28 13:20:43.698813,2026-06-30 08:01:05.40965
 136588,139720,,,,,,,2016-01-28 13:27:22.095468,2016-01-28 13:27:22.095468
 136589,139721,https://github.com/skyscape-cloud-services,"",https://github.com/skyscape-cloud-services/skyscape-vpn/blob/master/README.md,"",https://github.com/skyscape-cloud-services/skyscape-vpn,"",2016-01-28 13:47:34.144168,2016-02-02 12:38:31.79512
 136590,139722,https://github.com/jkr2255/prop_logic-minisat,,,,,,2016-01-28 14:21:38.430048,2016-01-28 14:21:38.431869
@@ -57115,7 +57115,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 158982,162139,https://github.com/neguse/fluent-plugin-extract-json,,,,,,2017-06-27 12:50:51.323071,2017-06-27 12:50:51.324749
 158983,162140,https://github.com/furwasalreadytaken/somapi,,,,,,2017-06-27 13:28:06.354423,2017-06-27 13:28:06.356651
 158984,162141,https://github.com/michael-harms/harms-columns-front-page,"","","",https://github.com/michael-harms/harms-columns-front-page,"",2017-06-27 13:42:55.736547,2017-07-02 12:48:58.230296
-158985,162142,https://github.com/saveriomiroddi/simple_scripting,,,,,,2017-06-27 14:23:35.83254,2017-06-27 14:23:35.833654
+158985,162142,https://github.com/64kramsystem/simple_scripting,,,,,,2017-06-27 14:23:35.83254,2026-07-01 15:51:20.30902
 158986,162143,https://github.com/secoint/ekam-ruby,,,,,,2017-06-27 14:40:58.161591,2017-06-27 14:40:58.162855
 158989,162146,http://twitter.com/jasonhjarrett,,,,,,2017-06-27 14:53:29.63807,2017-06-27 14:53:29.639157
 158990,162147,https://github.com/trifinlabs/togglv8,,,,,,2017-06-27 15:24:25.988612,2017-06-27 15:24:25.989767
@@ -60615,7 +60615,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 162655,165813,https://github.com/bf4/api_doc_server,,,,,,2017-10-09 05:29:19.475679,2017-10-09 05:29:19.477159
 162656,165814,https://github.com/aihehuo/dada_express,,,,,,2017-10-09 06:10:38.884368,2017-10-09 06:10:38.88554
 162657,165815,https://github.com/kirillshevch/pg_drive_backup,,,,,,2017-10-09 06:14:31.833117,2017-10-09 06:14:31.834731
-162658,165816,http://hanamirb.org,,,,,,2017-10-09 07:56:25.72396,2017-10-09 07:56:25.725538
+162658,165816,https://hanamirb.org,,,,,,2017-10-09 07:56:25.72396,2026-07-01 01:14:17.726722
 162659,165817,https://github.com/msventurelabs/uk_postcodes_io,,,,,,2017-10-09 08:16:48.809709,2017-10-09 08:16:48.811158
 162660,165818,,,,,,,2017-10-09 08:48:11.98999,2017-10-09 08:48:11.98999
 162661,165819,http://rubygems.org/gems/hola_shioju3,,,,,,2017-10-09 09:27:46.937322,2017-10-09 09:27:46.938929
@@ -65275,7 +65275,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 167603,170761,http://github.com/hannwong/gollum,,,,,,2018-02-28 16:41:07.371669,2018-02-28 16:46:20.486791
 167604,170762,https://github.com/ForwardFinancing/wire_client,,,,,,2018-02-28 16:57:52.879993,2018-02-28 16:57:52.881148
 167605,170763,http://solarflair.url.solar/,,,,,,2018-02-28 16:58:42.21105,2018-02-28 16:58:42.212391
-167606,170764,http://hanamirb.org,,,,,,2018-02-28 17:00:34.546376,2018-02-28 17:00:34.547914
+167606,170764,https://hanamirb.org,,,,,,2018-02-28 17:00:34.546376,2026-07-01 01:13:53.051953
 167607,170765,https://flair.planning.solar/,,,,,,2018-02-28 17:04:16.73013,2018-03-13 15:51:24.006007
 167608,170766,http://github.com/nhr/shiftzilla,,,,,,2018-02-28 17:34:21.815586,2018-02-28 17:34:21.817392
 167609,170767,https://github.com/moni/til-notes-theme,,,,,,2018-02-28 17:45:37.481778,2018-02-28 17:45:37.483092
