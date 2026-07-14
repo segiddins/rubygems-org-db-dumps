@@ -10342,7 +10342,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 25432,26585,http://github.com/seomoz/bjf,,,,,,2010-02-17 22:36:41.220759,2010-02-17 22:36:41.224492
 25433,26586,http://github.com/scotttam/resque-throttle,"","","",http://github.com/scotttam/resque-throttle,"",2010-02-17 23:10:36.588284,2010-02-19 00:27:26.914543
 25434,26587,http://github.com/stouset/pathname3/,,,,,,2010-02-17 23:26:24.413409,2010-02-17 23:26:24.417403
-25435,26588,,"",http://github.com/kremso/serenity,"",http://github.com/kremso/serenity,"",2010-02-17 23:39:53.541317,2010-02-20 11:36:37.871459
+25435,26588,https://github.com/kremso/serenity,"",http://github.com/kremso/serenity,"",http://github.com/kremso/serenity,"",2010-02-17 23:39:53.541317,2026-07-10 17:42:31.415902
 25436,26589,http://github.com/dsturnbull/carrierwave,,,,,,2010-02-18 00:59:01.490867,2010-05-07 03:26:30.375355
 25437,26590,http://github.com/mnelson/direct_address,"",http://github.com/mnelson/direct_address#readme,"",http://github.com/mnelson/direct_address,http://github.com/mnelson/direct_address/issues,2010-02-18 01:06:48.267794,2010-02-22 15:21:40.768777
 25439,26594,http://github.com/mbleigh/subdomain-fu,"","","",http://github.com/sentientmonkey/subdomain-fu,"",2010-02-18 02:04:05.744261,2010-02-18 02:10:10.330682
@@ -19118,7 +19118,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 34453,35859,http://github.com/ioscale/rails_authorization,,,,,,2010-12-11 00:52:25.332133,2010-12-11 01:49:13.996112
 34454,35860,http://github.com/58Phases/kenshoo,,,,,,2010-12-11 01:06:07.789,2010-12-13 20:39:25.822068
 34455,35861,http://github.com/Burgestrand/keeper,,,,,,2010-12-11 01:09:35.422105,2010-12-11 01:09:35.427408
-34456,35862,http://github.com/ioscale/rails_authentication,,,,,,2010-12-11 01:10:41.288596,2010-12-11 01:57:05.52784
+34456,35862,https://github.com/dfreerksen/rails_authentication,,,,,,2010-12-11 01:10:41.288596,2026-07-12 15:37:17.122296
 34457,35863,https://github.com/tmuxinator/tmuxinator,,,,,,2010-12-11 01:34:01.10127,2015-03-08 09:57:22.287921
 34458,35864,http://github.com/PlasticLizard/ruote-mongodb,,,,,,2010-12-11 01:34:56.535503,2010-12-11 01:34:56.537863
 34459,35865,http://rdf.rubyforge.org/rasqal/,,,,,,2010-12-11 02:07:03.721647,2010-12-11 02:07:03.727363
@@ -43159,7 +43159,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 58817,61734,"",,,,,,2012-07-17 17:20:47.499584,2012-07-17 17:20:47.501964
 58818,61735,http://github.com/kylewlacy/timerizer,,,,,,2012-07-17 17:41:25.290049,2012-07-17 17:41:25.292862
 58819,61736,http://framework.takitapart.net/,,,,,,2012-07-17 18:01:37.122175,2012-07-17 18:01:37.124908
-58820,61737,https://github.com/rapportive/detergent,,,,,,2012-07-17 18:09:33.715279,2012-07-17 18:09:33.718046
+58820,61737,https://github.com/jeffmcfadden/detergent,,,,,,2012-07-17 18:09:33.715279,2026-07-08 16:05:47.714311
 58821,61738,https://github.com/gabynaiman/twitter_bootstrap_markup,,,,,,2012-07-17 18:51:02.804759,2012-07-17 18:51:02.80687
 58822,61739,,,,,,,2012-07-17 19:13:13.829732,2012-07-17 19:13:13.829732
 58823,61740,https://github.com/caruby/scat,,,,,,2012-07-17 19:13:21.28822,2012-07-17 19:13:21.291337
@@ -76288,7 +76288,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 92347,95466,http://github.com/fapoli/static-struct,"","","",https://github.com/fapoli/static-struct,"",2014-03-27 17:36:29.049001,2014-03-27 18:12:30.716081
 92348,95467,http://github.com/mtrudel/pragmatic_context,,,,,,2014-03-27 19:06:03.876419,2014-03-27 19:06:03.878714
 92349,95468,https://github.com/Shidash/wlsearchscraper,,,,,,2014-03-27 19:11:37.126248,2014-03-27 19:11:37.128543
-92350,95469,https://github.com/nepalez/postern,,,,,,2014-03-27 19:17:08.956988,2014-03-27 19:17:08.959249
+92350,95469,https://github.com/afstanton/postern,,,,,,2014-03-27 19:17:08.956988,2026-07-09 19:56:57.094006
 92351,95470,https://github.com/groupbuddies/omniauth-paymill,,,,,,2014-03-27 19:23:53.767037,2014-03-27 19:23:53.769321
 92352,95471,https://github.com/jrmyward/euclidean,,,,,,2014-03-27 19:25:47.569642,2014-03-27 19:25:47.57242
 92353,95472,,,,,,,2014-03-27 19:47:39.519876,2014-03-27 19:47:39.519876
@@ -78621,7 +78621,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 94707,97826,https://github.com/donaldpiret/payoneer_api,,,,,,2014-05-02 04:28:33.146057,2014-05-02 04:28:33.148408
 94708,97827,,,,,,,2014-05-02 04:44:38.103352,2014-05-02 04:44:38.103352
 94709,97828,https://github.com/code0100fun/workshop,,,,,,2014-05-02 05:32:21.275239,2014-05-02 05:32:21.277417
-94710,97829,"","",https://github.com/ramlaxmanyadav/htmlToPdf,"",https://github.com/ramlaxmanyadav/htmlToPdf,"",2014-05-02 05:55:41.808431,2014-05-02 10:28:20.998532
+94710,97829,https://github.com/ramlaxmanyadav/htmlToPdf,"",https://github.com/ramlaxmanyadav/htmlToPdf,"",https://github.com/ramlaxmanyadav/htmlToPdf,"",2014-05-02 05:55:41.808431,2026-07-11 12:34:54.693884
 94711,97830,http://github.com/nclaburn/simple_sync,,,,,,2014-05-02 06:26:41.672806,2014-05-02 06:26:41.674958
 94712,97831,http://purzelbaum.hu,,,,,,2014-05-02 06:33:41.241214,2014-05-02 06:33:41.243717
 94713,97832,http://rubygems.org/gems/lasthack,,,,,,2014-05-02 06:36:39.622272,2014-05-02 06:36:39.62518
