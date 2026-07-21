@@ -22709,7 +22709,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 38106,39647,https://github.com/blambeau/stamina,,,,,,2011-03-24 09:44:27.176188,2012-02-24 15:54:54.982814
 38107,39648,http://github.com/five18pm/sunspot_rails_mongoid,,,,,,2011-03-24 13:12:10.348029,2011-03-24 13:12:10.353218
 38108,39649,,"",https://github.com/StealthyGecko/videawesome/blob/master/README.md,"",https://github.com/StealthyGecko/videawesome,"",2011-03-24 13:14:47.951323,2011-03-24 16:45:15.765224
-38109,39650,http://throwtheswitch.org/ceedling,http://ceedling.sourceforge.net,http://rubydoc.info/gems/ceedling/frames,http://sourceforge.net/projects/ceedling/forums/forum/1052467,http://ceedling-gem.git.sourceforge.net/git/gitweb.cgi?p=ceedling-gem/ceedling-gem;a=summary,http://apps.sourceforge.net/trac/ceedling/report/1,2011-03-24 14:44:17.737022,2020-05-03 20:57:31.502676
+38109,39650,https://throwtheswitch.org/ceedling,http://ceedling.sourceforge.net,http://rubydoc.info/gems/ceedling/frames,http://sourceforge.net/projects/ceedling/forums/forum/1052467,http://ceedling-gem.git.sourceforge.net/git/gitweb.cgi?p=ceedling-gem/ceedling-gem;a=summary,http://apps.sourceforge.net/trac/ceedling/report/1,2011-03-24 14:44:17.737022,2026-07-17 00:54:09.6167
 38110,39651,"",,,,,,2011-03-24 14:50:34.396629,2011-03-24 14:50:34.402129
 38111,39652,http://github.com/flyingmachine/yard-components,,,,,,2011-03-24 14:53:08.164193,2011-03-24 14:53:08.169631
 38112,39653,http://github.com/delta407/snappy-ruby,,,,,,2011-03-24 17:39:51.152212,2011-03-24 17:39:51.157616
@@ -30121,7 +30121,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 45631,47367,https://github.com/Shopify/pitchfork,,,,,,2011-10-08 00:34:34.193831,2022-10-05 11:20:33.05766
 45632,47368,http://github.com/raul/retry_upto,,,,,,2011-10-08 01:40:45.947772,2011-10-08 01:40:45.952782
 45633,47369,https://github.com/portertech/redphone,,,,,,2011-10-08 03:02:42.407719,2011-10-08 03:02:42.412846
-45634,47370,http://github.com/turboladen/log_switch,"","","",https://github.com/turboladen/log_switch,"",2011-10-08 03:31:31.269232,2011-12-14 16:45:28.107515
+45634,47370,https://github.com/turboladen/log_switch,"","","",https://github.com/turboladen/log_switch,"",2011-10-08 03:31:31.269232,2026-07-16 00:36:04.96984
 45635,47371,http://github.com/pedrosnk/minimachine,,,,,,2011-10-08 07:02:34.778922,2011-10-08 07:02:34.784338
 45636,47372,http://rubygems.org/gems/mongoid-metastamp,"","","",https://github.com/sporkd/mongoid-metastamp,https://github.com/sporkd/mongoid-metastamp/issues,2011-10-08 08:53:13.629979,2011-10-12 08:35:11.682001
 45637,47373,"",,,,,,2011-10-08 09:37:50.169667,2011-10-08 09:37:50.174812
@@ -63885,7 +63885,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 79831,82817,http://git.io/fjr,,,,,,2013-08-14 20:12:14.742154,2013-08-14 20:12:14.744532
 79832,82818,https://github.com/sharethrough/youtube_url,,,,,,2013-08-14 20:12:28.341353,2013-08-14 20:12:28.34404
 79833,82821,https://github.com/brucehsu/rbga,,,,,,2013-08-14 20:45:19.062488,2013-08-14 20:45:19.064848
-79834,82822,http://rubygems.org/gems/jajajejejiji,,,,,,2013-08-14 20:45:59.978239,2019-04-10 10:42:07.179855
+79834,82822,https://rubygems.org/gems/rake,,,,,,2013-08-14 20:45:59.978239,2026-07-16 20:15:13.639334
 79835,82823,http://github.com/evilsocket/puppy,,,,,,2013-08-14 21:22:32.393903,2013-08-14 21:22:32.396269
 79836,82824,"",,,,,,2013-08-14 21:38:47.603964,2013-08-14 21:38:47.607073
 79837,82825,https://github.com/govdelivery/infoblox,,,,,,2013-08-14 21:48:21.350069,2013-08-23 16:02:23.330241
