@@ -53,6 +53,7 @@ when "dump"
     SELECT db_to_csv('#{File.expand_path("tables")}');
   SQL
   chunk_sizes = {
+    "attestations" => 2_500,
     "dependencies" => 250_000,
     "gem_downloads" => 1_000_000,
     "versions" => 50_000,
