@@ -7351,8 +7351,8 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 107734,110759,https://github.com/tarragon/trueachievements,"","","","","",2014-08-16 01:46:53.952404,2015-04-09 15:41:56.053717
 107735,110760,"",https://github.com/mepatterson/grape_ape_rails/wiki,https://github.com/mepatterson/grape_ape_rails,"",https://github.com/mepatterson/grape_ape_rails,"",2014-08-16 02:13:49.703411,2014-08-16 02:15:36.252757
 107736,110761,http://github.com/semdinsp/hwid,,,,,,2014-08-16 03:07:56.361298,2014-08-16 03:07:56.362508
-107737,110762,https://github.com/trade-informatics/caracal,,,,,,2014-08-16 03:54:34.618876,2014-08-16 03:54:34.620008
-107738,110763,https://github.com/ibpinc/caracal-rails,,,,,,2014-08-16 04:16:40.719082,2014-08-16 04:16:40.720203
+107737,110762,https://github.com/urvin-compliance/caracal,,,,,,2014-08-16 03:54:34.618876,2026-09-18 16:51:20.363656
+107738,110763,https://github.com/urvin-compliance/caracal-rails,,,,,,2014-08-16 04:16:40.719082,2026-09-20 15:42:08.9126
 107739,110764,"",,,,,,2014-08-16 05:44:02.704605,2014-08-16 05:44:02.705755
 107740,110765,https://github.com/harlanbarnes/lita-rundeck,,,,,,2014-08-16 06:31:27.111186,2014-08-16 06:31:27.112349
 107741,110766,http://github.com/rickmark/idiomatic,,,,,,2014-08-16 07:52:32.55089,2014-08-16 07:52:32.551992
@@ -10191,7 +10191,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 110603,113644,"",,,,,,2014-10-10 14:02:59.163216,2014-10-10 14:02:59.164407
 110604,113645,"",,,,,,2014-10-10 14:04:12.664787,2014-10-10 14:04:12.666006
 110605,113646,"",,,,,,2014-10-10 14:04:52.848416,2014-10-10 14:04:52.849524
-110606,113647,"",,,,,,2014-10-10 14:05:30.844877,2014-10-10 14:05:30.846086
+110606,113647,https://github.com/claudiob/you,,,,,,2014-10-10 14:05:30.844877,2026-09-17 04:11:18.836956
 110607,113648,"",,,,,,2014-10-10 14:06:43.722958,2014-10-10 14:06:43.724066
 110608,113649,"",,,,,,2014-10-10 14:07:22.490159,2014-10-10 14:07:22.491273
 110609,113650,"",,,,,,2014-10-10 14:07:58.99852,2014-10-10 14:07:58.999686
@@ -20100,7 +20100,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 120654,123764,https://github.com/zzeligg/zlocalize,"","","",https://github.com/zzeligg/zlocalize,"",2015-03-31 18:41:19.688717,2020-07-09 20:27:26.756515
 120655,123765,https://github.com/eventstore-rb/estore,,,,,,2015-03-31 18:41:53.46253,2015-04-06 23:03:57.475613
 120656,123766,http://github.com/vysakh0/rails_zen,,,,,,2015-03-31 18:46:50.090108,2015-03-31 18:46:50.092304
-120657,123767,https://github.com/chriswarren/doorkeeper-jwt,,,,,,2015-03-31 18:54:27.329832,2015-03-31 18:54:27.331846
+120657,123767,https://github.com/doorkeeper-gem/doorkeeper-jwt,,,,,,2015-03-31 18:54:27.329832,2026-09-16 09:15:53.196239
 120658,123768,https://github.com/sammyd/xcplayground,,,,,,2015-03-31 19:00:49.428465,2015-03-31 19:00:49.430257
 120659,123769,https://github.com/tearshock/ander,,,,,,2015-03-31 19:21:11.897161,2015-04-01 15:16:59.289876
 120660,123770,https://github.com/IDTLabs/threescale_api,,,,,,2015-03-31 19:59:29.478594,2015-03-31 19:59:29.480289
@@ -30252,7 +30252,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 131158,134288,http://gitlab.keepcon.com/platform/journalist,,,,,,2015-10-09 18:32:31.826881,2015-10-09 18:32:31.829065
 131159,134289,https://github.com/dollarshaveclub/antisyslog,,,,,,2015-10-09 18:46:51.576101,2015-10-09 18:46:51.578236
 131160,134290,"",,,,,,2015-10-09 19:34:36.725993,2015-10-09 19:34:36.727754
-131161,134291,https://gitlab.com/mjwhitta/zoom,"","","",https://gitlab.com/mjwhitta/zoom,"",2015-10-09 19:40:32.953281,2018-06-06 04:07:18.066932
+131161,134291,https://github.com/mjwhitta/zoom,"","","",https://gitlab.com/mjwhitta/zoom,"",2015-10-09 19:40:32.953281,2026-09-16 18:30:58.896861
 131162,134292,https://github.com/tim-ojo/csv_sniffer,,,,,,2015-10-09 19:59:49.176002,2015-10-09 19:59:49.177727
 131163,134293,http://github.com/gust/miss_cleo,,,,,,2015-10-09 20:09:45.417565,2015-10-09 20:09:45.419533
 131164,134294,,"","","",https://github.com/crgee/simple-jquery-rails,"",2015-10-09 20:48:14.361141,2015-10-09 21:06:17.629026
@@ -31618,7 +31618,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 132584,135714,https://amrfaissal.github.io/capistrano-rack/,"",https://github.com/amrfaissal/capistrano-rack/blob/v0.1.0/README.md,"",https://github.com/amrfaissal/capistrano-rack,"",2015-11-06 12:55:46.587209,2015-11-06 13:02:20.827243
 132585,135715,https://github.com/janosch-x/conscious_concern,,,,,,2015-11-06 14:23:20.651371,2015-11-06 14:23:20.653213
 132586,135716,https://github.com/jrobertson/rsscache,,,,,,2015-11-06 14:49:34.665454,2015-11-06 14:49:34.66721
-132587,135717,https://github.com/reevoo/fluent-plugin-systemd,,,,,,2015-11-06 14:51:30.822161,2017-01-12 15:24:48.7739
+132587,135717,https://github.com/fluent-plugins-nursery/fluent-plugin-systemd,,,,,,2015-11-06 14:51:30.822161,2026-09-17 02:39:33.481115
 132588,135718,https://github.com/SysMO-DB/site_announcements,,,,,,2015-11-06 15:03:05.793331,2015-11-06 15:03:05.795984
 132589,135719,"",,,,,,2015-11-06 15:09:34.680464,2015-11-06 15:09:34.682203
 132590,135720,"",,,,,,2015-11-06 15:53:25.198905,2015-11-06 15:53:25.200761
@@ -35319,7 +35319,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 136385,139517,https://github.com/andrewaguiar/icms,,,,,,2016-01-25 13:31:00.812884,2016-01-25 13:31:00.814126
 136386,139518,http://mailcatcher.me,,,,,,2016-01-25 13:32:09.835295,2016-01-25 13:32:09.837162
 136387,139519,https://github.com/m4ce/rancher-metadata-ruby,,,,,,2016-01-25 13:38:33.123332,2016-01-28 15:05:20.3534
-136388,139520,http://github.com/olegantonyan/super_awesome_print,,,,,,2016-01-25 13:47:28.342331,2016-02-25 17:17:34.652585
+136388,139520,https://github.com/olegantonyan/super_awesome_print,,,,,,2016-01-25 13:47:28.342331,2026-09-18 20:00:44.509843
 136389,139521,https://github.com/hubbub/ruby_catalogue_client,,,,,,2016-01-25 14:05:22.078139,2016-01-25 14:05:22.079398
 136390,139522,https://x8.io/,,,,,,2016-01-25 14:18:43.628357,2016-01-25 14:18:43.630346
 136391,139523,http://github.com/m4ce/logstash-filter-rancher_metadata,,,,,,2016-01-25 14:45:06.487062,2016-01-25 14:45:06.488386
@@ -39878,7 +39878,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 141153,144304,http://impresscms.org,"","","",https://github.com/ImpressCMS/vagrant-impressbox,https://github.com/ImpressCMS/vagrant-impressbox/issues,2016-04-24 21:47:51.444511,2016-04-24 22:02:42.655009
 141154,144305,https://github.com/tres/pieces_of_flair,,,,,,2016-04-24 21:57:30.479397,2016-04-24 21:57:30.480712
 141155,144306,https://github.com/folkengine/yamlable,,,,,,2016-04-24 22:37:49.731435,2016-04-24 22:37:49.733869
-141156,144307,https://gitlab.com/mjwhitta/hilighter/tree/ruby,"","","",https://gitlab.com/mjwhitta/hilighter,"",2016-04-24 23:09:04.601798,2019-11-25 18:09:15.092419
+141156,144307,https://github.com/mjwhitta/hilighter/tree/ruby,"","","",https://gitlab.com/mjwhitta/hilighter,"",2016-04-24 23:09:04.601798,2026-09-17 12:40:25.525111
 141157,144308,https://github.com/ankane/pgslice,,,,,,2016-04-24 23:40:44.090315,2016-04-24 23:40:44.091739
 141158,144309,https://github.com/frank184/ratable,,,,,,2016-04-25 00:01:13.42742,2016-04-25 00:01:13.42876
 141159,144310,https://github.com/afeld/compare_by,,,,,,2016-04-25 00:03:36.12048,2016-04-25 00:03:36.122903
@@ -59516,7 +59516,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 161504,164662,http://circuitdata.org,,,,,,2017-09-04 14:05:13.470834,2017-09-04 14:05:13.472372
 161505,164663,https://github.com/epigenesys/session-timeout-prompter,,,,,,2017-09-04 14:30:25.251507,2017-09-04 14:30:25.253079
 161506,164664,https://github.com/iamvery/rspec-act-like,,,,,,2017-09-04 14:42:48.166154,2017-09-04 14:42:48.167395
-161507,164665,http://github.com/olegantonyan/super_awesome_print_rubocop,,,,,,2017-09-04 14:43:39.118067,2017-09-04 14:43:39.119205
+161507,164665,https://github.com/olegantonyan/super_awesome_print_rubocop,,,,,,2017-09-04 14:43:39.118067,2026-09-18 20:28:14.319253
 161508,164666,https://github.com/murjax/Discord-Distance-Calculator,,,,,,2017-09-04 15:38:44.498031,2017-09-04 15:38:44.499653
 161509,164667,https://github.com/knocknock-team/dploy-rails,,,,,,2017-09-04 15:39:31.146077,2017-09-04 15:39:31.147198
 161510,164668,,,,,,,2017-09-04 17:47:09.612545,2017-09-04 17:47:09.612545
@@ -61657,7 +61657,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 163772,166930,https://github.com/valerijaspasojevic/jekyll-compress-images,"",https://github.com/valerijaspasojevic/jekyll-compress-images/blob/master/README.md,"",https://github.com/valerijaspasojevic/jekyll-compress-images,"",2017-11-08 15:13:19.727463,2017-11-08 15:24:35.820342
 163773,166931,https://github.com/puppetlabs/beaker-task_helper,,,,,,2017-11-08 15:14:00.799681,2017-11-08 15:22:59.390876
 163774,166932,https://github.com/lavas-project/jekyll-pwa,,,,,,2017-11-08 15:36:59.59396,2017-11-08 16:50:59.440344
-163775,166933,https://rubygems.org/gems/example,"","","",https://github.com/valerijaspasojevic/jekyll-compress-images/,"",2017-11-08 15:50:51.971476,2017-11-08 17:08:36.328403
+163775,166933,https://github.com/valerijaspasojevic/jekyll-compress-images,"","","",https://github.com/valerijaspasojevic/jekyll-compress-images/,"",2017-11-08 15:50:51.971476,2026-09-19 16:10:34.903757
 163776,166934,https://github.com/adam12/inert,,,,,,2017-11-08 15:52:26.381813,2017-11-08 15:52:26.382874
 163777,166935,http://www.vicoervanda.com,"","","",https://github.com/VicoErv/instagram-private-api,"",2017-11-08 15:55:15.042734,2017-11-08 16:01:53.532132
 163778,166936,https://github.com/mbainter/lita-dm-notifier,,,,,,2017-11-08 17:39:50.086699,2017-11-08 17:39:50.087764
@@ -74003,7 +74003,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 176568,179818,http://www.PuTyourgEmswEbSiTeoRpUblIcrEpOURLhErE.com,,,,,,2019-01-03 03:24:10.775363,2019-01-03 03:24:10.777178
 176569,179819,https://github.com/inokappa/daimyo,,,,,,2019-01-03 04:13:45.667834,2019-01-03 04:13:45.669359
 176570,179820,https://datawow.io,,,,,,2019-01-03 04:34:05.844534,2019-01-03 04:34:05.846264
-176571,179821,https://github.com/clicksend-api/clicksend-codegen,,,,,,2019-01-03 04:35:28.729308,2019-01-03 04:35:28.730722
+176571,179821,https://developers.clicksend.com/,,,,,,2019-01-03 04:35:28.729308,2026-09-16 08:11:30.445984
 176572,179822,https://github.com/grapevinegizmos/JsonParse,,,,,,2019-01-03 04:39:28.425758,2019-01-03 04:39:28.427168
 176573,179823,https://github.com/RadoslavK/jekyll-kentico,,,,,,2019-01-03 08:08:37.345148,2019-04-05 05:05:06.486665
 176574,179824,http://rubygems.org/gems/cli-proton-ruby,,,,,,2019-01-03 09:04:48.254941,2019-01-03 09:04:48.256884
