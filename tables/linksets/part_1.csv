@@ -42878,7 +42878,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 144244,147395,http://rubygems.org/gems/hola_takahashik,,,,,,2016-07-03 03:57:04.328946,2016-07-03 03:57:04.330507
 144245,147396,https://github.com/Acornsgrow/hitnmiss,,,,,,2016-07-03 04:16:28.813487,2016-07-03 04:16:28.816753
 144246,147397,https://github.com/Acornsgrow/hitnmiss-redis_driver,,,,,,2016-07-03 04:36:59.072935,2016-07-03 04:36:59.075438
-144247,147398,https://github.com/socketry/socketry/,,,,,,2016-07-03 05:31:54.673269,2016-09-12 07:54:45.165853
+144247,147398,https://github.com/socketry/socketry,,,,,,2016-07-03 05:31:54.673269,2026-09-27 06:45:34.265574
 144248,147399,https://github.com/king601/devise-bootstrapped,,,,,,2016-07-03 05:36:04.533007,2016-07-03 05:36:04.534831
 144252,147403,https://github.com/clearwater-rb/roda-opal_assets,,,,,,2016-07-03 05:54:30.980357,2016-07-03 05:54:30.982966
 144253,147404,https://github.com/ashish979/string_permutation,"","","",https://github.com/ashish979/string_permutation,"",2016-07-03 07:37:12.350294,2016-07-03 07:47:32.303781
@@ -59474,7 +59474,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 161461,164619,https://github.com/mide/jekyll-twitter-collection,,,,,,2017-09-02 03:08:13.879993,2017-09-02 03:08:13.88164
 161462,164620,http://github.com/waferbaby/little-fixtures,,,,,,2017-09-02 03:27:50.000063,2017-09-02 03:27:50.001341
 161463,164621,https://github.com/ohbarye/automaildoc,"",https://github.com/ohbarye/automaildoc/blob/master/README.md,"",https://github.com/ohbarye/automaildoc/,https://github.com/ohbarye/automaildoc/issues,2017-09-02 08:27:27.908492,2017-09-02 09:35:15.902429
-161464,164622,,,,,,,2017-09-02 08:32:26.80032,2025-08-26 11:38:32.385956
+161464,164622,https://www.uplawski.eu/software/timequiz/,,,,,,2017-09-02 08:32:26.80032,2026-09-22 16:14:31.67266
 161465,164623,https://github.com/yasaichi/actionview-consistent_fallback,,,,,,2017-09-02 12:09:58.482547,2017-09-02 12:09:58.483654
 161466,164624,https://github.com/kleinjm/service_base,,,,,,2017-09-02 12:36:38.11418,2025-09-09 21:38:57.097233
 161467,164625,https://github.com/blocknotes/auto-seeding,,,,,,2017-09-02 12:49:35.803781,2017-09-02 12:49:35.804859
@@ -78278,7 +78278,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 180915,184238,https://github.com/sveredyuk/tripletex_ruby,,,,,,2019-06-05 07:08:45.725282,2019-06-05 07:08:45.726688
 180916,184239,https://github.com/winebarrel/active_record_postgresql_xverify,,,,,,2019-06-05 08:48:30.007657,2019-06-05 08:48:30.009355
 180917,184240,https://github.com/OpenSCAP/openscap_parser,,,,,,2019-06-05 11:51:24.21709,2020-01-29 12:48:18.731108
-180918,184241,https://github.com/metanorma/relaton-ietf,,,,,,2019-06-05 12:08:38.904095,2019-06-05 12:08:38.905512
+180918,184241,https://github.com/relaton/relaton-ietf,,,,,,2019-06-05 12:08:38.904095,2026-09-22 03:45:15.054565
 180919,184242,http://github.com/leksster/granule,,,,,,2019-06-05 12:17:57.46715,2019-06-05 17:00:06.373503
 180920,184243,https://github.com/matti/dunnel,,,,,,2019-06-05 13:16:34.03913,2019-06-05 13:16:34.040635
 180921,184244,https://github.com/yivo/cs-ruby-toolbox,,,,,,2019-06-05 14:02:52.279884,2019-06-05 14:02:52.281379
@@ -81989,7 +81989,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 184645,188024,https://github.com/yasuhiroki/yage-gem,,,,,,2019-11-19 17:11:22.913595,2019-11-19 17:11:22.91449
 184646,186952,https://github.com/Garllon/graphql_connector/blob/master/README.md,,,,,,2019-11-19 17:52:41.922913,2019-11-19 17:52:41.924189
 184647,188025,https://github.com/evalmee/json_api_filter,,,,,,2019-11-19 19:12:13.242375,2026-09-09 11:54:55.29069
-184648,188026,https://github.com/bashly-framework/bashly,,,,,,2019-11-19 19:51:38.183576,2025-08-08 04:45:11.094633
+184648,188026,https://bashly.dev,,,,,,2019-11-19 19:51:38.183576,2026-09-27 09:37:34.907775
 184649,188027,https://github.com/DEFRA/defra-ruby-address,,,,,,2019-11-19 21:41:02.305913,2019-11-19 21:41:02.307546
 184650,188028,https://kirilsoshnin.com,,,,,,2019-11-19 21:59:59.424463,2019-11-19 21:59:59.425343
 184651,188029,http://rubygems.org/gems/rbdtb,,,,,,2019-11-20 03:41:40.446942,2019-11-20 03:41:40.448382
@@ -85211,7 +85211,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 187876,191294,https://github.com/appfolio/ae_vault,,,,,,2020-03-07 00:45:00.306278,2020-03-07 00:45:00.307193
 187877,191295,,,,,,,2020-03-07 07:41:25.078879,2020-03-07 07:41:25.078879
 187878,191296,https://nanoc.ws/,,,,,,2020-03-07 08:45:45.727227,2020-03-07 08:45:45.728529
-187879,191297,https://nanoc.app/,,,,,,2020-03-07 08:46:03.294673,2025-10-30 09:07:27.584345
+187879,191297,https://nanoc.denisdefreyne.com/,,,,,,2020-03-07 08:46:03.294673,2026-09-28 07:13:20.752941
 187880,191298,,,,,,,2020-03-07 09:56:42.763908,2020-03-07 09:56:42.763908
 187881,191299,,,,,,,2020-03-07 10:52:48.390729,2020-03-07 10:52:48.390729
 187882,191300,https://rubygems.org/gems/rubens,,,,,,2020-03-07 12:04:46.01229,2020-03-07 12:04:46.013821
@@ -89168,7 +89168,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 191846,195315,https://dry-ridge-08886.herokuapp.com/,,,,,,2020-08-30 17:03:49.448005,2020-08-30 17:03:49.449394
 191847,195316,https://github.com/realbite/blix-rest,,,,,,2020-08-30 18:13:12.656556,2020-08-30 18:13:12.658079
 191848,195317,https://github.com/realbite/blix-rest,,,,,,2020-08-30 18:16:24.921173,2020-08-30 18:16:24.922523
-191849,195318,https://deanpcmad.com,,,,,,2020-08-30 19:05:15.233468,2022-04-10 18:58:39.011648
+191849,195318,https://github.com/d34ndev/twitchrb,,,,,,2020-08-30 19:05:15.233468,2026-09-23 10:47:35.701607
 191850,195319,https://github.com/sportdb/sport.db,,,,,,2020-08-30 20:32:34.777774,2020-08-30 20:32:34.779126
 191851,195320,https://gitlab.com/dm0da/tchae,,,,,,2020-08-30 21:21:30.524257,2020-08-30 21:21:30.525543
 191852,195321,https://github.com/joe-hyphen/suez_palindrome,,,,,,2020-08-30 21:41:18.324505,2020-08-30 21:41:18.325839
