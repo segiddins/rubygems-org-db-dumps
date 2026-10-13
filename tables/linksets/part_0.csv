@@ -6039,7 +6039,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 20963,21965,http://github.com/threedaymonk/htmlbeautifier,,,,,,2009-10-12 01:17:24.496881,2009-10-12 01:17:24.501943
 20964,21966,https://github.com/jeremyevans/fixture_dependencies,,,,,,2009-10-12 01:23:23.052226,2013-08-21 19:35:27.504471
 20965,21967,,,,,,,2009-10-12 01:29:32.910294,2009-10-12 01:29:32.910294
-20966,21968,,,,,,,2009-10-12 01:31:32.332519,2009-10-12 01:31:32.332519
+20966,21968,http://github.com/jeremyevans/simple_ldap_authenticator,,,,,,2009-10-12 01:31:32.332519,2026-10-06 00:10:11.215517
 20967,21969,https://github.com/jeremyevans/sequel_postgresql_triggers,,,,,,2009-10-12 01:32:56.977539,2013-12-06 16:11:37.907906
 20968,21970,http://github.com/threedaymonk/logparser,,,,,,2009-10-12 01:34:36.994297,2009-10-12 01:34:36.996811
 20969,21971,http://github.com/jeremyevans/exception_notification,,,,,,2009-10-12 01:50:45.647797,2009-10-12 01:50:45.650252
@@ -21183,7 +21183,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 36569,38085,http://github.com/almlabs/vindicia,,,,,,2011-02-10 23:01:00.623954,2011-02-10 23:01:00.629052
 36570,38086,https://github.com/asynchrony/ruby-activeldap,,,,,,2011-02-10 23:38:01.936177,2011-02-10 23:38:01.941774
 36571,38087,https://github.com/vidibus/vidibus-sysinfo,,,,,,2011-02-10 23:51:26.394328,2011-02-10 23:51:26.400084
-36572,38088,https://sr.ht/~citizen428/methodfinder/,"","","",https://github.com/citizen428/MethodFinder,https://github.com/citizen428/MethodFinder/issues,2011-02-10 23:53:15.34432,2022-07-19 06:58:46.448752
+36572,38088,https://github.com/citizen428/methodfinder,"","","",https://github.com/citizen428/MethodFinder,https://github.com/citizen428/MethodFinder/issues,2011-02-10 23:53:15.34432,2026-10-09 06:58:14.395777
 36573,38089,http://github.com/cloudhead/toto,,,,,,2011-02-11 00:28:31.174116,2011-02-11 00:28:31.179391
 36574,38090,http://addressable.rubyforge.org/,,,,,,2011-02-11 00:41:11.841251,2011-02-11 00:41:11.84636
 36575,38091,http://github.com/svargo/ruby_isbndb,https://github.com/svargo/ruby_isbndb/wiki,"","",https://github.com/svargo/ruby_isbndb,https://github.com/svargo/ruby_isbndb/issues,2011-02-11 00:52:08.054472,2011-03-08 23:48:23.459613
@@ -22069,7 +22069,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 37458,38990,http://github.com/mondok/fixedfixer,,,,,,2011-03-06 06:07:50.287829,2011-03-06 06:07:50.292825
 37459,38991,https://github.com/postmodern/hexdump.rb#readme,,,,,,2011-03-06 06:43:19.071225,2021-04-10 21:05:15.790258
 37460,38992,http://github.com/Talby/assette,,,,,,2011-03-06 06:44:37.540143,2011-03-06 06:44:37.545661
-37461,38993,http://opt-simple.rubyforge.org/,"",https://www.omniref.com/ruby/gems/opt-simple/,"",https://github.com/estryker/opt-simple,"",2011-03-06 08:17:32.89552,2014-11-11 03:17:47.872941
+37461,38993,https://github.com/estryker/opt-simple,"",https://www.omniref.com/ruby/gems/opt-simple/,"",https://github.com/estryker/opt-simple,"",2011-03-06 08:17:32.89552,2026-10-12 15:30:38.597202
 37462,38994,https://github.com/jordansissel/ruby-filewatch,,,,,,2011-03-06 08:20:10.269326,2011-03-19 06:43:18.767426
 37463,38995,http://github.com/ohrite/vacation,"","","",http://github.com/ohrite/vacation,"",2011-03-06 08:56:06.993946,2011-03-06 19:14:24.225258
 37464,38996,http://github.com/krainboltgreene/time-ago-in-words,,,,,,2011-03-06 09:53:17.071607,2011-03-06 09:53:17.078733
@@ -76075,7 +76075,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 92131,95250,http://www.archetypecss.com/extensions/archetype-grid,,,,,,2014-03-24 08:31:10.731062,2014-03-24 08:31:10.733242
 92132,95251,http://www.archetypecss.com/extensions/archetype-theme,,,,,,2014-03-24 08:31:22.055191,2014-03-24 08:31:22.057517
 92133,95252,http://speranskydanil.github.io/wkhtmltox-bin/,,,,,,2014-03-24 08:31:29.788897,2014-03-24 08:31:29.791038
-92134,95253,http://ausca.com,,,,,,2014-03-24 08:48:24.207339,2014-03-24 08:48:24.209612
+92134,95253,https://ausca.com,,,,,,2014-03-24 08:48:24.207339,2026-10-08 07:28:15.839674
 92135,95254,https://github.com/lambdaweb/pillchart,,,,,,2014-03-24 09:18:06.995143,2014-03-24 09:18:06.997528
 92136,95255,"",,,,,,2014-03-24 09:24:20.053528,2014-03-24 09:24:20.055607
 92137,95256,"",,,,,,2014-03-24 09:41:36.336515,2014-03-24 09:41:36.33862

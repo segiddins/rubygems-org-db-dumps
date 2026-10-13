@@ -1464,7 +1464,7 @@ threads (see lib/patches.rb).",2.1.4,75200,2014-06-03 00:00:00,2023-09-29 18:27:
 550335,Naotoshi Seo,Treat array fields simply.,0.0.2,99575,2014-06-04 00:00:00,2023-09-29 18:27:22.575217,Treat array fields simply,ruby,2014-06-03 18:15:07.793352,t,f,0,t,acts_as_array-0.0.2,"--- []
 ",9728,"--- []
 ",>= 0,uCA/oZ3Q/wDtn5ismg5uRslFdaCoUbLZEwTxzbspaks=,"",>= 0,,,0.0.2,,,ruby,acts_as_array-0.0.2,VORmEdInnHf67PfQi7sV5zMDnWsW1Isxzqe3Fa+0y1c=,b96f8086c52df307e5a06f026c277cc9,,,
-550336,John Keiser,Backup and Restore of Enterprise Chef,2.0.0.beta.1,85440,2014-06-03 00:00:00,2023-09-29 18:27:22.646375,Backup and Restore of Enterprise Chef,ruby,2014-06-03 18:21:31.805433,t,t,29,f,knife-ec-backup-2.0.0.beta.1,"---
+550336,John Keiser,Backup and Restore of Enterprise Chef,2.0.0.beta.1,85440,2014-06-03 00:00:00,2023-09-29 18:27:22.646375,Backup and Restore of Enterprise Chef,ruby,2014-06-03 18:21:31.805433,t,t,30,f,knife-ec-backup-2.0.0.beta.1,"---
 - Apache 2.0
 ",15872,"--- []
 ",>= 0,Rwb8FRFaXoFe5GlUgxb/BmV/2smDh5ccoB/KLPt6tOU=,"",> 1.3.1,,,2.beta.1,,,ruby,knife-ec-backup-2.0.0.beta.1,CEZmYXFdXMJuiGpGjkF4GKvrxbdwVUG3uO2e5g8fCnU=,,,,
@@ -2431,7 +2431,7 @@ and optionally waiting for the return value.",1.0.1,57573,2014-06-04 00:00:00,20
 - MIT
 ",12288,"--- []
 ",>= 0,t8j9cWuTVGUtTlbKOL4P7GiV9zOFO9JUZXE3+raSpiM=,"",>= 0,,,1.0.1,,,ruby,performer-1.0.1,ta+IymVK4nQZdjTkIrv4yGuOyoCdT0yeF6eOfLrLn8s=,,,,
-550548,Eito Katagiri,A formatter for rubocop that outputs in checkstyle format,0.1.0,80479,2014-06-04 00:00:00,2023-09-29 18:27:38.567098,A formatter for rubocop that outputs in checkstyle format,ruby,2014-06-04 06:50:02.494278,t,f,8,f,rubocop-checkstyle_formatter-0.1.0,"---
+550548,Eito Katagiri,A formatter for rubocop that outputs in checkstyle format,0.1.0,80479,2014-06-04 00:00:00,2023-09-29 18:27:38.567098,A formatter for rubocop that outputs in checkstyle format,ruby,2014-06-04 06:50:02.494278,t,f,9,f,rubocop-checkstyle_formatter-0.1.0,"---
 - MIT
 ",8192,"--- []
 ",>= 0,zZ418NxTR3QBQ2/i6roM5Xjm0R4KACcXYDNLqEf4Y94=,"",>= 0,,,0.1,,,ruby,rubocop-checkstyle_formatter-0.1.0,nS4m5RxyPa/lHnaMH4tbY0VFVPr/Uh4VsXOcXE8I1DQ=,,,,
@@ -3915,7 +3915,7 @@ wma, flac, aac, mp4, m4a.",0.5.1,16611,2014-06-04 00:00:00,2023-09-29 18:28:02.1
 - MIT
 ",17408,"--- []
 ",>= 0,BCG45NYzK3WNWc/Yp+Zrs5p0Sh1nwPlznW+fpFVlzCE=,"",>= 0,,,2,,,ruby,backbone-paginator-rails-2.0.0,oPCh2ryXycwZDuZ7RaNc/swdFtIAcUFyIu/p/X1OHAk=,,,,
-550891,Eito Katagiri,A formatter for rubocop that outputs in checkstyle format,0.1.1,80479,2014-06-05 00:00:00,2023-09-29 18:28:03.5557,A formatter for rubocop that outputs in checkstyle format,ruby,2014-06-05 01:29:13.528912,t,f,7,f,rubocop-checkstyle_formatter-0.1.1,"---
+550891,Eito Katagiri,A formatter for rubocop that outputs in checkstyle format,0.1.1,80479,2014-06-05 00:00:00,2023-09-29 18:28:03.5557,A formatter for rubocop that outputs in checkstyle format,ruby,2014-06-05 01:29:13.528912,t,f,8,f,rubocop-checkstyle_formatter-0.1.1,"---
 - MIT
 ",8192,"--- []
 ",>= 0,2VPBWrI1X3L9M8uZZz8pL/g6o0NR5jPn858Kwf1NnmA=,"",>= 0,,,0.1.1,,,ruby,rubocop-checkstyle_formatter-0.1.1,WmB/8hykLnRF9+Wm35xMz7xR50ZASZThRPP04/FTm+k=,,,,
@@ -5027,7 +5027,7 @@ Interface Builder for RubyMotion!
 - MIT
 ",30720,"--- []
 ",> 1.9.3,OZlmNsgXvA02y9NKT4gBMxpYDI1/MmZCFqFqqRNfK8I=,"",>= 0,,,2.0.4,,,ruby,allscripts_unity_client-2.0.4,tPOtiGl/abYIBlz6jCWd874Fum1WLDW6CiyKRrimeIA=,,,,
-551165,"Bryan Rite, Ryan Bates",Continuation of the simple authorization solution for Rails which is decoupled from user roles. All permissions are stored in a single location.,1.8.2,93319,2014-06-05 00:00:00,2023-09-29 18:28:23.642489,Simple authorization solution for Rails.,ruby,2014-06-05 18:18:32.318507,t,f,37,f,cancancan-1.8.2,"---
+551165,"Bryan Rite, Ryan Bates",Continuation of the simple authorization solution for Rails which is decoupled from user roles. All permissions are stored in a single location.,1.8.2,93319,2014-06-05 00:00:00,2023-09-29 18:28:23.642489,Simple authorization solution for Rails.,ruby,2014-06-05 18:18:32.318507,t,f,38,f,cancancan-1.8.2,"---
 - MIT
 ",46080,"--- []
 ",>= 1.8.7,03pHoWIpTzlHl7uf4jJvozykScO3iMcHRSD/Bf5UTz4=,"",>= 1.3.4,,,1.8.2,,,ruby,cancancan-1.8.2,sUxqI/aySySvjnjHlyH196RS99Sjw21P/7wbcKMChTU=,,,,
@@ -5880,7 +5880,7 @@ one you're holding.
 - 3-clause BSD
 ",22016,"--- []
 ",>= 0,LBFIETUoLpmOOoOubyRRDGP96audlLhjpgsOJJ334Bc=,"",>= 0,,,0.6,,,ruby,sidetiq-0.6.0,5AAePPE8vNXbLRW8VaXRyvuEWVTdZcDcceZfswqdKs0=,,,,
-551386,Greg Sutcliffe,MaaS Discovery Plugin engine for Foreman ,1.3.0,76857,2014-06-06 00:00:00,2023-09-29 18:28:39.642223,MaaS Discovery Plugin for Foreman,ruby,2014-06-06 10:50:55.491724,t,f,101,f,foreman_discovery-1.3.0,"---
+551386,Greg Sutcliffe,MaaS Discovery Plugin engine for Foreman ,1.3.0,76857,2014-06-06 00:00:00,2023-09-29 18:28:39.642223,MaaS Discovery Plugin for Foreman,ruby,2014-06-06 10:50:55.491724,t,f,102,f,foreman_discovery-1.3.0,"---
 - GPL-3
 ",48128,"--- []
 ",>= 0,1VgGdmTuUo/Mr5meXeEK5u2akUK0Vd9oOcAhWVtADaI=,"",>= 0,,,1.3,,,ruby,foreman_discovery-1.3.0,8xRcA1IHk+vXs5xkx1dVGnZRg+6Ymn72DPp6YZMQ3XU=,,,,
@@ -5983,7 +5983,7 @@ from git repo.
 - Apache License Version 2.0
 ",9728,"--- []
 ",>= 0,Uac6CsZiTg1CYzbO+pqW9c28Y1kmeYZTxaMMAgOEiGA=,"",>= 0,,,0.1.1,,,ruby,fluent-plugin-redis-store-0.1.1,/FCBoIulWEFPS59Yiyjfh6jhdhFq3bfHEX9wPuumuVw=,,,,
-551410,Richard Huang,help to kill N+1 queries and unused eager loading.,4.10.0,21697,2014-06-06 00:00:00,2023-09-29 18:28:41.551932,help to kill N+1 queries and unused eager loading.,ruby,2014-06-06 12:34:32.991767,t,f,83,f,bullet-4.10.0,"---
+551410,Richard Huang,help to kill N+1 queries and unused eager loading.,4.10.0,21697,2014-06-06 00:00:00,2023-09-29 18:28:41.551932,help to kill N+1 queries and unused eager loading.,ruby,2014-06-06 12:34:32.991767,t,f,84,f,bullet-4.10.0,"---
 - MIT
 ",34304,"--- []
 ",>= 0,6XdebWFvqBCA4LDRnR3F7w9IlolHLOJqORCiFWfLUPA=,"",>= 1.3.6,,,4.10,,,ruby,bullet-4.10.0,Vd5027saVkBho3HFyOhhJgjOdZev3GVYhNh5hVUFqsM=,,,,
@@ -6735,7 +6735,7 @@ use the more idiomatic: <tt>view << subview</tt>.
 551583,jfelchner,"",1.8.2,95307,2014-06-06 00:00:00,2023-09-29 18:28:53.642004,Common Error Extensions and Helpers,ruby,2014-06-06 19:25:03.32706,t,f,18,f,human_error-1.8.2,"--- []
 ",10240,"--- []
 ",>= 0,0zOucSwY5hG5oyShPbsErzABiDgkrt9njzGvWMU8/jg=,"",>= 0,,,1.8.2,,,ruby,human_error-1.8.2,7usepMz/LYV/twbuiXf8olm6bz7jfp9pBWxqTGB9nXY=,,,,
-551584,"Robert Beekman, Steven Weller, Thijs Cadier, Ron Cadier, Jacob Vosmaer",The official appsignal.com gem,0.9.0.alpha.1,65664,2014-06-06 00:00:00,2023-09-29 18:28:53.686128,Logs performance and exception data from your app to appsignal.com,ruby,2014-06-06 19:25:30.572384,t,t,573,f,appsignal-0.9.0.alpha.1,"---
+551584,"Robert Beekman, Steven Weller, Thijs Cadier, Ron Cadier, Jacob Vosmaer",The official appsignal.com gem,0.9.0.alpha.1,65664,2014-06-06 00:00:00,2023-09-29 18:28:53.686128,Logs performance and exception data from your app to appsignal.com,ruby,2014-06-06 19:25:30.572384,t,t,576,f,appsignal-0.9.0.alpha.1,"---
 - MIT
 ",182784,"--- []
 ",>= 1.9.3,gpldTKlIEs45hihlbpSzTWr6UHTiqxTXnx2etas3HO8=,"",> 1.3.1,,,0.9.alpha.1,,,ruby,appsignal-0.9.0.alpha.1,ohB0Mb8jWs5EgG+Ix5Q9PfU7+yFCPTTDxLGt4V3SJxw=,,,,
@@ -6747,7 +6747,7 @@ use the more idiomatic: <tt>view << subview</tt>.
 - MIT
 ",127488,"--- []
 ",>= 2.1,bMWrtKOkA/X1w0syGTz33XsY3mTPQ8DrVKy2wUl6CoI=,"",>= 0,,,4.0.3,,,ruby,lazier-4.0.3,TbUSk875STArCPdlZgkNSioKvU9BIcHbYOVdmBhQoBk=,,,,
-551587,"Robert Beekman, Steven Weller, Thijs Cadier, Ron Cadier, Jacob Vosmaer",The official appsignal.com gem,0.9.0.beta.1,65664,2014-06-06 00:00:00,2023-09-29 18:28:53.937082,Logs performance and exception data from your app to appsignal.com,ruby,2014-06-06 19:35:14.542609,t,t,572,f,appsignal-0.9.0.beta.1,"---
+551587,"Robert Beekman, Steven Weller, Thijs Cadier, Ron Cadier, Jacob Vosmaer",The official appsignal.com gem,0.9.0.beta.1,65664,2014-06-06 00:00:00,2023-09-29 18:28:53.937082,Logs performance and exception data from your app to appsignal.com,ruby,2014-06-06 19:35:14.542609,t,t,575,f,appsignal-0.9.0.beta.1,"---
 - MIT
 ",182784,"--- []
 ",>= 1.9.3,DMZvUsNyEYHi0F9phUK141mMv8ec1RWTivHmtrEj5IA=,"",> 1.3.1,,,0.9.beta.1,,,ruby,appsignal-0.9.0.beta.1,e9z5H6RCUFTyjZzP/S49nE9C3xPTyKV68s8RSOcT/70=,,,,
@@ -9285,7 +9285,7 @@ VladGh.com's deployment.
 - MIT
 ",332288,"--- []
 ",>= 0,KLQvwkZyCcOwiyoLQqdnPSChDYDH1M5Gvhp+UM44964=,"",>= 0,,,0.3,,,ruby,reveal-ck-0.3.0,ivCIFP0TRyaS+S4LhbWTaQE1rHD17kH1GS5D1vCfZFQ=,,,,
-552166,Sam Pohlenz,Seamlessly integrates TinyMCE into the Rails asset pipeline introduced in Rails 3.1.,4.0.28.1,44733,2014-06-09 00:00:00,2023-09-29 18:29:34.469589,Rails asset pipeline integration for TinyMCE.,ruby,2014-06-09 02:42:31.087526,t,f,195,f,tinymce-rails-4.0.28.1,"---
+552166,Sam Pohlenz,Seamlessly integrates TinyMCE into the Rails asset pipeline introduced in Rails 3.1.,4.0.28.1,44733,2014-06-09 00:00:00,2023-09-29 18:29:34.469589,Rails asset pipeline integration for TinyMCE.,ruby,2014-06-09 02:42:31.087526,t,f,196,f,tinymce-rails-4.0.28.1,"---
 - MIT
 ",804864,"--- []
 ",>= 0,M6fZoe00CTm9h+NnNZ0RoN+quMTJMFKCkmTUUIFMM78=,"",>= 0,,,4.0.28.1,,,ruby,tinymce-rails-4.0.28.1,wfR6PlWqJpiOmZWoBrQ/NPB6JY7wH53S9Hiiyy4Bagc=,,,,
@@ -9676,7 +9676,7 @@ library for use in the UK Government Single Domain project",1.5.3,48307,2014-06-
 - GPL-2
 ",28672,"--- []
 ",>= 0,hVW4tQycORf9syzTLXh+P0qtb4cngT2sAKAt1dZ1gLw=,"",>= 0,,,0.3.14,,,ruby,trac-wiki-0.3.14,gedYEh1+2h1g0VwjjS/i8DdNanW/YaXleNxgCuWUTsc=,,,,
-552255,SonicGarden,,0.1.1.beta4,70702,2014-06-09 00:00:00,2023-09-29 18:29:41.531828,Client for the CopyTuner copy management service,ruby,2014-06-09 11:25:37.214022,t,t,98,f,copy_tuner_client-0.1.1.beta4,"--- []
+552255,SonicGarden,,0.1.1.beta4,70702,2014-06-09 00:00:00,2023-09-29 18:29:41.531828,Client for the CopyTuner copy management service,ruby,2014-06-09 11:25:37.214022,t,t,99,f,copy_tuner_client-0.1.1.beta4,"--- []
 ",50688,"--- []
 ",>= 0,vJRz2kf3fr1PuUxqR49rnDK2T+75SpTRFgHd1qMdfsw=,"",> 1.3.1,,,0.1.1.beta.4,,,ruby,copy_tuner_client-0.1.1.beta4,EGMuCazM1zG6nhHlQLG+zkAsXniz35emoM3+w5sInT4=,,,,
 552256,Jonathan Amiez,OVH REST API interface,0.0.3,81662,2014-06-09 00:00:00,2023-09-29 18:29:41.637587,Manage OVH services from Ruby,ruby,2014-06-09 11:26:55.276566,t,f,2,f,ovh-rest-0.0.3,"---
@@ -11192,7 +11192,7 @@ cf1a10",1.2597.0,56900,2014-06-10 00:00:00,2023-09-29 18:30:08.203452,BOSH VSphe
 It defines Task model for keeping the information about the tasks and Lock for assigning the tasks
 to resources. The locking allows dealing with preventing multiple colliding tasks to be run on the
 same resource. It also optionally provides Dynflow infrastructure for using it for managing the tasks.
-",0.6.0,91717,2014-06-10 00:00:00,2023-09-29 18:30:09.137346,Foreman plugin for showing tasks information for resoruces and users,ruby,2014-06-10 06:52:06.001167,t,f,198,f,foreman-tasks-0.6.0,"--- []
+",0.6.0,91717,2014-06-10 00:00:00,2023-09-29 18:30:09.137346,Foreman plugin for showing tasks information for resoruces and users,ruby,2014-06-10 06:52:06.001167,t,f,199,f,foreman-tasks-0.6.0,"--- []
 ",41472,"--- []
 ",>= 0,3k+MhtUOZ03MjsgSN/NP9f4BUW0D0Dr/MwNM42p/W30=,"",>= 0,,,0.6,,,ruby,foreman-tasks-0.6.0,tUyigAnRDTkiKUB5UXYv3VfjnxQshe+UKUmbeiyh97s=,,,,
 552626,Dan Davey,"Extends ActiveResource to provide a base for Journey resources, supporting all attribute types",0.0.14,93064,2014-06-10 00:00:00,2023-09-29 18:30:09.205945,Journey API wrapper for Ruby,ruby,2014-06-10 06:52:30.159557,t,f,24,f,embark-journey-0.0.14,"---
@@ -12773,7 +12773,7 @@ automating Job & Pipeline creation from the YAML files checked-in with your appl
 552992,Hal Fulton,"                  This is a library for handling dates and times on Mars
                   for the Martian Common Era calendar (created by Hal Fulton).
                   The functionality closely follows that of Ruby's Time class.
-",1.0.9,99459,2014-06-11 00:00:00,2023-09-29 18:30:38.643142,Date/time library for Mars,ruby,2014-06-11 00:47:54.08917,t,f,2,f,marsdate-1.0.9,"---
+",1.0.9,99459,2014-06-11 00:00:00,2023-09-29 18:30:38.643142,Date/time library for Mars,ruby,2014-06-11 00:47:54.08917,t,f,4,f,marsdate-1.0.9,"---
 - Ruby License
 ",8192,"--- []
 ",>= 0,7nzinBWgevJrmedGFTkUtl+K8aoMpqdFiIQbWeS6Kgo=,"",>= 0,,,1.0.9,,,ruby,marsdate-1.0.9,7uyXFIO0ZW5mdlfPd+rFslk7/fiwir+Y58pY8ONA/vI=,,,,
@@ -13022,7 +13022,7 @@ If you don't have RubyGems installed, you can still do it manually:
 
 For more details and other options, see:
 
-  ruby setup.rb --help",2.3.0,16475,2014-06-11 00:00:00,2023-09-29 18:30:43.153868,RubyGems is a package management framework for Ruby,ruby,2014-06-11 03:40:23.938301,t,f,211,f,rubygems-update-2.3.0,"---
+  ruby setup.rb --help",2.3.0,16475,2014-06-11 00:00:00,2023-09-29 18:30:43.153868,RubyGems is a package management framework for Ruby,ruby,2014-06-11 03:40:23.938301,t,f,212,f,rubygems-update-2.3.0,"---
 - Ruby
 - MIT
 ",434688,"--- []
@@ -13650,7 +13650,7 @@ on air. You can get information about a story, and if it got fired already ",0.1
 - MIT
 ",9216,"--- []
 ",>= 0,ITQLsSdWJCMZ++3F8Sg0hpYbSTr882NMjph12a+VoNE=,"",>= 0,,,1.0.2,,,ruby,active_scaffold_duplicate-1.0.2,iM9dO8e29SgwYZ2VK2Izc0zadBakms0cDm6fsb7FB40=,,,,
-553208,"Many, see README","Save time and headaches, and create a more easily maintainable set of pages, with ActiveScaffold. ActiveScaffold handles all your CRUD (create, read, update, delete) user interface needs, leaving you more time to focus on more challenging (and interesting!) problems.",3.4.0,34995,2014-06-11 00:00:00,2023-09-29 18:30:55.087776,Rails 3.2 and 4.0 version of activescaffold supporting prototype and jquery,ruby,2014-06-11 14:09:38.646788,t,f,125,f,active_scaffold-3.4.0,"---
+553208,"Many, see README","Save time and headaches, and create a more easily maintainable set of pages, with ActiveScaffold. ActiveScaffold handles all your CRUD (create, read, update, delete) user interface needs, leaving you more time to focus on more challenging (and interesting!) problems.",3.4.0,34995,2014-06-11 00:00:00,2023-09-29 18:30:55.087776,Rails 3.2 and 4.0 version of activescaffold supporting prototype and jquery,ruby,2014-06-11 14:09:38.646788,t,f,126,f,active_scaffold-3.4.0,"---
 - MIT
 ",265216,"--- []
 ",>= 0,htK+v2lrjyzFgygXq35CBPE3b6DNpkiHA60xTNf669U=,"",>= 0,,,3.4,,,ruby,active_scaffold-3.4.0,oYcvUwYBayaD09ty7SS7cZMW5p3Ggio0kqphKVH4qgg=,,,,
@@ -15420,7 +15420,7 @@ This gem provides building blocks to create advanced scenarios in a very consise
 - MIT
 ",11776,"--- []
 ",>= 0,iFD9hQ7DpQCf4uvw/RWWwKxP8m0nBJJCQaowUHH4new=,"",> 1.3.1,,,0.4.alpha,,,ruby,sass-flexi-0.4.alpha,x5O0NGNDeBTHxX4ksBaEZkS1gQrKFGlh0XsnYfHrn0s=,,,,
-553636,"Many, see README","Save time and headaches, and create a more easily maintainable set of pages, with ActiveScaffold. ActiveScaffold handles all your CRUD (create, read, update, delete) user interface needs, leaving you more time to focus on more challenging (and interesting!) problems.",3.4.0.1,34995,2014-06-12 00:00:00,2023-09-29 18:31:27.874703,Rails 3.2 and 4.0 version of activescaffold supporting prototype and jquery,ruby,2014-06-12 13:16:45.01772,t,f,124,f,active_scaffold-3.4.0.1,"---
+553636,"Many, see README","Save time and headaches, and create a more easily maintainable set of pages, with ActiveScaffold. ActiveScaffold handles all your CRUD (create, read, update, delete) user interface needs, leaving you more time to focus on more challenging (and interesting!) problems.",3.4.0.1,34995,2014-06-12 00:00:00,2023-09-29 18:31:27.874703,Rails 3.2 and 4.0 version of activescaffold supporting prototype and jquery,ruby,2014-06-12 13:16:45.01772,t,f,125,f,active_scaffold-3.4.0.1,"---
 - MIT
 ",265216,"--- []
 ",>= 0,nR33eOn44IL32YvbyJ8sapUM+GHFjbIrPO3iZk/2GO8=,"",>= 0,,,3.4.0.1,,,ruby,active_scaffold-3.4.0.1,rc19QCOi99PB4oCMBJ1ezE35ELGJDuag8xBrR0lpOuE=,,,,
@@ -17086,7 +17086,7 @@ Better than Log!
 - Apache-2.0
 ",23552,"--- []
 ",>= 1.9.3,wJ+z50MxiXjjgPyf/6O/CQ7A/tZZ7TLwEb6QvFjoQE8=,"",>= 0,,,0.5.7,,,ruby,cmis-ruby-0.5.7,e3eedGVhbdr6kDHiBno4ZDbHhwV7HYX6YdbbahIz92w=,,,,
-554019,SonicGarden,"",0.0.14,70702,2014-06-13 00:00:00,2023-09-29 18:31:59.166997,Client for the CopyTuner copy management service,ruby,2014-06-13 07:51:08.926865,t,f,104,f,copy_tuner_client-0.0.14,"--- []
+554019,SonicGarden,"",0.0.14,70702,2014-06-13 00:00:00,2023-09-29 18:31:59.166997,Client for the CopyTuner copy management service,ruby,2014-06-13 07:51:08.926865,t,f,105,f,copy_tuner_client-0.0.14,"--- []
 ",32768,"--- []
 ",>= 0,Y8n7J4580BpDkXV7XZofkwU5k2xgUNO0E91yhI+byxI=,"",>= 0,,,0.0.14,,,ruby,copy_tuner_client-0.0.14,30dBkmk8ihxIt33RaqbqBfo/Gv+NIqe+nytOpI7PMSg=,,,,
 554020,Wouter de Vos,"At Springest, we use Logstash to ship all our logs to Elasticsearch. An Elasticsearch index consists of JSON documents.
@@ -17450,7 +17450,7 @@ listened in to the HTTP conversation somehow.",0.0.1,100156,2014-06-13 00:00:00,
 It defines Task model for keeping the information about the tasks and Lock for assigning the tasks
 to resources. The locking allows dealing with preventing multiple colliding tasks to be run on the
 same resource. It also optionally provides Dynflow infrastructure for using it for managing the tasks.
-",0.6.1,91717,2014-06-13 00:00:00,2023-09-29 18:32:05.637849,Foreman plugin for showing tasks information for resoruces and users,ruby,2014-06-13 13:49:42.424154,t,f,197,f,foreman-tasks-0.6.1,"--- []
+",0.6.1,91717,2014-06-13 00:00:00,2023-09-29 18:32:05.637849,Foreman plugin for showing tasks information for resoruces and users,ruby,2014-06-13 13:49:42.424154,t,f,198,f,foreman-tasks-0.6.1,"--- []
 ",41984,"--- []
 ",>= 0,olFC/eUpC5glUPMvnao1K2UEagRyt6Si9et6bmIWt6g=,"",>= 0,,,0.6.1,,,ruby,foreman-tasks-0.6.1,kwoZjxBezE47kNdgrjJwqSoNU9JcyJAnqOVbsV24+Oc=,,,,
 554106,Ben Snape,"[""Easily"", ""monitor"", ""the"", ""health"", ""of"", ""arbitrary"", ""URI's"", ""defined"", ""in"", ""YAML"", ""config""]",0.0.3,100080,2014-06-13 00:00:00,2023-09-29 18:32:05.702891,"[""Monitor"", ""the"", ""health"", ""of"", ""URI's""]",ruby,2014-06-13 13:50:29.335724,t,f,2,f,eir-0.0.3,"---
@@ -20030,7 +20030,7 @@ As well, it can be used to create on-the-fly customized PDFs, or to inject (evil
 - MIT
 ",12288,"--- []
 ",>= 0,BgVKKg3P6Du7a2PLaa2BeMRIVi4jW2yqX00NjdXm/5Y=,"",>= 0,,,0.0.5,,,ruby,alipay-0.0.5,/R/7Ei7BjWwi0/YF0KB25kaxpckMgDazNST0G/onsjY=,,,,
-554562,Applitools team,Applitools Ruby SDK,1.37.0,87230,2014-06-15 00:00:00,2023-09-29 18:32:39.403348,Applitools Ruby SDK,ruby,2014-06-15 12:09:00.812745,t,f,297,f,eyes_selenium-1.37.0,"---
+554562,Applitools team,Applitools Ruby SDK,1.37.0,87230,2014-06-15 00:00:00,2023-09-29 18:32:39.403348,Applitools Ruby SDK,ruby,2014-06-15 12:09:00.812745,t,f,298,f,eyes_selenium-1.37.0,"---
 - Apache License, Version 2.0
 ",146432,"--- []
 ",>= 0,4BKXDfzvBODmH8dHZBuran69qcy/Uuk9xF3BcC7xsJw=,"",>= 0,,,1.37,,,ruby,eyes_selenium-1.37.0,1JK4EebfyaTN3oDwv6x7F/1UF9Gdoa1aIOzZ8BY0+Ec=,,,,
@@ -20049,7 +20049,7 @@ As well, it can be used to create on-the-fly customized PDFs, or to inject (evil
 554566,Alex Vangelov,"Extface allows use of Cash Registers, Fiscal and POS printers without physical connection between the device, application server and the end user. Can also be used for remotely reading CDR logs from PBX systems and actually supports data exchange with all low-speed devices having serial, parallel or USB* interface",0.2.5,93496,2014-06-15 00:00:00,2023-09-29 18:32:39.611931,External Interfaces for Cloud-Based Applications (Rails 4),ruby,2014-06-15 12:20:25.78815,t,f,61,f,extface-0.2.5,"--- []
 ",61440,"--- []
 ",>= 0,d6CfQRYwWodlc04kjDhsa4M+EIptzWuDmBru7n6wt8M=,"",>= 0,,,0.2.5,,,ruby,extface-0.2.5,RzU0yAGQBDyQeFaHV+QWkJzfgJGAFB9RmZNitOFHp+8=,,,,
-554567,Applitools team,Applitools Ruby SDK,1.38.0,87230,2014-06-15 00:00:00,2023-09-29 18:32:39.700543,Applitools Ruby SDK,ruby,2014-06-15 12:26:46.857138,t,f,296,f,eyes_selenium-1.38.0,"---
+554567,Applitools team,Applitools Ruby SDK,1.38.0,87230,2014-06-15 00:00:00,2023-09-29 18:32:39.700543,Applitools Ruby SDK,ruby,2014-06-15 12:26:46.857138,t,f,297,f,eyes_selenium-1.38.0,"---
 - Apache License, Version 2.0
 ",146432,"--- []
 ",>= 0,bJUsu8DSpcD/gOGGBnvCoMZo2hbPRD8gvbr6ztZXp0g=,"",>= 0,,,1.38,,,ruby,eyes_selenium-1.38.0,hewJChbu2wBZ7kYqCT8CvUWvMItb9nkwJ84sr+8Y2JM=,,,,
@@ -20189,7 +20189,7 @@ As well, it can be used to create on-the-fly customized PDFs, or to inject (evil
 - MIT
 ",7680,"--- []
 ",>= 0,6g1kaFs6E2wvQKj9zX3NzRtQnPtXLtL19e5WmttOxLk=,"",>= 0,,,0.4.1,,,ruby,twitter2fleep-0.4.1,Y6NR0lx5kuo6cVv55GbhjC6SbNtxZj7v4fsWpOTMCOA=,,,,
-554599,Applitools team,Applitools Ruby SDK,1.39.0,87230,2014-06-15 00:00:00,2023-09-29 18:32:43.044352,Applitools Ruby SDK,ruby,2014-06-15 16:54:34.630734,t,f,295,f,eyes_selenium-1.39.0,"---
+554599,Applitools team,Applitools Ruby SDK,1.39.0,87230,2014-06-15 00:00:00,2023-09-29 18:32:43.044352,Applitools Ruby SDK,ruby,2014-06-15 16:54:34.630734,t,f,296,f,eyes_selenium-1.39.0,"---
 - Apache License, Version 2.0
 ",146432,"--- []
 ",>= 0,WROrjRcAcqq8PoPHEHNbwbiY0OiW2Aw/M83bgAzd9pE=,"",>= 0,,,1.39,,,ruby,eyes_selenium-1.39.0,/9cq8bAfFoCcOoLZkS46fyrmGIJAFAOw7GIx9iucHec=,,,,
@@ -21305,7 +21305,7 @@ There are some how to guides in the doc folder.
 It defines Task model for keeping the information about the tasks and Lock for assigning the tasks
 to resources. The locking allows dealing with preventing multiple colliding tasks to be run on the
 same resource. It also optionally provides Dynflow infrastructure for using it for managing the tasks.
-",0.6.2,91717,2014-06-16 00:00:00,2023-09-29 18:33:01.646916,Foreman plugin for showing tasks information for resoruces and users,ruby,2014-06-16 12:16:12.961254,t,f,196,f,foreman-tasks-0.6.2,"--- []
+",0.6.2,91717,2014-06-16 00:00:00,2023-09-29 18:33:01.646916,Foreman plugin for showing tasks information for resoruces and users,ruby,2014-06-16 12:16:12.961254,t,f,197,f,foreman-tasks-0.6.2,"--- []
 ",41984,"--- []
 ",>= 0,gK6PW9qHWK/pNlOApo77WYEbr5xUVO6VP2J74G7Ndu8=,"",>= 0,,,0.6.2,,,ruby,foreman-tasks-0.6.2,tzsG4/rEsbukrDNyhs8VkPlvuaxLnnR3kvHjGcqcyB4=,,,,
 554842,Frank Macreery,Ruby client for api.aptible.com,0.5.5,92822,2014-06-16 00:00:00,2023-09-29 18:33:01.735836,Ruby client for api.aptible.com,ruby,2014-06-16 12:19:44.350665,t,f,121,f,aptible-api-0.5.5,"---
@@ -21717,7 +21717,7 @@ library for use in the UK Government Single Domain project",1.6.0,48307,2014-06-
 - MIT
 ",20992,"--- []
 ",>= 0,02Zvhak0AsFD6I3KQXUreXXvEvFtggdwEpfNO8YHKIg=,"",>= 0,,,3,,,ruby,aureus-3.0.0,c7/vhJLrLbw7+RIfkkr9yYgMv+ba+BYcKFh6Z2MgQ04=,,,,
-554946,"André Arko, Terence Lee, Carl Lerche, Yehuda Katz","Bundler manages an application's dependencies through its entire life, across many machines, systematically and repeatably",1.6.3,19969,2014-06-16 00:00:00,2023-09-29 18:33:10.284263,The best way to manage your application's dependencies,ruby,2014-06-16 16:07:29.763883,t,f,289,f,bundler-1.6.3,"---
+554946,"André Arko, Terence Lee, Carl Lerche, Yehuda Katz","Bundler manages an application's dependencies through its entire life, across many machines, systematically and repeatably",1.6.3,19969,2014-06-16 00:00:00,2023-09-29 18:33:10.284263,The best way to manage your application's dependencies,ruby,2014-06-16 16:07:29.763883,t,f,290,f,bundler-1.6.3,"---
 - MIT
 ",293376,"--- []
 ",>= 1.8.7,V+s9ekHW+xyZ72L2VLWpWgc2iJzO3PaK8XXUM9xMRSE=,"",>= 1.3.6,,,1.6.3,,,ruby,bundler-1.6.3,3QGI5VXR3xznlW7nwtcZl3ShGFk8qFsB/gmvXP4V2vg=,,,,
@@ -22829,7 +22829,7 @@ caught flat-footed by the GPL.
 - BSD
 ",64000,"--- []
 ",>= 0,fnUlVk1JV+ZXsouLGKpP90+NWq0vLJHdjgNh+xU1L/k=,"",>= 0,,,0.10.7,,,ruby,motion-kit-0.10.7,MQD8H52WG/Ql44uMu2oAJM0GBvya9N3VYgcPmaV7vnA=,,,,
-555180,Mark Larsen,"",0.0.1,100326,2014-06-17 00:00:00,2023-09-29 18:33:28.150765,Test coverage reports for Xcode projects,ruby,2014-06-17 05:11:04.606956,t,f,63,f,slather-0.0.1,"---
+555180,Mark Larsen,"",0.0.1,100326,2014-06-17 00:00:00,2023-09-29 18:33:28.150765,Test coverage reports for Xcode projects,ruby,2014-06-17 05:11:04.606956,t,f,64,f,slather-0.0.1,"---
 - MIT
 ",7680,"--- []
 ",>= 0,YeJuWowJHXrpFC+ikO/aGLKueydMR1bX3IlVQch3kh8=,"",>= 0,,,0.0.1,,,ruby,slather-0.0.1,C17TAuqGWmSDWCv10LrDIg0nc5GJn7m1ytbx8YZ4dPU=,,,,
@@ -22844,15 +22844,15 @@ caught flat-footed by the GPL.
 - MIT
 ",11264,"--- []
 ",>= 0,FeD/EpDBTz6W8VMbEC1lW5EeAmrsxKEww9k4Mn9X7EY=,"",>= 0,,,0.1,,,ruby,jdoc-0.1.0,3Lpr7u3LlQ+vCREOlf+Ju3Gb3DtayTMo5UjrovuznNI=,,,,
-555184,Mark Larsen,"",0.0.2,100326,2014-06-17 00:00:00,2023-09-29 18:33:28.484983,Test coverage reports for Xcode projects,ruby,2014-06-17 05:49:12.252566,t,f,62,f,slather-0.0.2,"---
+555184,Mark Larsen,"",0.0.2,100326,2014-06-17 00:00:00,2023-09-29 18:33:28.484983,Test coverage reports for Xcode projects,ruby,2014-06-17 05:49:12.252566,t,f,63,f,slather-0.0.2,"---
 - MIT
 ",7680,"--- []
 ",>= 0,n9EOfC0z1l9IMFQMrh4FNpQ8cg5OnwHWaTd75KAJU6A=,"",>= 0,,,0.0.2,,,ruby,slather-0.0.2,K4DHxqIwV2o5UwiVcKfvm0faxUUnWYrzf2A2eSDbh4g=,,,,
-555185,Mark Larsen,"",0.0.21,100326,2014-06-17 00:00:00,2023-09-29 18:33:28.685138,Test coverage reports for Xcode projects,ruby,2014-06-17 06:02:23.335266,t,f,60,f,slather-0.0.21,"---
+555185,Mark Larsen,"",0.0.21,100326,2014-06-17 00:00:00,2023-09-29 18:33:28.685138,Test coverage reports for Xcode projects,ruby,2014-06-17 06:02:23.335266,t,f,61,f,slather-0.0.21,"---
 - MIT
 ",7680,"--- []
 ",>= 0,aTaPhQsciIEF45LKcPCp81v1oTu9Is8F8nM6yWK4pgY=,"",>= 0,,,0.0.21,,,ruby,slather-0.0.21,cGXM468hxZKKRATjP+2w6vrd0f9wL2CUzh2elX4aJGI=,,,,
-555186,Mark Larsen,"",0.0.22,100326,2014-06-17 00:00:00,2023-09-29 18:33:28.749616,Test coverage reports for Xcode projects,ruby,2014-06-17 06:09:37.494411,t,f,59,f,slather-0.0.22,"---
+555186,Mark Larsen,"",0.0.22,100326,2014-06-17 00:00:00,2023-09-29 18:33:28.749616,Test coverage reports for Xcode projects,ruby,2014-06-17 06:09:37.494411,t,f,60,f,slather-0.0.22,"---
 - MIT
 ",7680,"--- []
 ",>= 0,XHOOa5CAZ9WCnirstT4gQjFZRzNjlcbJDzK+F5mpBz8=,"",>= 0,,,0.0.22,,,ruby,slather-0.0.22,I0eI4nWWSzPt71yjZVGMuczehZ82DFxi7D7bvz2BkHw=,,,,
@@ -22907,7 +22907,7 @@ jasmine, evergreen, and many other frameworks.
 - Apache 2.0
 ",9728,"--- []
 ",>= 0,eJpGnG1qfqt+lvUE4IIVb6yCy+6h/ZzZGVGLfKb3dJA=,"",>= 0,,,0.0.25,,,ruby,tvd-vagrant-0.0.25,Q3CeL+y+F0aQoqpZvVsxBbidUFoD9tLvk5IsPDxhUXE=,,,,
-555196,Mark Larsen,"",0.0.23,100326,2014-06-17 00:00:00,2023-09-29 18:33:29.174719,Test coverage reports for Xcode projects,ruby,2014-06-17 06:54:13.048411,t,f,58,f,slather-0.0.23,"---
+555196,Mark Larsen,"",0.0.23,100326,2014-06-17 00:00:00,2023-09-29 18:33:29.174719,Test coverage reports for Xcode projects,ruby,2014-06-17 06:54:13.048411,t,f,59,f,slather-0.0.23,"---
 - MIT
 ",7680,"--- []
 ",>= 0,fD55lsFdnW0KSflJhx7gQoHwRQzNjf5jBT3EojfN5xE=,"",>= 0,,,0.0.23,,,ruby,slather-0.0.23,bf39cEgCX8xGX91vbRKBl17KQbWirYGiWVQH6gz7WfY=,,,,
@@ -22932,7 +22932,7 @@ jasmine, evergreen, and many other frameworks.
 - MIT
 ",14336,"--- []
 ",>= 0,iF8xQL0L4gWeQ2a62K7+UhFwW0AcDODnvmKLaiGPSEI=,"",>= 0,,,1.0.5,,,ruby,rack-json_schema-1.0.5,x7y3sVUXHW+vcEk00vcEuVmKLN/vBIgu84vtC2nMxdc=,,,,
-555199,Mark Larsen,"",0.0.231,100326,2014-06-17 00:00:00,2023-09-29 18:33:29.344942,Test coverage reports for Xcode projects,ruby,2014-06-17 07:31:09.212262,t,f,56,f,slather-0.0.231,"---
+555199,Mark Larsen,"",0.0.231,100326,2014-06-17 00:00:00,2023-09-29 18:33:29.344942,Test coverage reports for Xcode projects,ruby,2014-06-17 07:31:09.212262,t,f,57,f,slather-0.0.231,"---
 - MIT
 ",7680,"--- []
 ",>= 0,swpKRWS7egZ/XoFkdA4FuzcCFnruEuuw2EaEibNSTTw=,"",>= 0,,,0.0.231,,,ruby,slather-0.0.231,1UAfkZmQDqocf2MJt+nq3xfH2mui2oIkviY9f+Rgk4c=,,,,
@@ -22956,7 +22956,7 @@ jasmine, evergreen, and many other frameworks.
 - MIT
 ",6144,"--- []
 ",>= 0,SsGCniMcDW13SI2C8x6hApXpdErQsxcDonvy74F1cSE=,"",>= 0,,,0.0.1,,,ruby,oceania-0.0.1,aO4R+8zcKNUfqjcAJcgRgmucNLYNmG4Hzht94jjMjwc=,ed757a39d2ad62c6e4926c24d9fe7aeb,,,
-555205,Mark Larsen,"",0.0.232,100326,2014-06-17 00:00:00,2023-09-29 18:33:29.981978,Test coverage reports for Xcode projects,ruby,2014-06-17 07:49:55.697452,t,f,55,f,slather-0.0.232,"---
+555205,Mark Larsen,"",0.0.232,100326,2014-06-17 00:00:00,2023-09-29 18:33:29.981978,Test coverage reports for Xcode projects,ruby,2014-06-17 07:49:55.697452,t,f,56,f,slather-0.0.232,"---
 - MIT
 ",7680,"--- []
 ",>= 0,k3knjW05GUvZ4nibrHrnD91mvVxsGMdzFjMbhQdowko=,"",>= 0,,,0.0.232,,,ruby,slather-0.0.232,SMHgJfbwL9MIfN1ycKvPUtWDRTSaqx52z84q7sKwZVA=,,,,
@@ -23185,7 +23185,7 @@ export/conversion to formats such as YAML, JSON, CSL, and XML (BibTeXML).
 - MIT
 ",3072,"--- []
 ",>= 0,1Y9RjZseJOUUgwE0mQ0myjihg09auOQbMLxZZ2/X1ic=,"",>= 0,,,"",,,ruby,xcube-0.0.0,UkfDZLPpc234OaeNYlSju/nUSva3sINiONDC8hC/DT0=,b01e713ae50ee431d6726b83646bdedc,,,
-555263,"Ben McRedmond, Ciaran Lee, Darragh Curran, Jeff Gardner, Kyle Daigle, Declan McGrath, Jamie Osler, Bob Long",Intercom (https://www.intercom.io) is a customer relationship management and messaging tool for web app owners. This library wraps the api provided by Intercom. See http://docs.intercom.io/api for more details. ,2.0.0,53941,2014-06-17 00:00:00,2023-09-29 18:33:34.397094,Ruby bindings for the Intercom API,ruby,2014-06-17 12:13:56.913866,t,f,86,f,intercom-2.0.0,"---
+555263,"Ben McRedmond, Ciaran Lee, Darragh Curran, Jeff Gardner, Kyle Daigle, Declan McGrath, Jamie Osler, Bob Long",Intercom (https://www.intercom.io) is a customer relationship management and messaging tool for web app owners. This library wraps the api provided by Intercom. See http://docs.intercom.io/api for more details. ,2.0.0,53941,2014-06-17 00:00:00,2023-09-29 18:33:34.397094,Ruby bindings for the Intercom API,ruby,2014-06-17 12:13:56.913866,t,f,87,f,intercom-2.0.0,"---
 - MIT
 ",158720,"--- []
 ",>= 0,FoU9+4zZMhgCSyK/vGdVbriFNm6WBK360HQbjE8Wf80=,"",>= 0,,,2,,,ruby,intercom-2.0.0,uRTztbb5jecBqdAo2oclpbNgpF0sAfL6M52NtbHcvnc=,,,,
@@ -23332,7 +23332,7 @@ export/conversion to formats such as YAML, JSON, CSL, and XML (BibTeXML).
 - MIT
 ",17920,"--- []
 ",>= 0,ClWY9JMuMky4iS210qN9DeXF+qqqPIT6HeBLagLrj7A=,"",>= 0,,,1.1.2,,,ruby,json_spec-1.1.2,XEySuOU2yh2ASuLfbwuGDcg2davPTCmikibPR0Sr4sY=,,,,
-555301,"Ben McRedmond, Ciaran Lee, Darragh Curran, Jeff Gardner, Kyle Daigle, Declan McGrath, Jamie Osler, Bob Long",Intercom (https://www.intercom.io) is a customer relationship management and messaging tool for web app owners. This library wraps the api provided by Intercom. See http://docs.intercom.io/api for more details. ,2.0.1,53941,2014-06-17 00:00:00,2023-09-29 18:33:37.768217,Ruby bindings for the Intercom API,ruby,2014-06-17 14:13:02.714998,t,f,85,f,intercom-2.0.1,"---
+555301,"Ben McRedmond, Ciaran Lee, Darragh Curran, Jeff Gardner, Kyle Daigle, Declan McGrath, Jamie Osler, Bob Long",Intercom (https://www.intercom.io) is a customer relationship management and messaging tool for web app owners. This library wraps the api provided by Intercom. See http://docs.intercom.io/api for more details. ,2.0.1,53941,2014-06-17 00:00:00,2023-09-29 18:33:37.768217,Ruby bindings for the Intercom API,ruby,2014-06-17 14:13:02.714998,t,f,86,f,intercom-2.0.1,"---
 - MIT
 ",158720,"--- []
 ",~> 2.0,9yYgxRsJZ8CAn8PTZfGd4AegnBorzMfvMf7mcMe68RU=,"",>= 0,,,2.0.1,,,ruby,intercom-2.0.1,zMdfi/FhKMpQe27iJEOqdFSt23GE3SAaN6e1U/193Ng=,,,,
@@ -23410,7 +23410,7 @@ export/conversion to formats such as YAML, JSON, CSL, and XML (BibTeXML).
 It defines Task model for keeping the information about the tasks and Lock for assigning the tasks
 to resources. The locking allows dealing with preventing multiple colliding tasks to be run on the
 same resource. It also optionally provides Dynflow infrastructure for using it for managing the tasks.
-",0.6.3,91717,2014-06-17 00:00:00,2023-09-29 18:33:39.494812,Foreman plugin for showing tasks information for resoruces and users,ruby,2014-06-17 14:51:39.214252,t,f,195,f,foreman-tasks-0.6.3,"--- []
+",0.6.3,91717,2014-06-17 00:00:00,2023-09-29 18:33:39.494812,Foreman plugin for showing tasks information for resoruces and users,ruby,2014-06-17 14:51:39.214252,t,f,196,f,foreman-tasks-0.6.3,"--- []
 ",41984,"--- []
 ",>= 0,MDmNQKgjUixA2xmceWv/hzPAkxdIu9WDEtVt8XXJoBg=,"",>= 0,,,0.6.3,,,ruby,foreman-tasks-0.6.3,cRdPhrxywA4Xl7OFBxx92ZD1uSLJI2RLxutoC1MyvFM=,,,,
 555321,Patrick Simianer,NLP related tools and classes,1.0.3,100287,2014-06-17 00:00:00,2023-09-29 18:33:39.589752,zipf,ruby,2014-06-17 14:53:25.775257,t,f,8,f,zipf-1.0.3,"---
@@ -23537,7 +23537,7 @@ same resource. It also optionally provides Dynflow infrastructure for using it f
 555350,Eloy Gomez,CLI for debox,0.0.3,77360,2014-06-17 00:00:00,2023-09-29 18:33:41.867283,Debox is a deploy manager,ruby,2014-06-17 16:30:06.306137,t,f,0,t,debox-0.0.3,"--- []
 ",15872,"--- []
 ",>= 0,SWMV4drvUAp5Dp3DNqHExjAWkgFL4kkagM8EUQuc8bM=,"",>= 0,,,0.0.3,,,ruby,debox-0.0.3,A30wD12FvHvxCFlYE0iujgx/T5ecB9bZtxdyhsXK5A0=,bcda25338d1bb579e01c305a60198319,,,
-555351,Dynport GmbH,phrase allows you to edit translations in-place on the page itself. More information at phraseapp.com,0.4.26,55275,2014-06-17 00:00:00,2023-09-29 18:33:41.92525,The best way to manage i18n.,ruby,2014-06-17 16:32:52.924661,t,f,98,f,phrase-0.4.26,"--- []
+555351,Dynport GmbH,phrase allows you to edit translations in-place on the page itself. More information at phraseapp.com,0.4.26,55275,2014-06-17 00:00:00,2023-09-29 18:33:41.92525,The best way to manage i18n.,ruby,2014-06-17 16:32:52.924661,t,f,99,f,phrase-0.4.26,"--- []
 ",145408,"--- []
 ",>= 0,GwaF4U9rtLwBK7oqF7FIVFWRKufXRsnR70ZfolhBWrA=,"",>= 1.3.6,,,0.4.26,,,ruby,phrase-0.4.26,GopAb36cyP2UjKd8A7/tXWbbIh8ZOEUbbmIRZGU9Rqo=,,,,
 555352,Brian Shirai,Ruby standard library socket.,1.0.1,75971,2014-06-17 00:00:00,2023-09-29 18:33:41.998866,Ruby standard library socket.,ruby,2014-06-17 16:33:29.995508,t,f,8,f,rubysl-socket-1.0.1,"---
@@ -24191,7 +24191,7 @@ a72f3d",1.2606.0,56902,2014-06-13 00:00:00,2023-09-29 18:33:45.356967,BOSH agent
 555497,Ryan Ahearn,"Implements the iCalendar specification (RFC-5545) in Ruby.  This allows
 for the generation and parsing of .ics files, which are used by a
 variety of calendaring applications.
-",2.1.0,17552,2014-06-17 00:00:00,2023-09-29 18:33:53.568642,A ruby implementation of the iCalendar specification (RFC-5545).,ruby,2014-06-17 22:36:24.947243,t,f,31,f,icalendar-2.1.0,"--- []
+",2.1.0,17552,2014-06-17 00:00:00,2023-09-29 18:33:53.568642,A ruby implementation of the iCalendar specification (RFC-5545).,ruby,2014-06-17 22:36:24.947243,t,f,32,f,icalendar-2.1.0,"--- []
 ",29696,"--- []
 ",>= 1.9.2,FAOFU/IWz44WxVEqGvAlxOhhRYvofat9lUWuoOZBiPw=,"",>= 0,,,2.1,,,ruby,icalendar-2.1.0,u3gq+02sG0qbvMxoU/8BMz8KN/08SmDvW4STOZBwI40=,,,,
 555498,"Dennis Rogenius, David Butler",Faraday middleware for handling JSON using ActiveSupport::JSON,0.0.2,82753,2014-06-17 00:00:00,2023-09-29 18:33:53.621102,JSON request generator and response parser using ActiveSupport::JSON and FaradayMiddleware,ruby,2014-06-17 22:42:23.718125,t,f,1,f,faraday_middleware-active_support_json-0.0.2,"--- []
@@ -24409,7 +24409,7 @@ Rake with remote task goodness.",2.2.2,30808,2014-06-18 00:00:00,2023-09-29 18:3
 - Apache
 ",37376,"--- []
 ",>= 0,ymehRz8VyGClKU367hcXlXsZc8sIQLtlta8hPNBIAIw=,"",>= 0,,,1.0.4,,,ruby,openpay-1.0.4,B/IYXaem3eCzEbGq7lTl/4F3HUPisTzm0RqscpmVKSs=,,,,
-555529,"Ross Boucher, Greg Brockman",Stripe is the easiest way to accept payments online.  See https://stripe.com for details.,1.14.0,43921,2014-06-18 00:00:00,2023-09-29 18:33:56.078586,Ruby bindings for the Stripe API,ruby,2014-06-18 00:56:49.368626,t,f,509,f,stripe-1.14.0,"---
+555529,"Ross Boucher, Greg Brockman",Stripe is the easiest way to accept payments online.  See https://stripe.com for details.,1.14.0,43921,2014-06-18 00:00:00,2023-09-29 18:33:56.078586,Ruby bindings for the Stripe API,ruby,2014-06-18 00:56:49.368626,t,f,510,f,stripe-1.14.0,"---
 - MIT
 ",172032,"--- []
 ",>= 0,NX9Qi1Dls4ZXjyrby3n9bJ8ITkW6r8D1Kaf1gIjUemY=,"",>= 0,,,1.14,,,ruby,stripe-1.14.0,QWK5MKprrpfZctwzticGRdnWlnL/BaQ74yZKfMYr0X0=,,,,
@@ -25063,7 +25063,7 @@ The main functions of Lingo are:
 - none
 ",5120,"--- []
 ",>= 0,mBbzcZvgVW1/Uc+CE8/sIHccp/WZdMyToQcZgBEO1ck=,"",>= 0,,,0.1.1,,,ruby,event_manager-0.1.1,RjZJvCQDVwPWW2iq1PWLf54y4ByqAPJaQxmKgCXHPiM=,7bceb7080da843ef6050c3ed264f7292,,,
-555685,"Ben McRedmond, Ciaran Lee, Darragh Curran, Jeff Gardner, Kyle Daigle, Declan McGrath, Jamie Osler, Bob Long",Intercom (https://www.intercom.io) is a customer relationship management and messaging tool for web app owners. This library wraps the api provided by Intercom. See http://docs.intercom.io/api for more details. ,2.0.2,53941,2014-06-18 00:00:00,2023-09-29 18:34:08.429895,Ruby bindings for the Intercom API,ruby,2014-06-18 12:44:30.098155,t,f,84,f,intercom-2.0.2,"---
+555685,"Ben McRedmond, Ciaran Lee, Darragh Curran, Jeff Gardner, Kyle Daigle, Declan McGrath, Jamie Osler, Bob Long",Intercom (https://www.intercom.io) is a customer relationship management and messaging tool for web app owners. This library wraps the api provided by Intercom. See http://docs.intercom.io/api for more details. ,2.0.2,53941,2014-06-18 00:00:00,2023-09-29 18:34:08.429895,Ruby bindings for the Intercom API,ruby,2014-06-18 12:44:30.098155,t,f,85,f,intercom-2.0.2,"---
 - MIT
 ",159232,"--- []
 ",~> 2.0,0eaHhunvNfi9M6bUmtFUmDljcgIUlEhxWrgs64ql8Qw=,"",>= 0,,,2.0.2,,,ruby,intercom-2.0.2,rBYqnlMyeoTWkwK5D7Z6OutGG5qUYKSkAhtcMz4KkQI=,,,,
@@ -25601,7 +25601,7 @@ Validation algorithm.",1.0.8,37447,2014-06-18 04:00:00,2023-09-29 18:34:16.38944
 - MIT
 ",33280,"--- []
 ",>= 0,6WrNYj1ltxVueJHtbWbvmACCCgbmje30OWhQLx5uYZY=,"",>= 0,,,2.0.3,,,ruby,bugsnag-2.0.3,zoGxmlEdLcCqZWje8C1E3eaIz6VfcJ4T6fER5K/4Mq0=,,,,
-555795,Applitools team,Applitools Ruby SDK,1.40.0,87230,2014-06-18 00:00:00,2023-09-29 18:34:17.078168,Applitools Ruby SDK,ruby,2014-06-18 17:39:08.235399,t,f,294,f,eyes_selenium-1.40.0,"---
+555795,Applitools team,Applitools Ruby SDK,1.40.0,87230,2014-06-18 00:00:00,2023-09-29 18:34:17.078168,Applitools Ruby SDK,ruby,2014-06-18 17:39:08.235399,t,f,295,f,eyes_selenium-1.40.0,"---
 - Apache License, Version 2.0
 ",146432,"--- []
 ",>= 0,LKMRD0sY2CVYoesQOKTCE1a5lv7Jm9W7kOTQNH5S46Y=,"",>= 0,,,1.40,,,ruby,eyes_selenium-1.40.0,lUqtzIOLWwqLEKzzjJ+nAhYzqivUXt5k0kVyE6cc3vU=,,,,
@@ -26764,7 +26764,7 @@ that the router then routes to the originator.
 - MIT
 ",7168,"--- []
 ",>= 0,ucM2DmsGrkhlgCi87rA+0NRRRspWHYKdY/UVvX8DQ4U=,"",>= 0,,,0.0.1,,,ruby,cat_claw-0.0.1,DNA6LL+rxW1Z1oaJ5ZAc0AlYhhe4Vb3szSANG0lf4pA=,,,,
-556046,"Ben McRedmond, Ciaran Lee, Darragh Curran, Jeff Gardner, Kyle Daigle, Declan McGrath, Jamie Osler, Bob Long",Intercom (https://www.intercom.io) is a customer relationship management and messaging tool for web app owners. This library wraps the api provided by Intercom. See http://docs.intercom.io/api for more details. ,2.0.3,53941,2014-06-19 00:00:00,2023-09-29 18:34:34.677729,Ruby bindings for the Intercom API,ruby,2014-06-19 07:54:23.546825,t,f,83,f,intercom-2.0.3,"---
+556046,"Ben McRedmond, Ciaran Lee, Darragh Curran, Jeff Gardner, Kyle Daigle, Declan McGrath, Jamie Osler, Bob Long",Intercom (https://www.intercom.io) is a customer relationship management and messaging tool for web app owners. This library wraps the api provided by Intercom. See http://docs.intercom.io/api for more details. ,2.0.3,53941,2014-06-19 00:00:00,2023-09-29 18:34:34.677729,Ruby bindings for the Intercom API,ruby,2014-06-19 07:54:23.546825,t,f,84,f,intercom-2.0.3,"---
 - MIT
 ",159232,"--- []
 ",~> 2.0,CH2O7MTYdWoFs000oOJYtyocbAZwxK9hfKKX3P84BAM=,"",>= 0,,,2.0.3,,,ruby,intercom-2.0.3,fuqz9A7F+R7gb0xBS/ssmSSBeaMfb1aULHirA8EBcMI=,,,,
@@ -28431,14 +28431,14 @@ forpec high concurrency. Use Mechanize for a realistic (albeit non-JavaScript) b
 - Apache
 ",7680,"--- []
 ",>= 0,Y67tBdKEX8m43JzD9VFxgaTwZiYPo59mjle0x18ceqU=,"",>= 0,,,0.0.4,,,ruby,rbutils-0.0.4,eUsydVza8g50SFIZ1OEaWn9mop8jZv3EWoUeBCL+2YU=,d283d27b2dd89b005cd93532b55062aa,,,
-556451,Sam Pohlenz,Seamlessly integrates TinyMCE into the Rails asset pipeline introduced in Rails 3.1.,4.0.28.2,44733,2014-06-20 00:00:00,2023-09-29 18:35:05.136041,Rails asset pipeline integration for TinyMCE.,ruby,2014-06-20 04:54:12.099808,t,f,194,f,tinymce-rails-4.0.28.2,"---
+556451,Sam Pohlenz,Seamlessly integrates TinyMCE into the Rails asset pipeline introduced in Rails 3.1.,4.0.28.2,44733,2014-06-20 00:00:00,2023-09-29 18:35:05.136041,Rails asset pipeline integration for TinyMCE.,ruby,2014-06-20 04:54:12.099808,t,f,195,f,tinymce-rails-4.0.28.2,"---
 - MIT
 ",804864,"--- []
 ",>= 0,lTgB82mnPBpAT3tSmpqa2LqZJ0J+/yRq69gxW5rQGJ0=,"",>= 0,,,4.0.28.2,,,ruby,tinymce-rails-4.0.28.2,GxsWPeOqeJbjDsMjbVUzLZ1qYOXoVVOedVk615tjQKg=,,,,
 556452,"Anthony Sellitti, Keith Pitt, Martin Jagusch, Martin Spickermann, Mark Turnley, Orien Madgwick, Pete Yandall, Stephanie Staub","",0.1.0.pre.pre.alpha,100331,2014-06-20 00:00:00,2023-09-29 18:35:05.206507,Tools to build your double entry financial ledger,ruby,2014-06-20 04:55:58.501862,t,t,28,f,double_entry-0.1.0.pre.pre.alpha,"--- []
 ",35840,"--- []
 ",>= 0,SasNZCpjh4y6L5cOtUzdCNPkfxtT/+JqtKuq9i/ms20=,"",> 1.3.1,,,0.1.pre.pre.alpha,,,ruby,double_entry-0.1.0.pre.pre.alpha,rmvG/Z9PnvQAqm/6aRUJ0NTgT/k6TS4krL1OACeZ8Y4=,,,,
-556453,Sam Pohlenz,Seamlessly integrates TinyMCE into the Rails asset pipeline introduced in Rails 3.1.,4.1.0,44733,2014-06-20 00:00:00,2023-09-29 18:35:05.298842,Rails asset pipeline integration for TinyMCE.,ruby,2014-06-20 05:01:08.99478,t,f,193,f,tinymce-rails-4.1.0,"---
+556453,Sam Pohlenz,Seamlessly integrates TinyMCE into the Rails asset pipeline introduced in Rails 3.1.,4.1.0,44733,2014-06-20 00:00:00,2023-09-29 18:35:05.298842,Rails asset pipeline integration for TinyMCE.,ruby,2014-06-20 05:01:08.99478,t,f,194,f,tinymce-rails-4.1.0,"---
 - MIT
 ",836608,"--- []
 ",>= 0,Yd5QnuugSjtnR1EdCqFJ2k4OsUA3Yoo/y5NjlfoQ9l8=,"",>= 0,,,4.1,,,ruby,tinymce-rails-4.1.0,95gPcLhz0cAl+pLNcI2kGKDV/voOjf22B15/u6oVm3k=,,,,
@@ -28533,7 +28533,7 @@ the remote host or the content did change",0.0.4,99118,2014-06-20 00:00:00,2023-
 It defines Task model for keeping the information about the tasks and Lock for assigning the tasks
 to resources. The locking allows dealing with preventing multiple colliding tasks to be run on the
 same resource. It also optionally provides Dynflow infrastructure for using it for managing the tasks.
-",0.6.4,91717,2014-06-20 00:00:00,2023-09-29 18:35:06.743339,Foreman plugin for showing tasks information for resoruces and users,ruby,2014-06-20 07:08:21.12429,t,f,194,f,foreman-tasks-0.6.4,"--- []
+",0.6.4,91717,2014-06-20 00:00:00,2023-09-29 18:35:06.743339,Foreman plugin for showing tasks information for resoruces and users,ruby,2014-06-20 07:08:21.12429,t,f,195,f,foreman-tasks-0.6.4,"--- []
 ",41984,"--- []
 ",>= 0,TbldnbO4thcfaK0XzvtUJN5wxLe9bBw08X/aUiv0Dqs=,"",>= 0,,,0.6.4,,,ruby,foreman-tasks-0.6.4,nbZGKhx0ogv6kpOBkB/IfGxph0X2x5UisaZzcgT2iN8=,,,,
 556477,James Thompson,Provides a simple interface for working with OData APIs.,0.0.5,100213,2014-06-20 00:00:00,2023-09-29 18:35:06.80972,Simple OData library,ruby,2014-06-20 07:10:03.83217,t,f,39,f,odata-0.0.5,"---
@@ -29623,7 +29623,7 @@ This gem contains an application interface in the Ruby programming language crea
 - Beerware
 ",8704,"--- []
 ",>= 1.9,JAQiP1d6157JF6DUmkAyOFnsG9wM/2X7l2SmB5klhVs=,"",>= 0,,,0.0.7,,,ruby,kabutops-0.0.7,MTuodg0wzuy5cTdonU1vK894qlB9zXC7ZTEm41c5vik=,,,,
-556747,Mark Larsen,"",0.0.233,100326,2014-06-20 00:00:00,2023-09-29 18:35:26.960113,Test coverage reports for Xcode projects,ruby,2014-06-20 22:01:36.187583,t,f,54,f,slather-0.0.233,"---
+556747,Mark Larsen,"",0.0.233,100326,2014-06-20 00:00:00,2023-09-29 18:35:26.960113,Test coverage reports for Xcode projects,ruby,2014-06-20 22:01:36.187583,t,f,55,f,slather-0.0.233,"---
 - MIT
 ",8704,"--- []
 ",>= 0,EwpamjXJ2ChBmAwIaddJkeJLeVzmU1Y33yuLXwLXJuU=,"",>= 0,,,0.0.233,,,ruby,slather-0.0.233,VXsxzHTOx1lZ0y0kkP9Ntqd7JSLYJFOHqvUCH3U76zE=,,,,
@@ -29836,7 +29836,7 @@ This gem contains an application interface in the Ruby programming language crea
 - MIT
 ",148480,"--- []
 ",>= 0,fOFcD+3vEiIec4oaRcnuNSq/LRA281WThvyeGdPbEOI=,"",>= 0,,,0.0.8,,,ruby,fluoride-collector-0.0.8,JTAbx3q1mChpNIxYvd0E5l0uYh+v3McfQzr5QGgj/HQ=,,,,
-556792,Mark Larsen,"",0.0.234,100326,2014-06-21 00:00:00,2023-09-29 18:35:30.254318,Test coverage reports for Xcode projects,ruby,2014-06-21 02:03:26.567067,t,f,53,f,slather-0.0.234,"---
+556792,Mark Larsen,"",0.0.234,100326,2014-06-21 00:00:00,2023-09-29 18:35:30.254318,Test coverage reports for Xcode projects,ruby,2014-06-21 02:03:26.567067,t,f,54,f,slather-0.0.234,"---
 - MIT
 ",9216,"--- []
 ",>= 0,KNxUIyy1hAKqwgLLxRSMV/R0v9oTTy0Y51phzMyfMDU=,"",>= 0,,,0.0.234,,,ruby,slather-0.0.234,8KaOfY5DbGRygj+5+VTkM8LcibP6Jo8iREI2JwKHYcM=,,,,
@@ -30009,7 +30009,7 @@ This gem contains an application interface in the Ruby programming language crea
 - MIT
 ",9216,"--- []
 ",>= 0,ceUvlk8DIGzvGOasiqC0DWj4uX8WGyFsB/cC4G5HZBQ=,"",>= 0,,,0.1,,,ruby,bulk_operations-0.1.0,sHLv+9H5xBZ0t2NnV2ncjvzddP9Dei01sxsIt15UfXc=,52b560f1be43dfc5f6471944b3932cde,,,
-556835,Mark Larsen,"",0.0.235,100326,2014-06-21 00:00:00,2023-09-29 18:35:33.084337,Test coverage reports for Xcode projects,ruby,2014-06-21 06:57:57.280278,t,f,52,f,slather-0.0.235,"---
+556835,Mark Larsen,"",0.0.235,100326,2014-06-21 00:00:00,2023-09-29 18:35:33.084337,Test coverage reports for Xcode projects,ruby,2014-06-21 06:57:57.280278,t,f,53,f,slather-0.0.235,"---
 - MIT
 ",9216,"--- []
 ",>= 0,QDxYONfqNwCJOMsfGfbSo9AaSqGObjXkTpxAqV8IVTo=,"",>= 0,,,0.0.235,,,ruby,slather-0.0.235,0ERIzCZUkFdXiP7dF0BzyNKbHHh3xe6/d+jJINvnq/o=,,,,
@@ -30324,7 +30324,7 @@ email notifications at price levels of your choosing.
 - MIT
 ",8704,"--- []
 ",>= 0,1+mdWMg9xjaB7CwsIEmYqTtKNtkbazPGCkvg/pDIaAw=,"",>= 0,,,0.1.1,,,ruby,rails_request_id-0.1.1,8yu6JyzUCAwePuvvfkUH8o1cwJibwWof3Zh6sBWvqRU=,,,,
-556902,"Brian Dewey, Waldemar Quevedo",An Org mode parser written in Ruby.,0.9.7,24900,2014-06-22 00:00:00,2023-09-29 18:35:38.271612,This gem contains Ruby routines for parsing org-mode files.,ruby,2014-06-21 16:41:37.656199,t,f,4,f,org-ruby-0.9.7,"---
+556902,"Brian Dewey, Waldemar Quevedo",An Org mode parser written in Ruby.,0.9.7,24900,2014-06-22 00:00:00,2023-09-29 18:35:38.271612,This gem contains Ruby routines for parsing org-mode files.,ruby,2014-06-21 16:41:37.656199,t,f,6,f,org-ruby-0.9.7,"---
 - MIT
 ",34304,"--- []
 ",>= 0,WGjwU6z2z9kJiosmcePGIRYY4taP1sWKr8j7RLizJOc=,"",>= 0,,,0.9.7,,,ruby,org-ruby-0.9.7,KlA1Xv1FO1lJI/5+mr0Utj5P4sqbwiT4kjioqP6L+pI=,,,,
@@ -31991,7 +31991,7 @@ automating Job configuration programaticaly and so forth",1.0.0,65902,2014-06-23
 - MIT
 ",5681152,"--- []
 ",>= 0,NMqPXzUrm0COl9cRsAwcKOVJ0/+VufatBho50slpT/0=,"",>= 0,,,0.5.2,,,ruby,test_server-0.5.2,C34z9nsqZPHy3e9kzaJMipji8ckufT9c61A6ZsNZBok=,e5e3bfc694bdc89562c7cc593c5b0560,,,
-557309,Kouhei Sutou,"",1.0.7,69063,2014-06-23 00:00:00,2023-09-29 18:36:09.824361,Groonga-query-log is a collection of library and tools to process [Groonga](http://groonga.org/)'s query log. You can write a program to process query log by using groonga-query-log as a library. You can analyze your Groonga's queries and test with your Groonga's query log by using groonga-query-log as a tool.,ruby,2014-06-23 09:06:19.888525,t,f,72,f,groonga-query-log-1.0.7,"---
+557309,Kouhei Sutou,"",1.0.7,69063,2014-06-23 00:00:00,2023-09-29 18:36:09.824361,Groonga-query-log is a collection of library and tools to process [Groonga](http://groonga.org/)'s query log. You can write a program to process query log by using groonga-query-log as a library. You can analyze your Groonga's queries and test with your Groonga's query log by using groonga-query-log as a tool.,ruby,2014-06-23 09:06:19.888525,t,f,73,f,groonga-query-log-1.0.7,"---
 - LGPLv2.1+
 ",44032,"--- []
 ",>= 0,Sfj+5KmiZ24dYXsl2k1GNUx+iVzGV25DUK9suBaunko=,"",>= 0,,,1.0.7,,,ruby,groonga-query-log-1.0.7,Wzk6SgEr1C1Q3uSUl38/SuBIZ83aYBPNhzbkcdMloek=,,,,
@@ -34072,7 +34072,7 @@ This is the maintained version of the `pulse` gem.",0.5.2,24079,2013-04-01 00:00
 - MIT
 ",256512,"--- []
 ",>= 0,V0PMPfI1YjlqHh+OrJ2vaIZrgdC3mSM8eFRncXGwgd4=,"",>= 0,,,0.4.5,,,ruby,rack-dev-mark-0.4.5,G+/UbfK1vhZJN+9EC1KnfDGHoK5sRQrMZmnAXkxauOo=,,,,
-557798,"Bryan Rite, Ryan Bates",Continuation of the simple authorization solution for Rails which is decoupled from user roles. All permissions are stored in a single location.,1.8.3,93319,2014-06-24 00:00:00,2023-09-29 18:36:50.118345,Simple authorization solution for Rails.,ruby,2014-06-24 13:22:00.684581,t,f,36,f,cancancan-1.8.3,"---
+557798,"Bryan Rite, Ryan Bates",Continuation of the simple authorization solution for Rails which is decoupled from user roles. All permissions are stored in a single location.,1.8.3,93319,2014-06-24 00:00:00,2023-09-29 18:36:50.118345,Simple authorization solution for Rails.,ruby,2014-06-24 13:22:00.684581,t,f,37,f,cancancan-1.8.3,"---
 - MIT
 ",46592,"--- []
 ",>= 1.8.7,8nEHdm2WCTW2ClgC1etam92GIshIC4wO4DBOH/xscYk=,"",>= 1.3.4,,,1.8.3,,,ruby,cancancan-1.8.3,X+bh9w7d6dK55ey5b/GLYmtjmTUrnbU1sSBCsDXy74E=,,,,
@@ -34113,7 +34113,7 @@ This is the maintained version of the `pulse` gem.",0.5.2,24079,2013-04-01 00:00
 ",129536,"--- []
 ",>= 1.9.2,QDTeICdNAH6oq07NwC4b60bsedEfl53Y5KEkr+g/Cv4=,"",> 1.3.1,,,1.10.rc.1,,,ruby,autoproj-1.10.rc1,REelHeX9BpqtghNyzW1+UI7d7x4OXUt2sS6C1QWArmg=,,,,
 557808,"Alpana Pande, Bess Sadler, Chris Fitzpatrick, Douglas Kim, Richard Anderson, Willy Mene, Michael Klein","Contains classes to make http connections with a client-cert, use Jhove, and call Suri
-Also contains core classes to build robots",3.2.2,100718,2014-05-08 00:00:00,2023-09-29 18:36:51.099899,Core services used by the SULAIR Digital Library,ruby,2014-06-24 13:46:28.216153,t,f,42,f,lyber-core-3.2.2,"--- []
+Also contains core classes to build robots",3.2.2,100718,2014-05-08 00:00:00,2023-09-29 18:36:51.099899,Core services used by the SULAIR Digital Library,ruby,2014-06-24 13:46:28.216153,t,f,43,f,lyber-core-3.2.2,"--- []
 ",9728,"--- []
 ",>= 0,dNihVKmtHelPXWOrSf1iBx1EpiC1IKUvM/VL49APBJA=,"",>= 1.3.6,,,3.2.2,,,ruby,lyber-core-3.2.2,UANwNgXu1Rao3cQncNcv4bPwnknKvJxJ3d+tXnkJvUA=,,,,
 557809,"Richard Anderson, Willy Mene, Michael Klein",Contains classes perform generic utilty functions,0.1.2,100719,2011-09-27 00:00:00,2023-09-29 18:36:51.170317,Generic utilities used by the SULAIR Digital Library,ruby,2014-06-24 13:47:20.148879,t,f,0,t,lyber-utils-0.1.2,"--- []
@@ -34370,7 +34370,7 @@ OS, and back end code completely agnostic of whether it is called by a client br
 557869,Edgars Beigarts,WS Security XML signer,1.4.0,58040,2014-06-24 00:00:00,2023-09-29 18:36:56.125192,WS Security XML signer,ruby,2014-06-24 15:59:30.607369,t,f,10,f,signer-1.4.0,"--- []
 ",17408,"--- []
 ",>= 0,WlVSFIhON403gM+GXb/zxFUQfrvk3zPPMp0RV7mWRe8=,"",>= 0,,,1.4,,,ruby,signer-1.4.0,ZYlDwDbzJK2O2gA65zr+l/fmmN5an9cawRRPY3jC2qY=,,,,
-557870,Richard Huang,help to kill N+1 queries and unused eager loading.,4.11.0,21697,2014-06-24 00:00:00,2023-09-29 18:36:56.18639,help to kill N+1 queries and unused eager loading.,ruby,2014-06-24 16:00:26.879816,t,f,82,f,bullet-4.11.0,"---
+557870,Richard Huang,help to kill N+1 queries and unused eager loading.,4.11.0,21697,2014-06-24 00:00:00,2023-09-29 18:36:56.18639,help to kill N+1 queries and unused eager loading.,ruby,2014-06-24 16:00:26.879816,t,f,83,f,bullet-4.11.0,"---
 - MIT
 ",34816,"--- []
 ",>= 0,Ytt6OWkIO1b1ulR0HtVqn6RGhlO/eSbsAgi7ADR8HBQ=,"",>= 1.3.6,,,4.11,,,ruby,bullet-4.11.0,I6WXRCLeSSQA8Y82Zugqd6JcmVC7sFftMA4KFvBmFP0=,,,,
@@ -34476,7 +34476,7 @@ jasmine, evergreen, and many other frameworks.
 - MIT
 ",48128,"--- []
 ",>= 0,QtYXNkuqIqtgGUYV7FdXRpL7wUTtEYfTSrH79hEsqHQ=,"",>= 0,,,0.10.2,,,ruby,polisher-0.10.2,WbpU18x6wx6i0ywckUChJZXhGwo/B/N26t+P7+t3jaM=,,,,
-557893,"Ola Bini, JRuby contributors",JRuby-OpenSSL is an add-on gem for JRuby that emulates the Ruby OpenSSL native library.,0.9.5,18105,2014-06-24 00:00:00,2023-09-29 18:36:58.076978,JRuby OpenSSL,java,2014-06-24 17:09:55.350834,t,f,55,f,jruby-openssl-0.9.5-java,"--- []
+557893,"Ola Bini, JRuby contributors",JRuby-OpenSSL is an add-on gem for JRuby that emulates the Ruby OpenSSL native library.,0.9.5,18105,2014-06-24 00:00:00,2023-09-29 18:36:58.076978,JRuby OpenSSL,java,2014-06-24 17:09:55.350834,t,f,56,f,jruby-openssl-0.9.5-java,"--- []
 ",2712576,"---
 - jar org.bouncycastle:bcpkix-jdk15on, 1.47
 - jar org.bouncycastle:bcprov-jdk15on, 1.47
@@ -34616,7 +34616,7 @@ automating Job &amp; Pipeline creation from the YAML files checked-in with your 
 - MIT
 ",14848,"--- []
 ",>= 0,P0o+4ZdWJcgbSuyZc/V744vVxZoMe96opOPSTWR6nrM=,"",>= 0,,,0.2.4,,,ruby,slipcover-0.2.4,nbQUkXHNw7Q3CFi2CCHUNeWqXPGtJIYQJ9SFH4bqzJc=,,,,
-557927,"Bryan Rite, Ryan Bates",Continuation of the simple authorization solution for Rails which is decoupled from user roles. All permissions are stored in a single location.,1.8.4,93319,2014-06-24 00:00:00,2023-09-29 18:37:00.593719,Simple authorization solution for Rails.,ruby,2014-06-24 18:52:28.401678,t,f,35,f,cancancan-1.8.4,"---
+557927,"Bryan Rite, Ryan Bates",Continuation of the simple authorization solution for Rails which is decoupled from user roles. All permissions are stored in a single location.,1.8.4,93319,2014-06-24 00:00:00,2023-09-29 18:37:00.593719,Simple authorization solution for Rails.,ruby,2014-06-24 18:52:28.401678,t,f,36,f,cancancan-1.8.4,"---
 - MIT
 ",46592,"--- []
 ",>= 1.8.7,UFilFqjrULLfxOerYl1m1D7MtKNcMmMfN84n4ZA10y0=,"",>= 1.3.4,,,1.8.4,,,ruby,cancancan-1.8.4,orIqMusJoxmyiySie77cx4Hx26U326MbzI7CyyxQ24U=,,,,
@@ -34694,7 +34694,7 @@ automating Job &amp; Pipeline creation from the YAML files checked-in with your 
 557947,"Cody Cutrer, Jacob Fugal, James Williams",A secure version of Rails' built in CookieStore,1.1.3,58470,2013-12-20 00:00:00,2023-09-29 18:37:02.311256,EncryptedCookieStore for Ruby on Rails 3.2,ruby,2014-06-24 19:59:35.35587,t,f,26,f,encrypted_cookie_store-instructure-1.1.3,"--- []
 ",9728,"--- []
 ",>= 0,aOaMb1Fz1DIUApGcBbY3g+37GWuBi0ZrhRQQhb4p6sQ=,"",>= 0,,,1.1.3,,,ruby,encrypted_cookie_store-instructure-1.1.3,Or4YAZYpRosa5H8VNtF6e1i3cNYoMR8Upcmq8ZyXrx0=,,,,
-557948,"Robert Beekman, Steven Weller, Thijs Cadier, Ron Cadier, Jacob Vosmaer",The official appsignal.com gem,0.8.15,65664,2014-06-24 00:00:00,2023-09-29 18:37:02.37064,Logs performance and exception data from your app to appsignal.com,ruby,2014-06-24 19:59:54.143885,t,f,574,f,appsignal-0.8.15,"---
+557948,"Robert Beekman, Steven Weller, Thijs Cadier, Ron Cadier, Jacob Vosmaer",The official appsignal.com gem,0.8.15,65664,2014-06-24 00:00:00,2023-09-29 18:37:02.37064,Logs performance and exception data from your app to appsignal.com,ruby,2014-06-24 19:59:54.143885,t,f,577,f,appsignal-0.8.15,"---
 - MIT
 ",181248,"--- []
 ",>= 1.9.3,7lABA4D/uP8/tLfOnEQXX21jsbZ762nbcjK/WU/C+gA=,"",>= 0,,,0.8.15,,,ruby,appsignal-0.8.15,uplyJVu5Z0bxDflQUUGL39WVWtOh2IK+YCM83ogQEoo=,,,,
@@ -35345,7 +35345,7 @@ like  DataMapper or  MongoMapper.
 ",>= 0,wTWkK52YUK59NRnjVbCz9AQacYlU+06JISvuHmPYoRI=,"",>= 0,,,0.1.1,,,ruby,angularjs-on-rails-0.1.1,g64iHD2c/RXAgJJZoBOeMxikIw5CloKfXjtZ7JB6z6M=,,,,
 558099,"Bozhidar Batsov, Jonas Arvidsson, Yuji Nakayama","    Automatic Ruby code style checking tool.
     Aims to enforce the community-driven Ruby Style Guide.
-",0.24.0,58037,2014-06-25 00:00:00,2023-09-29 18:37:13.59051,Automatic Ruby code style checking tool.,ruby,2014-06-25 06:50:13.105669,t,f,287,f,rubocop-0.24.0,"---
+",0.24.0,58037,2014-06-25 00:00:00,2023-09-29 18:37:13.59051,Automatic Ruby code style checking tool.,ruby,2014-06-25 06:50:13.105669,t,f,288,f,rubocop-0.24.0,"---
 - MIT
 ",270848,"--- []
 ",>= 1.9.2,0noWhkyQf9eh6kY8bMTMvaZnGxIlXkl/zqoIAxXwyQ0=,"",>= 0,,,0.24,,,ruby,rubocop-0.24.0,vS0UP8a7nS+V6RDcRHsccOZ44OYCfpPa3o+yWYHkkns=,,,,
@@ -35420,7 +35420,7 @@ like  DataMapper or  MongoMapper.
 - MIT
 ",7680,"--- []
 ",>= 0,ah+wg/wFJCXpv0FYiUAWsFssg7J2mPvbzYwePSbytxc=,"",>= 0,,,0.1,,,ruby,alpha_card-0.1,ymE6TVW4mkza3teXPWdEX3Tr2MOW8SQLzW8xzmEBVhY=,,,,
-558116,Richard Huang,help to kill N+1 queries and unused eager loading.,4.11.1,21697,2014-06-25 00:00:00,2023-09-29 18:37:14.695667,help to kill N+1 queries and unused eager loading.,ruby,2014-06-25 08:50:24.7666,t,f,81,f,bullet-4.11.1,"---
+558116,Richard Huang,help to kill N+1 queries and unused eager loading.,4.11.1,21697,2014-06-25 00:00:00,2023-09-29 18:37:14.695667,help to kill N+1 queries and unused eager loading.,ruby,2014-06-25 08:50:24.7666,t,f,82,f,bullet-4.11.1,"---
 - MIT
 ",34816,"--- []
 ",>= 0,iM8dNyW1NQgn64zdwCd/MVcUqjG2XvgQlSLd9hUJe1I=,"",>= 1.3.6,,,4.11.1,,,ruby,bullet-4.11.1,ezm56KmkrGtz9JifG9YUzGlqzHz+equJBzaHeRk7O7Y=,,,,
@@ -36140,7 +36140,7 @@ information about the performance of your web application as it runs
 in production. The New Relic Ruby Agent is dual-purposed as a either a
 Gem or plugin, hosted on
 http://github.com/newrelic/rpm/
-",3.9.0.229,17520,2014-06-25 00:00:00,2023-09-29 18:37:27.496524,New Relic Ruby Agent,ruby,2014-06-25 18:30:16.678004,t,f,137,f,newrelic_rpm-3.9.0.229,"---
+",3.9.0.229,17520,2014-06-25 00:00:00,2023-09-29 18:37:27.496524,New Relic Ruby Agent,ruby,2014-06-25 18:30:16.678004,t,f,138,f,newrelic_rpm-3.9.0.229,"---
 - New Relic
 - MIT
 - Ruby
@@ -36472,7 +36472,7 @@ http://github.com/newrelic/rpm/
 - MIT
 ",10752,"--- []
 ",>= 0,6BN1iBSgtzSoNBAyzVAZkhntRR9j9z30mAPVYFWRoRw=,"","",2015-04-28 22:43:42.445202,,1.0.2.2,,,ruby,mecab-ext-heavy-1.0.2.2,,,,,
-558377,Mark Larsen,"",0.0.3,100326,2014-06-25 00:00:00,2023-09-29 18:37:33.060341,Test coverage reports for Xcode projects,ruby,2014-06-25 23:13:44.398763,t,f,61,f,slather-0.0.3,"---
+558377,Mark Larsen,"",0.0.3,100326,2014-06-25 00:00:00,2023-09-29 18:37:33.060341,Test coverage reports for Xcode projects,ruby,2014-06-25 23:13:44.398763,t,f,62,f,slather-0.0.3,"---
 - MIT
 ",17920,"--- []
 ",>= 0,Wpewatnuz0NaI7+PvB7Q8rPjVytfbx0aGueeWl674/U=,"",>= 0,,,0.0.3,,,ruby,slather-0.0.3,OaQYH0/N4wbry263ezkjdtmTkkntjtoEA7jBZD2S69k=,,,,
@@ -36555,7 +36555,7 @@ http://github.com/newrelic/rpm/
 - MIT
 ",5120,"--- []
 ",>= 2.1.2,UTzjfLQ4HhON18QuOMwMNQyDv8jgmM/KMtqUSs1OL4Y=,"",>= 2.3.0,,,0.0.1,,,ruby,web_grep-0.0.1,46PnW64n5j70Nd9YTmG8C+q6a6H0oWafMWGiu8leREs=,,,,
-558398,Mark Larsen,"",0.0.31,100326,2014-06-25 00:00:00,2023-09-29 18:37:34.565896,Test coverage reports for Xcode projects,ruby,2014-06-25 23:43:03.678978,t,f,57,f,slather-0.0.31,"---
+558398,Mark Larsen,"",0.0.31,100326,2014-06-25 00:00:00,2023-09-29 18:37:34.565896,Test coverage reports for Xcode projects,ruby,2014-06-25 23:43:03.678978,t,f,58,f,slather-0.0.31,"---
 - MIT
 ",17920,"--- []
 ",>= 0,6YMsGfAiwbySoY86uJFBx83zRXl+g0n1iShOBViLZ6E=,"",>= 0,,,0.0.31,,,ruby,slather-0.0.31,vn0PWOvP7/sWh5t7zfN9cMBZ0LFBFZiRJNtuiYBANAA=,,,,
@@ -36689,7 +36689,7 @@ updated their YAML yet.",1.0.3,64876,2014-06-26 00:00:00,2023-09-29 18:37:36.546
 - MIT
 ",4096,"--- []
 ",>= 0,WAUSUka3HFgWqaZUJMJ10WZF8FU7h49ElObxC3ROgYA=,"",>= 0,2020-04-27 20:49:30.923821,,0.0.1,,,ruby,algoassist-0.0.1,,,,,
-558433,Mark Larsen,"",1.0.0,100326,2014-06-26 00:00:00,2023-09-29 18:37:36.727132,Test coverage reports for Xcode projects,ruby,2014-06-26 02:21:00.952885,t,f,51,f,slather-1.0.0,"---
+558433,Mark Larsen,"",1.0.0,100326,2014-06-26 00:00:00,2023-09-29 18:37:36.727132,Test coverage reports for Xcode projects,ruby,2014-06-26 02:21:00.952885,t,f,52,f,slather-1.0.0,"---
 - MIT
 ",77312,"--- []
 ",>= 0,c2WuCpvB08DsIh/TygX4hoFTXYUQ1RkvcXRlTkVObsY=,"",>= 0,,,1,,,ruby,slather-1.0.0,fw95FxGgyjjamaMn3woXP8ENbZS/gnLKdFNwP76nIrY=,,,,
@@ -36871,7 +36871,7 @@ Include:
 - MIT
 ",6656,"--- []
 ",>= 0,d/RhufcODAiik8pEltQNg5HzKriFugYozHU0orKRWXw=,"",>= 0,,,0.0.1,,,ruby,nark-0.0.1,J62ge+wmyNfQlYqIpnGMwEWgJjrWEIMX9xxdDxbTGU4=,,,,
-558474,Mark Larsen,"",1.0.1,100326,2014-06-26 00:00:00,2023-09-29 18:37:39.473164,Test coverage reports for Xcode projects,ruby,2014-06-26 06:17:15.730467,t,f,50,f,slather-1.0.1,"---
+558474,Mark Larsen,"",1.0.1,100326,2014-06-26 00:00:00,2023-09-29 18:37:39.473164,Test coverage reports for Xcode projects,ruby,2014-06-26 06:17:15.730467,t,f,51,f,slather-1.0.1,"---
 - MIT
 ",77312,"--- []
 ",>= 0,4LOGHY0SuSX/wzz1bsfSpoFUQKIHtwDtvPZwnx2MIH0=,"",>= 0,,,1.0.1,,,ruby,slather-1.0.1,JkHqil6c1rm+eRe2FhdmmjDgSyyMh2JnL1yq//hA+oo=,,,,
@@ -37090,7 +37090,7 @@ encryption, decryption, signing, signature verification and key management.",2.0
 - MIT
 ",9728,"--- []
 ",>= 0,R6z0r01Sl8Z5wKX2WnRKCgoxy3EdNi93oyxJFrIbGHg=,"",>= 0,,,0.0.1,,,ruby,bindeps-0.0.1,4fcwYsQsnjmIEsZKBIVUA0CghmY/R9M6Hf+WsLrWzrg=,,,,
-558528,Mark Larsen,"",1.1.0,100326,2014-06-26 00:00:00,2023-09-29 18:37:44.043464,Test coverage reports for Xcode projects,ruby,2014-06-26 09:05:50.948562,t,f,49,f,slather-1.1.0,"---
+558528,Mark Larsen,"",1.1.0,100326,2014-06-26 00:00:00,2023-09-29 18:37:44.043464,Test coverage reports for Xcode projects,ruby,2014-06-26 09:05:50.948562,t,f,50,f,slather-1.1.0,"---
 - MIT
 ",77824,"--- []
 ",>= 0,/dsubWXpEetIpGF++xjzYDNi0HOFOkSVPFddq0Peis0=,"",>= 0,,,1.1,,,ruby,slather-1.1.0,sap+m2nRu5b0/e2f5L2rbzIRVspzhfasxRls0EEWhn0=,,,,
@@ -37621,7 +37621,7 @@ automating Job &amp; Pipeline creation from the YAML files checked-in with your 
 - MIT
 ",9216,"--- []
 ",>= 0,GbP2ZdDR1v9xqvM3IK9hMgBv3fL9BnqQMjh2v1iYb80=,"",>= 0,,,0.1,,,ruby,dbwrapper-0.1.0,R92Y7vTla3tBlP4Lsl2OAmwKqs12zwse7xGXVaZwPmA=,,,,
-558659,"Ben McRedmond, Ciaran Lee, Darragh Curran, Jeff Gardner, Kyle Daigle, Declan McGrath, Jamie Osler, Bob Long",Intercom (https://www.intercom.io) is a customer relationship management and messaging tool for web app owners. This library wraps the api provided by Intercom. See http://docs.intercom.io/api for more details. ,2.1.0,53941,2014-06-26 00:00:00,2023-09-29 18:37:53.443394,Ruby bindings for the Intercom API,ruby,2014-06-26 16:23:36.608719,t,f,82,f,intercom-2.1.0,"---
+558659,"Ben McRedmond, Ciaran Lee, Darragh Curran, Jeff Gardner, Kyle Daigle, Declan McGrath, Jamie Osler, Bob Long",Intercom (https://www.intercom.io) is a customer relationship management and messaging tool for web app owners. This library wraps the api provided by Intercom. See http://docs.intercom.io/api for more details. ,2.1.0,53941,2014-06-26 00:00:00,2023-09-29 18:37:53.443394,Ruby bindings for the Intercom API,ruby,2014-06-26 16:23:36.608719,t,f,83,f,intercom-2.1.0,"---
 - MIT
 ",159232,"--- []
 ",~> 2.0,BqDPI12VaKCsP2GJSpkQDpEalruDK1mzLe6te4XdIhE=,"",>= 0,,,2.1,,,ruby,intercom-2.1.0,QvbINEhNrLkpImV4bCNtdIXQmHYHUIj2rWULlnW8KRI=,,,,
@@ -38449,7 +38449,7 @@ you a breakdown.",0.0.5,57618,2014-06-26 00:00:00,2023-09-29 18:38:05.351383,A c
 - MIT
 ",12288,"--- []
 ",>= 0,SQCGykhM0wOCOAvHZfuuY/j9+IC/XjlDvQ6ryxVOPKI=,"",>= 0,,,0.5.7,,,ruby,rails_apps_pages-0.5.7,fj/yBTs473Cx/BQq8hstZlhxPwnNI/6wqLsM1pDC2c4=,,,,
-558851,Richard Huang,help to kill N+1 queries and unused eager loading.,4.11.2,21697,2014-06-27 00:00:00,2023-09-29 18:38:06.62983,help to kill N+1 queries and unused eager loading.,ruby,2014-06-27 01:32:59.030952,t,f,80,f,bullet-4.11.2,"---
+558851,Richard Huang,help to kill N+1 queries and unused eager loading.,4.11.2,21697,2014-06-27 00:00:00,2023-09-29 18:38:06.62983,help to kill N+1 queries and unused eager loading.,ruby,2014-06-27 01:32:59.030952,t,f,81,f,bullet-4.11.2,"---
 - MIT
 ",34816,"--- []
 ",>= 0,MiUhSmbdWhZdkKFiIGkn+uY8hy+o3dIi8laCSWR6BAk=,"",>= 1.3.6,,,4.11.2,,,ruby,bullet-4.11.2,QjlSxteVu+qLXGwarZdwmf1TBuo8WFMDHYpPRugEQAM=,,,,
@@ -38708,7 +38708,7 @@ you a breakdown.",0.0.5,57618,2014-06-26 00:00:00,2023-09-29 18:38:05.351383,A c
 - MIT
 ",8192,"--- []
 ",>= 0,HtZy5gX5u4KmfBrGhvF2hbsA+UHdq81XCzzymbVhch8=,"",>= 0,,,0.0.1,,,ruby,tategaki-0.0.1,IyTZtSFmKXkHSSicjzej+lho9JlNdiRNEndJq2GAdMI=,,,,
-558914,SonicGarden,"",0.1.1.beta5,70702,2014-06-27 00:00:00,2023-09-29 18:38:10.761768,Client for the CopyTuner copy management service,ruby,2014-06-27 07:43:26.523675,t,t,97,f,copy_tuner_client-0.1.1.beta5,"--- []
+558914,SonicGarden,"",0.1.1.beta5,70702,2014-06-27 00:00:00,2023-09-29 18:38:10.761768,Client for the CopyTuner copy management service,ruby,2014-06-27 07:43:26.523675,t,t,98,f,copy_tuner_client-0.1.1.beta5,"--- []
 ",50176,"--- []
 ",>= 0,6XEg9EjlkM/1cFt9Iki0Oo4c8TMi+bkA4p3ctvoRgsI=,"",> 1.3.1,,,0.1.1.beta.5,,,ruby,copy_tuner_client-0.1.1.beta5,IpVnrYMBxGzJr3K7TqqSkFlhJYZuo2DEX6y/QupE9lg=,,,,
 558915,passol78,yokogaki -&gt; tategaki,0.0.2,100883,2014-06-27 00:00:00,2023-09-29 18:38:10.859263,tagegaki word1 word2,ruby,2014-06-27 07:43:37.690684,t,f,1,f,tategaki-0.0.2,"---
@@ -38878,7 +38878,7 @@ OS, and back end code completely agnostic of whether it is called by a client br
 - MIT
 ",211968,"--- []
 ",>= 0,9lq6cd7+bkGJrEn7y6Khj2+cEOSZ9F395KAH7MnYbic=,"",>= 0,,,0.0.8,,,ruby,turba_kit-0.0.8,AmzSZhPqY01HdzfhQsoEmvGzmLJd4Syix8UBM0JtJYU=,,,,
-558947,"Robert Beekman, Steven Weller, Thijs Cadier, Ron Cadier, Jacob Vosmaer",The official appsignal.com gem,0.9.0,65664,2014-06-27 00:00:00,2023-09-29 18:38:13.311674,Logs performance and exception data from your app to appsignal.com,ruby,2014-06-27 09:13:21.813994,t,f,571,f,appsignal-0.9.0,"---
+558947,"Robert Beekman, Steven Weller, Thijs Cadier, Ron Cadier, Jacob Vosmaer",The official appsignal.com gem,0.9.0,65664,2014-06-27 00:00:00,2023-09-29 18:38:13.311674,Logs performance and exception data from your app to appsignal.com,ruby,2014-06-27 09:13:21.813994,t,f,574,f,appsignal-0.9.0,"---
 - MIT
 ",182784,"--- []
 ",>= 1.9.3,gDl/dE1JPB6tTq7VD5RgElgKOP9RY4zz2HX5ukVlXpk=,"",>= 0,,,0.9,,,ruby,appsignal-0.9.0,y334O9fYaMbw9N7NJTo8X0sxfxo4jX2YOkM9IZZZUHM=,,,,
@@ -39019,7 +39019,7 @@ OS, and back end code completely agnostic of whether it is called by a client br
 - MIT
 ",16384,"--- []
 ",>= 0,AhdMVsv/QPXANa/0J1XLcotfbS127Dgj12Z4L//dPQQ=,"",>= 0,,,0.1.9,,,ruby,universal_s3_uploader-0.1.9,dQ9NBhnBp/5qb/pkjFr1TC7UnV5VV/73FngnweC1z98=,,,,
-558975,"Ben McRedmond, Ciaran Lee, Darragh Curran, Jeff Gardner, Kyle Daigle, Declan McGrath, Jamie Osler, Bob Long",Intercom (https://www.intercom.io) is a customer relationship management and messaging tool for web app owners. This library wraps the api provided by Intercom. See http://docs.intercom.io/api for more details. ,2.1.1,53941,2014-06-27 00:00:00,2023-09-29 18:38:15.5298,Ruby bindings for the Intercom API,ruby,2014-06-27 10:56:39.536377,t,f,81,f,intercom-2.1.1,"---
+558975,"Ben McRedmond, Ciaran Lee, Darragh Curran, Jeff Gardner, Kyle Daigle, Declan McGrath, Jamie Osler, Bob Long",Intercom (https://www.intercom.io) is a customer relationship management and messaging tool for web app owners. This library wraps the api provided by Intercom. See http://docs.intercom.io/api for more details. ,2.1.1,53941,2014-06-27 00:00:00,2023-09-29 18:38:15.5298,Ruby bindings for the Intercom API,ruby,2014-06-27 10:56:39.536377,t,f,82,f,intercom-2.1.1,"---
 - MIT
 ",159232,"--- []
 ",~> 2.0,MF/vAgTyjBkDlhjqpRZQbynNGiDOaapCLG1i4shdxRQ=,"",>= 0,,,2.1.1,,,ruby,intercom-2.1.1,HYoSLLrwPRmZZQc5dgpR+7V/jmarMWuCT9zZDEmovGU=,,,,
@@ -41205,7 +41205,7 @@ The priority can be changed after the element is inserted.
 - MIT
 ",35328,"--- []
 ",>= 0,n+zxk3nU4cuqpbvYGCFWn3vCqB3hMvi6OOaD+TA5C14=,"","",2015-04-28 22:43:53.818201,,0.1.1,,,ruby,rubymotionlisp-0.1.1,,,,,
-559494,Richard Huang,help to kill N+1 queries and unused eager loading.,4.11.3,21697,2014-06-29 00:00:00,2023-09-29 18:38:54.25827,help to kill N+1 queries and unused eager loading.,ruby,2014-06-29 02:58:30.458652,t,f,79,f,bullet-4.11.3,"---
+559494,Richard Huang,help to kill N+1 queries and unused eager loading.,4.11.3,21697,2014-06-29 00:00:00,2023-09-29 18:38:54.25827,help to kill N+1 queries and unused eager loading.,ruby,2014-06-29 02:58:30.458652,t,f,80,f,bullet-4.11.3,"---
 - MIT
 ",35328,"--- []
 ",>= 0,6sREeUb+W9+2M0vZ7+rLcV9e1nH8Uo+I4dCcQ8E55YE=,"",>= 1.3.6,,,4.11.3,,,ruby,bullet-4.11.3,Ctp9tjH+1X+AaaWmuBatXOdxax2SWkf1hRh1JUF0/zs=,,,,
@@ -42242,7 +42242,7 @@ friendly to how Heroku addons work.
 559737,"Satoshi Amemiya, Naotoshi Seo","Make your field act as a git repo. Save the content to a file, and load the content from a file.",0.1.1,100872,2014-06-30 00:00:00,2023-09-29 18:39:11.101203,Make your field act as a git repo,ruby,2014-06-30 04:53:53.972389,t,f,6,f,acts_as_git-0.1.1,"--- []
 ",8704,"--- []
 ",>= 0,CdvgIaIwB3TjSXXslwkHyukN2peqPt1zWheBf+5kFuo=,"",>= 0,,,0.1.1,,,ruby,acts_as_git-0.1.1,dZEKp0f0eP97kJH0bHSUhGgeerPA6+m40MYYkNgYo2I=,,,,
-559738,SonicGarden,"",0.1.1.beta6,70702,2014-06-30 00:00:00,2023-09-29 18:39:11.169204,Client for the CopyTuner copy management service,ruby,2014-06-30 04:59:52.399677,t,t,96,f,copy_tuner_client-0.1.1.beta6,"--- []
+559738,SonicGarden,"",0.1.1.beta6,70702,2014-06-30 00:00:00,2023-09-29 18:39:11.169204,Client for the CopyTuner copy management service,ruby,2014-06-30 04:59:52.399677,t,t,97,f,copy_tuner_client-0.1.1.beta6,"--- []
 ",50176,"--- []
 ",>= 0,j6+HowNCo5ZABfpFEdRrI2kKo9JSmmTVtavHpRWKWIA=,"",> 1.3.1,,,0.1.1.beta.6,,,ruby,copy_tuner_client-0.1.1.beta6,+Uj2Wp0xaKcsH36L7WsvpFZLd8ZfEgcRvj8bsj3ID08=,,,,
 559739,Youngjoon Choi,"",0.0.3,100961,2014-06-30 00:00:00,2023-09-28 04:19:47.29474,Irm Health OAuth2 Strategy for OmniAuth,ruby,2014-06-30 05:03:02.70572,f,f,1,f,omniauth-irm_health-0.0.3,"---
@@ -43557,11 +43557,11 @@ inserting images. To upload files used Active Admin Images.",0.2.0,88999,2014-06
 - MIT
 ",20992,"--- []
 ",>= 1.8.7,KqkOQYKBlkYRaY7tveL4L+C2DDUaH0FX4WV97F/Ydx0=,"",>= 0,,,0.2.2,,,ruby,riemann-tools-0.2.2,alAPivCgLSU2njWxcINyEFRgUOwmnHvRQ9xYL7qyFww=,,,,
-560064,Sean Schofield,The bare bones necessary for Spree.,2.3.0,32475,2014-06-30 00:00:00,2023-09-29 18:39:35.783397,The bare bones necessary for Spree.,ruby,2014-07-01 00:06:41.978393,t,f,302,f,spree_core-2.3.0,"---
+560064,Sean Schofield,The bare bones necessary for Spree.,2.3.0,32475,2014-06-30 00:00:00,2023-09-29 18:39:35.783397,The bare bones necessary for Spree.,ruby,2014-07-01 00:06:41.978393,t,f,303,f,spree_core-2.3.0,"---
 - BSD-3
 ",201728,"--- []
 ",>= 1.9.3,RxJdUl+XN4VhCgaFjVLJzUFeqCqi7854Q9ZzWUfdxao=,"",>= 0,,,2.3,,,ruby,spree_core-2.3.0,8xfvy8obfGwgEx/7lagNFOqrqoS5JdSB75c1phIeM00=,,,,
-560065,Ryan Bigg,Spree's API,2.3.0,32476,2014-06-30 00:00:00,2023-09-29 18:39:35.83255,Spree's API,ruby,2014-07-01 00:06:51.065977,t,f,302,f,spree_api-2.3.0,"--- []
+560065,Ryan Bigg,Spree's API,2.3.0,32476,2014-06-30 00:00:00,2023-09-29 18:39:35.83255,Spree's API,ruby,2014-07-01 00:06:51.065977,t,f,303,f,spree_api-2.3.0,"--- []
 ",71168,"--- []
 ",>= 0,7yvF+CML/yEihAnQsPsEppr83nqYcOUsn2JRCemziVU=,"",>= 0,,,2.3,,,ruby,spree_api-2.3.0,qnaBIl2ebYHP9NBKVsB0DUVNx6m8/Z4NaS/G+dHuPRQ=,,,,
 560066,Sean Schofield,Required dependency for Spree,2.3.0,77623,2014-06-30 00:00:00,2023-09-29 18:39:35.902716,backend e-commerce functionality for the Spree project.,ruby,2014-07-01 00:07:03.073248,t,f,198,f,spree_backend-2.3.0,"--- []
@@ -43581,7 +43581,7 @@ inserting images. To upload files used Active Admin Images.",0.2.0,88999,2014-06
 - BSD-3
 ",13824,"--- []
 ",>= 0,00vOoyz54sJziksGGqEDq9Pc+78Py1QwIMH9217zb1g=,"",>= 0,,,2.3,,,ruby,spree_cmd-2.3.0,qUp/DykzSBB4V5byi9ItlFITGJU90r/kSQTia1I+GfQ=,,,,
-560070,Sean Schofield,Spree is an open source e-commerce framework for Ruby on Rails.  Join us on the spree-user google group or in #spree on IRC,2.3.0,16007,2014-06-30 00:00:00,2023-09-29 18:39:36.156078,Full-stack e-commerce framework for Ruby on Rails.,ruby,2014-07-01 00:07:39.439264,t,f,302,f,spree-2.3.0,"---
+560070,Sean Schofield,Spree is an open source e-commerce framework for Ruby on Rails.  Join us on the spree-user google group or in #spree on IRC,2.3.0,16007,2014-06-30 00:00:00,2023-09-29 18:39:36.156078,Full-stack e-commerce framework for Ruby on Rails.,ruby,2014-07-01 00:07:39.439264,t,f,303,f,spree-2.3.0,"---
 - BSD-3
 ",8192,"---
 - none
@@ -43598,11 +43598,11 @@ inserting images. To upload files used Active Admin Images.",0.2.0,88999,2014-06
 - Apache
 ",6656,"--- []
 ",>= 0,WUvj93Rmu9hFoI1hmqYgUX+0liyAaZeFzw74SyslTag=,"",>= 0,,,0.0.1,,,ruby,datadoge-0.0.1,C6Ab1vjNbKX0n+XJ1Rtmi9QoDwBcAMxz//79cry7knY=,,,,
-560074,Sean Schofield,The bare bones necessary for Spree.,2.2.3,32475,2014-07-01 00:00:00,2023-09-29 18:39:36.37957,The bare bones necessary for Spree.,ruby,2014-07-01 00:27:37.7532,t,f,314,f,spree_core-2.2.3,"---
+560074,Sean Schofield,The bare bones necessary for Spree.,2.2.3,32475,2014-07-01 00:00:00,2023-09-29 18:39:36.37957,The bare bones necessary for Spree.,ruby,2014-07-01 00:27:37.7532,t,f,315,f,spree_core-2.2.3,"---
 - BSD-3
 ",200704,"--- []
 ",>= 1.9.3,ml05fVpYVu4omSbuONTFB4C/4ncDcMG/OsDovzW1Msw=,"",>= 0,,,2.2.3,,,ruby,spree_core-2.2.3,CUXjsp6qluGzu4rNKB4Askp+sckt8Xa13WazoJW7vW8=,,,,
-560075,Ryan Bigg,Spree's API,2.2.3,32476,2014-07-01 00:00:00,2023-09-29 18:39:36.426843,Spree's API,ruby,2014-07-01 00:27:44.240966,t,f,314,f,spree_api-2.2.3,"--- []
+560075,Ryan Bigg,Spree's API,2.2.3,32476,2014-07-01 00:00:00,2023-09-29 18:39:36.426843,Spree's API,ruby,2014-07-01 00:27:44.240966,t,f,315,f,spree_api-2.2.3,"--- []
 ",71168,"--- []
 ",>= 0,VFG4/YGfTwjNcaK8tlxntW4Jes5d4gAJfgB9ckfrVCc=,"",>= 0,,,2.2.3,,,ruby,spree_api-2.2.3,Y8mBnhSKxOwD+wwFlxTAOHuMg5zOENk/qzAARwIPQ88=,,,,
 560076,"tech@honest.com, Thanh Lim, tusharranka@gmail.com, Joel Jackson",Pub sub gem for Honest Company,0.2.4,100912,2014-07-01 00:00:00,2023-09-29 18:39:36.519448,Pub sub gem for Honest Company,ruby,2014-07-01 00:27:45.510494,t,f,1,f,honest_pubsub-0.2.4,"---
@@ -43626,7 +43626,7 @@ inserting images. To upload files used Active Admin Images.",0.2.0,88999,2014-06
 - BSD-3
 ",13824,"--- []
 ",>= 0,qT8O5XMNlrtIrE7sAtQNSmjMF30MCCycV2zs/pYp0+E=,"",>= 0,,,2.2.3,,,ruby,spree_cmd-2.2.3,XtM0rjK66YoyHcTemjIiOUfZQEHgKDtNkWcWzrmoAew=,,,,
-560081,Sean Schofield,Spree is an open source e-commerce framework for Ruby on Rails.  Join us on the spree-user google group or in #spree on IRC,2.2.3,16007,2014-07-01 00:00:00,2023-09-29 18:39:36.939316,Full-stack e-commerce framework for Ruby on Rails.,ruby,2014-07-01 00:28:28.647348,t,f,314,f,spree-2.2.3,"---
+560081,Sean Schofield,Spree is an open source e-commerce framework for Ruby on Rails.  Join us on the spree-user google group or in #spree on IRC,2.2.3,16007,2014-07-01 00:00:00,2023-09-29 18:39:36.939316,Full-stack e-commerce framework for Ruby on Rails.,ruby,2014-07-01 00:28:28.647348,t,f,315,f,spree-2.2.3,"---
 - BSD-3
 ",7680,"---
 - none
@@ -43818,11 +43818,11 @@ Note: This framework is still very early in development!
 560127,"Satoshi Amemiya, Naotoshi Seo","Make your field act as a git repo. Save the content to a file, and load the content from a file.",0.2.1,100872,2014-07-01 00:00:00,2023-09-29 18:39:40.006145,Make your field act as a git repo,ruby,2014-07-01 04:16:02.246025,t,f,4,f,acts_as_git-0.2.1,"--- []
 ",8704,"--- []
 ",>= 0,i9kiHeBSvC1JAdZCT1m4ecyx3rgbuV950VTmQdeKB5E=,"",>= 0,,,0.2.1,,,ruby,acts_as_git-0.2.1,4rZvc1RybdALVHknmU/es60sp1GCNq9bQi2HvQGIgss=,,,,
-560128,Sean Schofield,The bare bones necessary for Spree.,2.2.4,32475,2014-07-01 00:00:00,2023-09-29 18:39:40.063862,The bare bones necessary for Spree.,ruby,2014-07-01 04:19:51.411773,t,f,313,f,spree_core-2.2.4,"---
+560128,Sean Schofield,The bare bones necessary for Spree.,2.2.4,32475,2014-07-01 00:00:00,2023-09-29 18:39:40.063862,The bare bones necessary for Spree.,ruby,2014-07-01 04:19:51.411773,t,f,314,f,spree_core-2.2.4,"---
 - BSD-3
 ",201216,"--- []
 ",>= 1.9.3,/xjvpdWhjFj3LcrexJdfQORbmUavDsBLxJPH1Gqc+fQ=,"",>= 0,,,2.2.4,,,ruby,spree_core-2.2.4,I7BSlKX9e1/dzQcZeXreX2eIMQ62OndYijBfCMaWRH0=,,,,
-560129,Ryan Bigg,Spree's API,2.2.4,32476,2014-07-01 00:00:00,2023-09-29 18:39:40.166888,Spree's API,ruby,2014-07-01 04:20:03.886823,t,f,313,f,spree_api-2.2.4,"--- []
+560129,Ryan Bigg,Spree's API,2.2.4,32476,2014-07-01 00:00:00,2023-09-29 18:39:40.166888,Spree's API,ruby,2014-07-01 04:20:03.886823,t,f,314,f,spree_api-2.2.4,"--- []
 ",71168,"--- []
 ",>= 0,6UrMiGd80OLtFnD9xZO0l+nmeyzRM22ZZiN2vON1YcU=,"",>= 0,,,2.2.4,,,ruby,spree_api-2.2.4,Uh7mi2GvHBeD4aCz5uWUtaLRdv2RGoFPk5u0s1doXDk=,,,,
 560130,Sean Schofield,Required dependency for Spree,2.2.4,77623,2014-07-01 00:00:00,2023-09-29 18:39:40.222334,backend e-commerce functionality for the Spree project.,ruby,2014-07-01 04:20:17.094314,t,f,209,f,spree_backend-2.2.4,"--- []
@@ -43846,7 +43846,7 @@ Note: This framework is still very early in development!
 - MIT
 ",47104,"--- []
 ",>= 0,J4zpDdsQJqVv+Le2hRwwwH/mPpcxK/ZpUD0T0W4E8eA=,"",>= 1.3.6,,,0.0.3,,,ruby,things-rails-0.0.3,fo82kuTlujO4nAeVFwXLDm9YzCw6TJWq5snS3CARRgQ=,,,,
-560135,Sean Schofield,Spree is an open source e-commerce framework for Ruby on Rails.  Join us on the spree-user google group or in #spree on IRC,2.2.4,16007,2014-07-01 00:00:00,2023-09-29 18:39:40.527104,Full-stack e-commerce framework for Ruby on Rails.,ruby,2014-07-01 04:21:40.626681,t,f,313,f,spree-2.2.4,"---
+560135,Sean Schofield,Spree is an open source e-commerce framework for Ruby on Rails.  Join us on the spree-user google group or in #spree on IRC,2.2.4,16007,2014-07-01 00:00:00,2023-09-29 18:39:40.527104,Full-stack e-commerce framework for Ruby on Rails.,ruby,2014-07-01 04:21:40.626681,t,f,314,f,spree-2.2.4,"---
 - BSD-3
 ",7680,"---
 - none
@@ -43867,14 +43867,14 @@ Note: This framework is still very early in development!
 - MIT
 ",28160,"--- []
 ",>= 0,998e4teAj4dUf8hGt7Vqnw/SJm92oPX735c2H0SUKZ4=,"",>= 0,,,0.5,,,ruby,fakeredis-0.5.0,BvMIffJDorcCbZqXtU2GeoF0YDe4QfwARltpJE5SrSU=,,,,
-560140,Sean Schofield,The bare bones necessary for Spree.,2.3.1,32475,2014-07-01 00:00:00,2023-09-29 18:39:40.834246,The bare bones necessary for Spree.,ruby,2014-07-01 04:38:41.881494,t,f,301,f,spree_core-2.3.1,"---
+560140,Sean Schofield,The bare bones necessary for Spree.,2.3.1,32475,2014-07-01 00:00:00,2023-09-29 18:39:40.834246,The bare bones necessary for Spree.,ruby,2014-07-01 04:38:41.881494,t,f,302,f,spree_core-2.3.1,"---
 - BSD-3
 ",201728,"--- []
 ",>= 1.9.3,ith1trhjX3Q04lC7D7v65k27AfyfzDEGc/YB+E7Rjic=,"",>= 0,,,2.3.1,,,ruby,spree_core-2.3.1,67fMwPD3UZG65J0zpAwWFgaZc2n7dTg8XSf+e7LzWM0=,,,,
 560141,Hemanth.HM,A simple gem to get random img/comic url from xkcd,1.1.0,58864,2012-05-20 00:00:00,2023-09-29 18:39:40.967436,XCKD random img urls!,ruby,2014-07-01 04:38:46.49153,t,f,1,f,xkcd-1.1.0,"--- []
 ",4608,"--- []
 ",>= 0,t0VEEtGnhJLhRkyMJnPqyIKNtvtF755JmGoQIGCRPZw=,"",>= 0,,,1.1,,,ruby,xkcd-1.1.0,6MpzziqdnszRgOVuxHS73HdgTJc1IyPs528GTs1A2LI=,,,,
-560142,Ryan Bigg,Spree's API,2.3.1,32476,2014-07-01 00:00:00,2023-09-29 18:39:41.030048,Spree's API,ruby,2014-07-01 04:38:49.111388,t,f,301,f,spree_api-2.3.1,"--- []
+560142,Ryan Bigg,Spree's API,2.3.1,32476,2014-07-01 00:00:00,2023-09-29 18:39:41.030048,Spree's API,ruby,2014-07-01 04:38:49.111388,t,f,302,f,spree_api-2.3.1,"--- []
 ",71168,"--- []
 ",>= 0,/gZUy1NCp7BnbfxW2RyW2KHnomGfflO2/5xonTLSmpo=,"",>= 0,,,2.3.1,,,ruby,spree_api-2.3.1,qDfnhUexEMpXRKqpwIoJF6idIPl3rcxxMc/Eiw6cycU=,,,,
 560143,Sean Schofield,Required dependency for Spree,2.3.1,77623,2014-07-01 00:00:00,2023-09-29 18:39:41.105241,backend e-commerce functionality for the Spree project.,ruby,2014-07-01 04:38:56.233343,t,f,197,f,spree_backend-2.3.1,"--- []
@@ -43894,7 +43894,7 @@ Note: This framework is still very early in development!
 - BSD-3
 ",13824,"--- []
 ",>= 0,XQSMnWcFcpZz8XEzhDI4UqIhS2MfxMZvXAmH0SxYlX4=,"",>= 0,,,2.3.1,,,ruby,spree_cmd-2.3.1,hK3BplB5OTXBSrs8io2VGIellUUWoRU/u5hliLDUzOE=,,,,
-560147,Sean Schofield,Spree is an open source e-commerce framework for Ruby on Rails.  Join us on the spree-user google group or in #spree on IRC,2.3.1,16007,2014-07-01 00:00:00,2023-09-29 18:39:41.491053,Full-stack e-commerce framework for Ruby on Rails.,ruby,2014-07-01 04:39:30.613276,t,f,301,f,spree-2.3.1,"---
+560147,Sean Schofield,Spree is an open source e-commerce framework for Ruby on Rails.  Join us on the spree-user google group or in #spree on IRC,2.3.1,16007,2014-07-01 00:00:00,2023-09-29 18:39:41.491053,Full-stack e-commerce framework for Ruby on Rails.,ruby,2014-07-01 04:39:30.613276,t,f,302,f,spree-2.3.1,"---
 - BSD-3
 ",8192,"---
 - none
@@ -44704,7 +44704,7 @@ your Rack application's code and environment into an IRB or Pry session.
 - MIT
 ",6144,"--- []
 ",>= 0,gTk9IcDuwJTlcqJ03eF45GJL520vCdW6VR9HB1LBXaw=,"",>= 0,,,1.0.1,,,ruby,rack-console-1.0.1,bGvhAsiQUTnCZ/i/WxbIma1HIBYPoQfjECf934jdHJY=,,,,
-560338,"Ben McRedmond, Ciaran Lee, Darragh Curran, Jeff Gardner, Kyle Daigle, Declan McGrath, Jamie Osler, Bob Long",Intercom (https://www.intercom.io) is a customer relationship management and messaging tool for web app owners. This library wraps the api provided by Intercom. See http://docs.intercom.io/api for more details. ,2.1.2,53941,2014-07-01 00:00:00,2023-09-29 18:39:55.290641,Ruby bindings for the Intercom API,ruby,2014-07-01 16:19:34.236927,t,f,80,f,intercom-2.1.2,"---
+560338,"Ben McRedmond, Ciaran Lee, Darragh Curran, Jeff Gardner, Kyle Daigle, Declan McGrath, Jamie Osler, Bob Long",Intercom (https://www.intercom.io) is a customer relationship management and messaging tool for web app owners. This library wraps the api provided by Intercom. See http://docs.intercom.io/api for more details. ,2.1.2,53941,2014-07-01 00:00:00,2023-09-29 18:39:55.290641,Ruby bindings for the Intercom API,ruby,2014-07-01 16:19:34.236927,t,f,81,f,intercom-2.1.2,"---
 - MIT
 ",159232,"--- []
 ",~> 2.0,ZAynDhmE6XavQ3BFTLDQMlxdXih6vvnbn+62ei/U8OQ=,"",>= 0,,,2.1.2,,,ruby,intercom-2.1.2,EmAzEzIK76MP6K6yGWOS28sAuFP3rtL7oACItissyaU=,,,,
@@ -45376,7 +45376,7 @@ jasmine, evergreen, and many other frameworks.
 - MIT
 ",138752,"--- []
 ",>= 0,qc7RbHk1rA0Mq9Nrt5bECu/dM1GSqYhboHog8r87X/k=,"",>= 0,,,0.3.5,,,ruby,fog-softlayer-0.3.5,5Z3tIgglABmmZOO5Z/7jcvRHRKg1STQ+v7Mh6DmALMk=,,,,
-560463,kiyoto,"",0.0.1,101108,2014-07-01 00:00:00,2023-09-29 18:40:03.859557,Fluentd plugin to suppor Logstash-inspired Grok format for parsing logs,ruby,2014-07-01 21:19:51.679837,t,f,26,f,fluent-plugin-grok-parser-0.0.1,"---
+560463,kiyoto,"",0.0.1,101108,2014-07-01 00:00:00,2023-09-29 18:40:03.859557,Fluentd plugin to suppor Logstash-inspired Grok format for parsing logs,ruby,2014-07-01 21:19:51.679837,t,f,27,f,fluent-plugin-grok-parser-0.0.1,"---
 - Apache License, Version 2.0
 ",11776,"--- []
 ",>= 0,TuGIjkIPH0e+fvs4ngp0DchyBYTAIp1HNqZgdfMwmx0=,"",>= 0,,,0.0.1,,,ruby,fluent-plugin-grok-parser-0.0.1,E8A79je3T5O44weq/9AHhFrW+f6iz9B7wLVX9vIf98M=,,,,
@@ -46664,7 +46664,7 @@ deploy your build artifact with capistrano.
 - MIT
 ",18432,"--- []
 ",>= 0,PIpOLdmEFuwjAakFlBWRMeNf5eX23KkVR1+sq3FWrTQ=,"",>= 0,,,0.2.1,,,ruby,combi-0.2.1,HbNcuK3DFpvRuNVoEtGu3ZXnp/MFYv6zaf+cHQpuDa8=,,,,
-560747,"Many, see README","Save time and headaches, and create a more easily maintainable set of pages, with ActiveScaffold. ActiveScaffold handles all your CRUD (create, read, update, delete) user interface needs, leaving you more time to focus on more challenging (and interesting!) problems.",3.4.1,34995,2014-07-02 00:00:00,2023-09-29 18:40:23.593091,Rails 3.2 and 4.0 version of activescaffold supporting prototype and jquery,ruby,2014-07-02 14:19:18.363491,t,f,123,f,active_scaffold-3.4.1,"---
+560747,"Many, see README","Save time and headaches, and create a more easily maintainable set of pages, with ActiveScaffold. ActiveScaffold handles all your CRUD (create, read, update, delete) user interface needs, leaving you more time to focus on more challenging (and interesting!) problems.",3.4.1,34995,2014-07-02 00:00:00,2023-09-29 18:40:23.593091,Rails 3.2 and 4.0 version of activescaffold supporting prototype and jquery,ruby,2014-07-02 14:19:18.363491,t,f,124,f,active_scaffold-3.4.1,"---
 - MIT
 ",265728,"--- []
 ",>= 0,5YAThq3AY01bmBBxdbKc4l089tzhPB0elAQgfqEqsSo=,"",>= 0,,,3.4.1,,,ruby,active_scaffold-3.4.1,GCVYJ/A0G9YMj/rXXMcZJDuovYrfFVBA22GvTSzCC9s=,,,,
@@ -48148,7 +48148,7 @@ executable.
 ",>= 0,rhjqrRK+4ciOhTmd4qtXZ/TyjQWFYCAtgr9sWdpD8bk=,"",>= 0,,,3.1.1.0.8,,,ruby,ruby-maven-3.1.1.0.8,u5h4hGog7xTcsSaj7MhT0v27Tvah5AlAXXU2eiW/8gA=,,,,
 561112,"Bozhidar Batsov, Jonas Arvidsson, Yuji Nakayama","    Automatic Ruby code style checking tool.
     Aims to enforce the community-driven Ruby Style Guide.
-",0.24.1,58037,2014-07-03 00:00:00,2023-09-29 18:40:49.792213,Automatic Ruby code style checking tool.,ruby,2014-07-03 11:40:30.994131,t,f,286,f,rubocop-0.24.1,"---
+",0.24.1,58037,2014-07-03 00:00:00,2023-09-29 18:40:49.792213,Automatic Ruby code style checking tool.,ruby,2014-07-03 11:40:30.994131,t,f,287,f,rubocop-0.24.1,"---
 - MIT
 ",272384,"--- []
 ",>= 1.9.2,HFggHc2enLNkpYZbcdKcE3E3nDxsaJbWqu8pLQRovFQ=,"",>= 0,,,0.24.1,,,ruby,rubocop-0.24.1,Wswsr/MtqbrUprb7QJRyLWul5Z7ZsAzFQRsTReQnAN8=,,,,
@@ -48222,7 +48222,7 @@ executable.
 - MIT
 ",9728,"--- []
 ",>= 0,1A5o1UmL7XebCnXRZ4OVfnPhcBaxrciKYJIgH6nRvdM=,"",>= 0,,,1,,,ruby,socket.io-client-simple-1.0.0,WA+JVwVsMWBRN0Iek4VOTBnYOxtbGSbp9FwiLP1b1OI=,,,,
-561129,Chris Oliver,A simple Rails 3 and Rails 4 calendar,1.1.4,53285,2014-07-03 00:00:00,2023-09-29 18:40:50.975473,A simple Rails 3 and Rails 4 calendar,ruby,2014-07-03 12:36:47.54579,t,f,37,f,simple_calendar-1.1.4,"--- []
+561129,Chris Oliver,A simple Rails 3 and Rails 4 calendar,1.1.4,53285,2014-07-03 00:00:00,2023-09-29 18:40:50.975473,A simple Rails 3 and Rails 4 calendar,ruby,2014-07-03 12:36:47.54579,t,f,38,f,simple_calendar-1.1.4,"--- []
 ",10240,"--- []
 ",>= 0,a2nlHhA21HD9A4p98qbvesBLzD47755wWbYtCOslzmo=,"",>= 0,,,1.1.4,,,ruby,simple_calendar-1.1.4,Nydr+kStZSyhXF+13tioTIXbi8fSvDYzv3C+4rdNKlI=,,,,
 561130,Dimitris Zorbas,"    Cli tool to make inspecting and recording HTTP requests fun again
@@ -48348,7 +48348,7 @@ as a Bible reference, and then render it in a consistent manner.
 - MIT
 ",301568,"--- []
 ",>= 2.0.0,Mhu9BFpis+BSiNGOucR1UbZQa9EOIyrclFgHkWkmLL4=,"",>= 0,,,0.2.19,,,ruby,daddy-0.2.19,quQSQXW4lgNIIW3VPc9bg07xncwSZsneAO4xYXKKa3I=,,,,
-561161,"Robert Beekman, Steven Weller, Thijs Cadier, Ron Cadier, Jacob Vosmaer",The official appsignal.com gem,0.9.1,65664,2014-07-03 00:00:00,2023-09-29 18:40:52.970413,Logs performance and exception data from your app to appsignal.com,ruby,2014-07-03 14:09:06.878157,t,f,570,f,appsignal-0.9.1,"---
+561161,"Robert Beekman, Steven Weller, Thijs Cadier, Ron Cadier, Jacob Vosmaer",The official appsignal.com gem,0.9.1,65664,2014-07-03 00:00:00,2023-09-29 18:40:52.970413,Logs performance and exception data from your app to appsignal.com,ruby,2014-07-03 14:09:06.878157,t,f,573,f,appsignal-0.9.1,"---
 - MIT
 ",182784,"--- []
 ",>= 1.9.3,c29vfNwiadhTaIlGPJqHd52keIbuuWijeTsIaRu7jXM=,"",>= 0,,,0.9.1,,,ruby,appsignal-0.9.1,BNb/Vij5kiMVyA3t94E+pUSYZBUmmmDPnDAcyMZBtHg=,,,,
@@ -48543,7 +48543,7 @@ as a Bible reference, and then render it in a consistent manner.
 - Apache License (2.0)
 ",7168,"--- []
 ",>= 1.9.3,NnbTubUOw0A0k4FE2J5PECMzsW7yRij9huUdr+14QFY=,"",>= 0,,,1.1.2,,,ruby,killbill-currency-plugin-test-1.1.2,DgFJ+zADcXvkdoULLNJa4si0sqNI58Sri3acttvG+KQ=,,,,
-561212,John Keiser,Backup and Restore of Enterprise Chef,2.0.0.beta.2,85440,2014-07-03 00:00:00,2023-09-29 18:40:56.684595,Backup and Restore of Enterprise Chef,ruby,2014-07-03 16:39:42.250227,t,t,28,f,knife-ec-backup-2.0.0.beta.2,"---
+561212,John Keiser,Backup and Restore of Enterprise Chef,2.0.0.beta.2,85440,2014-07-03 00:00:00,2023-09-29 18:40:56.684595,Backup and Restore of Enterprise Chef,ruby,2014-07-03 16:39:42.250227,t,t,29,f,knife-ec-backup-2.0.0.beta.2,"---
 - Apache 2.0
 ",15872,"--- []
 ",>= 0,pgn5dAH6ChgRTLNlwyf/rRh/iJBu2hrczJdLxn2uiZ4=,"",> 1.3.1,,,2.beta.2,,,ruby,knife-ec-backup-2.0.0.beta.2,8wDts47RY5aVNcgS52Kxy1RJxArN4wGJhlSWhBO6Bno=,,,,
@@ -50847,7 +50847,7 @@ commands - we will then invoke run_program() with its name.
 
     The home page for RubyTree is at http://rubytree.anupamsg.me.
 
-",0.9.4,16431,2014-01-03 00:00:00,2023-09-29 18:41:30.755342,A generic tree data structure.,ruby,2014-07-05 03:49:32.6719,t,f,21,f,rubytree-0.9.4,"---
+",0.9.4,16431,2014-01-03 00:00:00,2023-09-29 18:41:30.755342,A generic tree data structure.,ruby,2014-07-05 03:49:32.6719,t,f,22,f,rubytree-0.9.4,"---
 - BSD
 ",43008,"--- []
 ",>= 1.8.7,Xe8xOiFmZ9KaZ8YjdGiW973mawXRga/9SyxfrCagBPQ=,"",>= 0,,,0.9.4,,,ruby,rubytree-0.9.4,oWVGQPnERglhJF2rsg4WYpLUbXsOMkMV72xCbvttGnk=,,,,
@@ -50900,7 +50900,7 @@ commands - we will then invoke run_program() with its name.
 - MIT
 ",24576,"--- []
 ",>= 0,J0iSICsMOwJp9XbpM07YkbxV1Irxzjwu/8dVxvlr3Zk=,"",> 1.3.1,,,2.beta.8,,,ruby,serverspec-2.0.0.beta8,ua62b9Q0zFioUus2Hg/9gIyi3GAFzh/4lR62ZJY32i4=,,,,
-561709,SonicGarden,"",0.1.1.beta7,70702,2014-07-05 00:00:00,2023-09-29 18:41:31.443916,Client for the CopyTuner copy management service,ruby,2014-07-05 07:37:46.995297,t,t,95,f,copy_tuner_client-0.1.1.beta7,"--- []
+561709,SonicGarden,"",0.1.1.beta7,70702,2014-07-05 00:00:00,2023-09-29 18:41:31.443916,Client for the CopyTuner copy management service,ruby,2014-07-05 07:37:46.995297,t,t,96,f,copy_tuner_client-0.1.1.beta7,"--- []
 ",50176,"--- []
 ",>= 0,taBIld0waT6j5Y/FkaFeO08zk6+iaPSooQ9MrWk6G5Q=,"",> 1.3.1,,,0.1.1.beta.7,,,ruby,copy_tuner_client-0.1.1.beta7,u6nCUGBNEz1wATFnfbT088EJzAWEbLVxJyVKOkpO9xY=,,,,
 561710,Kentaro Imai,"gmaps-rails is a gem which includes GMaps.js and provides an easy way to use it in Rails. GMaps.js has over 4,000 stars on Github and you will love to use it with Rails.",0.0.1,101273,2014-07-05 00:00:00,2023-09-29 18:41:31.495242,gmaps-rails is a gem which includes GMaps.js and provides an easy way to use it in Rails,ruby,2014-07-05 07:39:51.291947,t,f,1,f,gmaps-rails-0.0.1,"---
@@ -53692,7 +53692,7 @@ Up-To-Date file:
 		A Ruby parser and full API for the Citation Style Language (CSL),
 		an open XML-based language to describe the formatting of citations
 		and bibliographies.
-		",1.2.2,61326,2014-07-07 00:00:00,2023-09-29 18:42:17.272824,A Ruby CSL parser and library,ruby,2014-07-07 14:59:39.480267,t,f,19,f,csl-1.2.2,"---
+		",1.2.2,61326,2014-07-07 00:00:00,2023-09-29 18:42:17.272824,A Ruby CSL parser and library,ruby,2014-07-07 14:59:39.480267,t,f,21,f,csl-1.2.2,"---
 - AGPL
 ",81408,"--- []
 ",>= 1.9.3,ezNNHSyFk+TWMHOZ/30J4vlUHB54AWSwez2rR/HlzEo=,"",>= 0,,,1.2.2,,,ruby,csl-1.2.2,BSDvQELKdfcBxAU+GyyY3/1FI1nLxQw9xYnE3Vq2Z2s=,,,,
@@ -53725,7 +53725,7 @@ Up-To-Date file:
 		A Ruby parser and full API for the Citation Style Language (CSL),
 		an open XML-based language to describe the formatting of citations
 		and bibliographies.
-		",1.2.3,61326,2014-07-07 00:00:00,2023-09-29 18:42:17.733934,A Ruby CSL parser and library,ruby,2014-07-07 15:10:07.575865,t,f,18,f,csl-1.2.3,"---
+		",1.2.3,61326,2014-07-07 00:00:00,2023-09-29 18:42:17.733934,A Ruby CSL parser and library,ruby,2014-07-07 15:10:07.575865,t,f,20,f,csl-1.2.3,"---
 - AGPL
 ",81408,"--- []
 ",>= 1.9.3,lalMSJbxvjNFyY27oMR4cihEWM0yQPygnmoyrC/ofJ4=,"",>= 0,,,1.2.3,,,ruby,csl-1.2.3,BaHMqLfLPEfYnDlHlqIVC6LZoW80gD20N/y7SXGzreU=,,,,
@@ -53779,7 +53779,7 @@ Up-To-Date file:
 - Apache License, Version 2.0
 ",28672,"--- []
 ",>= 2.1.0,j93m4tiIIugu5WFxQDmqL4pWUnUADh2Gh6Q0YrvdJTM=,"",>= 0,,,0.1.20140707112624,,,ruby,arvados-cli-0.1.20140707112624,sBPSylHtfqYBxONaqGsQTiQI9fvFVQxueAoRwQHAWEQ=,,,,
-562343,"Jonathan Rochkind, Matt Mitchell, Chris Beer, Jessie Keck, Jason Ronallo, Vernon Chapman, Mark A. Matienzo, Dan Funk, Naomi Dushay, Justin Coyne",Blacklight is an open source Solr user interface discovery platform. You can use Blacklight to enable searching and browsing of your collections. Blacklight uses the Apache Solr search engine to search full text and/or metadata.,5.5.0,40893,2014-07-07 00:00:00,2023-09-29 18:42:18.980373,Blacklight provides a discovery interface for any Solr (http://lucene.apache.org/solr) index.,ruby,2014-07-07 15:37:08.33005,t,f,216,f,blacklight-5.5.0,"---
+562343,"Jonathan Rochkind, Matt Mitchell, Chris Beer, Jessie Keck, Jason Ronallo, Vernon Chapman, Mark A. Matienzo, Dan Funk, Naomi Dushay, Justin Coyne",Blacklight is an open source Solr user interface discovery platform. You can use Blacklight to enable searching and browsing of your collections. Blacklight uses the Apache Solr search engine to search full text and/or metadata.,5.5.0,40893,2014-07-07 00:00:00,2023-09-29 18:42:18.980373,Blacklight provides a discovery interface for any Solr (http://lucene.apache.org/solr) index.,ruby,2014-07-07 15:37:08.33005,t,f,217,f,blacklight-5.5.0,"---
 - Apache 2.0
 ",195072,"--- []
 ",>= 0,yE7Y9bsib+0uJQmOQDctcoxNP6bBdqcVj9XKJZ/wbS0=,"",>= 0,,,5.5,,,ruby,blacklight-5.5.0,AVzVdSLtWRA09oYmpc/URN1le6WMor1fx2MAbBZcFyU=,,,,
@@ -55919,7 +55919,7 @@ computer as MP3 files",0.0.7,101450,2014-07-08 00:00:00,2023-09-29 18:42:54.0416
 562851,"Ben Jackson, Bobby Calderwood",Neo4j integration with the Devise authentication framework,2.0.0.alpha.1,42097,2014-07-08 00:00:00,2023-09-29 18:42:55.098696,Devise ORM for Neo4j,ruby,2014-07-08 17:33:02.098299,t,t,5,f,devise-neo4j-2.0.0.alpha.1,"--- []
 ",16384,"--- []
 ",>= 0,niQm2fPr5OZ3KMddXo2J19gukUc9QoMRDi+vx+Kj+ow=,"",> 1.3.1,,,2.alpha.1,,,ruby,devise-neo4j-2.0.0.alpha.1,cq2jjFYXZMPlZBJe33jHh/k8D16wzocX8HlyukEDX7U=,,,,
-562852,"Jonathan Rochkind, Matt Mitchell, Chris Beer, Jessie Keck, Jason Ronallo, Vernon Chapman, Mark A. Matienzo, Dan Funk, Naomi Dushay, Justin Coyne",Blacklight is an open source Solr user interface discovery platform. You can use Blacklight to enable searching and browsing of your collections. Blacklight uses the Apache Solr search engine to search full text and/or metadata.,5.5.1,40893,2014-07-08 00:00:00,2023-09-29 18:42:55.164768,Blacklight provides a discovery interface for any Solr (http://lucene.apache.org/solr) index.,ruby,2014-07-08 17:35:48.941117,t,f,215,f,blacklight-5.5.1,"---
+562852,"Jonathan Rochkind, Matt Mitchell, Chris Beer, Jessie Keck, Jason Ronallo, Vernon Chapman, Mark A. Matienzo, Dan Funk, Naomi Dushay, Justin Coyne",Blacklight is an open source Solr user interface discovery platform. You can use Blacklight to enable searching and browsing of your collections. Blacklight uses the Apache Solr search engine to search full text and/or metadata.,5.5.1,40893,2014-07-08 00:00:00,2023-09-29 18:42:55.164768,Blacklight provides a discovery interface for any Solr (http://lucene.apache.org/solr) index.,ruby,2014-07-08 17:35:48.941117,t,f,216,f,blacklight-5.5.1,"---
 - Apache 2.0
 ",195072,"--- []
 ",>= 0,blFHX2BJMG0yqw3wsfD45P/zVcsvyTvWy9ney0eWgV0=,"",>= 0,,,5.5.1,,,ruby,blacklight-5.5.1,I9DAV6y2phPQ71aVyPRDRddXIM/3CsVzZOwKBEePblo=,,,,
@@ -58978,7 +58978,7 @@ computer as MP3 files",0.0.9,101450,2014-07-10 00:00:00,2023-09-29 18:43:48.2070
 - MIT
 ",9216,"--- []
 ",>= 0,mvbkjnhp1dUCD2Rx2TrSFs2RrWpdWKuzBVnlrFB1myk=,"","",2015-04-28 22:44:34.301919,,0.1,,,ruby,css-class-string-0.1.0,,,49ff4511065df670c67d2e7c55b1cdb9,,
-563535,Ilya Sadykov,Adaptor to use Allure framework along with the RSpec 2,0.3,89339,2014-07-10 00:00:00,2023-09-29 18:43:49.080312,allure-rspec-0.3,ruby,2014-07-10 14:18:02.768272,t,f,83,f,allure-rspec-0.3,"---
+563535,Ilya Sadykov,Adaptor to use Allure framework along with the RSpec 2,0.3,89339,2014-07-10 00:00:00,2023-09-29 18:43:49.080312,allure-rspec-0.3,ruby,2014-07-10 14:18:02.768272,t,f,86,f,allure-rspec-0.3,"---
 - Apache2
 ",15360,"--- []
 ",>= 0,tys2SNPPHdKmhiFV0P1HMhs1lxi1e626EYvd223ln8c=,"",>= 0,,,0.3,,,ruby,allure-rspec-0.3,Wvi6V1cOTJDifnoCFS17uT3HT4DcogIl7HQGejoUrHs=,,,,
@@ -59201,7 +59201,7 @@ Works with the new Capistrano v3! Suitable for deploying any apps, be it Ruby or
 - MIT
 ",163328,"--- []
 ",>= 0,3BNHety25hc4AwEnF7rXqNBSn9xhlFD/lQNmvVU/XFU=,"",>= 0,,,1.0.3,,,ruby,ruboty-1.0.3,xOmHOxZuU5o+1z1SlmReTwmlGuMmp/ECgaAQgGI+70I=,,,,
-563591,"Mike Karlesky, Mark VanderVoord, Greg Williams, Matt Fletcher",Ceedling provides a set of tools to deploy its guts in a folder or which can be required in a Rakefile,0.14.0,39650,2014-07-10 00:00:00,2023-09-28 04:20:58.459185,Ceedling is a set of tools for the automation of builds and test running for C,ruby,2014-07-10 16:11:17.965299,f,f,38,f,ceedling-0.14.0,"--- []
+563591,"Mike Karlesky, Mark VanderVoord, Greg Williams, Matt Fletcher",Ceedling provides a set of tools to deploy its guts in a folder or which can be required in a Rakefile,0.14.0,39650,2014-07-10 00:00:00,2023-09-28 04:20:58.459185,Ceedling is a set of tools for the automation of builds and test running for C,ruby,2014-07-10 16:11:17.965299,f,f,39,f,ceedling-0.14.0,"--- []
 ",607232,"--- []
 ",>= 0,PY8LQ24nN1bWdYy1WcIwaQRihz8b8k2jsku6xoGshzQ=,"","",2015-04-28 22:44:35.032802,,0.14,,,ruby,ceedling-0.14.0,,,,,
 563592,Michael Deering,"",1.2.0,25040,2014-07-10 00:00:00,2023-09-29 18:43:52.67018,"",ruby,2014-07-10 16:14:56.336353,t,f,0,t,attribute_normalizer-1.2.0,"--- []
@@ -59391,7 +59391,7 @@ computer as MP3 files",0.1.0,101450,2014-07-10 00:00:00,2023-09-29 18:43:54.7882
 563637,Greg Brockman,Some tools and libraries to simplify tailing the mongod oplog,0.3.1,71695,2014-07-10 00:00:00,2023-09-29 18:43:55.721397,monogdb oplog-tailing utilities.,ruby,2014-07-10 18:15:24.339301,t,f,4,f,mongoriver-0.3.1,"--- []
 ",11264,"--- []
 ",>= 0,kIqYzUYm9TkHEIkQhTtvdBZkmj8Ol8vP7QEa/vqLJX4=,"",>= 0,,,0.3.1,,,ruby,mongoriver-0.3.1,dP8MzVqL6YoGQ4pMp7oE6cFS4QtpEuLEnUIP1AfwO4k=,,,,
-563638,"Mike Karlesky, Mark VanderVoord, Greg Williams, Matt Fletcher",Ceedling provides a set of tools to deploy its guts in a folder or which can be required in a Rakefile,0.15.0,39650,2014-07-10 00:00:00,2023-09-29 18:43:55.818494,Ceedling is a set of tools for the automation of builds and test running for C,ruby,2014-07-10 18:17:01.63561,t,f,37,f,ceedling-0.15.0,"---
+563638,"Mike Karlesky, Mark VanderVoord, Greg Williams, Matt Fletcher",Ceedling provides a set of tools to deploy its guts in a folder or which can be required in a Rakefile,0.15.0,39650,2014-07-10 00:00:00,2023-09-29 18:43:55.818494,Ceedling is a set of tools for the automation of builds and test running for C,ruby,2014-07-10 18:17:01.63561,t,f,38,f,ceedling-0.15.0,"---
 - MIT
 ",2785792,"--- []
 ",>= 0,B/QeZNgEcj+lGGGcuUTTeYYOw8NZssfX3H8GLUgCFfQ=,"",>= 0,,,0.15,,,ruby,ceedling-0.15.0,a0rMJ//F6SIkZz27xmlkAmtRGe6dTC5ByEp0cDoh14U=,,,,
@@ -59455,7 +59455,7 @@ computer as MP3 files",0.1.0,101450,2014-07-10 00:00:00,2023-09-29 18:43:54.7882
 - MIT
 ",9216,"--- []
 ",>= 0,twCPcUysUj1J2YSkWZDg+AxrmBNxyHCRrBcueRyeSiY=,"",>= 0,,,1,,,ruby,galera_cluster_migrations-1.0.0,VuBPUDUsmyy169h0dLDwyrRVhpmBEYN3L90qupKzqho=,,,,
-563654,"Mike Karlesky, Mark VanderVoord, Greg Williams, Matt Fletcher",Ceedling provides a set of tools to deploy its guts in a folder or which can be required in a Rakefile,0.15.1,39650,2014-07-10 00:00:00,2023-09-29 18:43:56.919168,Ceedling is a set of tools for the automation of builds and test running for C,ruby,2014-07-10 19:02:51.257556,t,f,36,f,ceedling-0.15.1,"---
+563654,"Mike Karlesky, Mark VanderVoord, Greg Williams, Matt Fletcher",Ceedling provides a set of tools to deploy its guts in a folder or which can be required in a Rakefile,0.15.1,39650,2014-07-10 00:00:00,2023-09-29 18:43:56.919168,Ceedling is a set of tools for the automation of builds and test running for C,ruby,2014-07-10 19:02:51.257556,t,f,37,f,ceedling-0.15.1,"---
 - MIT
 ",2785792,"--- []
 ",>= 0,cIs/4iRfU5adUPQy9vzNzW9PU2bzAMngKc7G3vy8j+0=,"",>= 0,,,0.15.1,,,ruby,ceedling-0.15.1,YZ3gxdZfAzji8yk/s+9yg+g72nfy4fVm2D9qmdUG6Ho=,,,,
@@ -60796,7 +60796,7 @@ use the more idiomatic: &lt;tt&gt;view &lt;&lt; subview&lt;/tt&gt;.
 - MIT
 ",2487808,"--- []
 ",>= 0,X0YJPGSGk9io4fOzGCQZt/JvFBrQAHISOfbmf7/ArtE=,"",>= 0,,,0.6.2,,,ruby,rack-dev-mark-0.6.2,D8X6oIWyK3sa1h1K5WZR2Y0BIqNzI0GM5KwPMJMy64s=,,,,
-563965,Ilya Sadykov,Adaptor to use Allure framework along with the RSpec 2,0.3.1,89339,2014-07-11 00:00:00,2023-09-29 18:44:20.244147,allure-rspec-0.3.1,ruby,2014-07-11 14:51:01.55234,t,f,82,f,allure-rspec-0.3.1,"---
+563965,Ilya Sadykov,Adaptor to use Allure framework along with the RSpec 2,0.3.1,89339,2014-07-11 00:00:00,2023-09-29 18:44:20.244147,allure-rspec-0.3.1,ruby,2014-07-11 14:51:01.55234,t,f,85,f,allure-rspec-0.3.1,"---
 - Apache2
 ",15360,"--- []
 ",>= 0,XUCKiH7eupamnfyTKRaXUYtWLGYATncJeH6Ob1yK058=,"",>= 0,,,0.3.1,,,ruby,allure-rspec-0.3.1,U6DYUhjxxzw/LK1kRU2NY11S4V4L5WebsjO2877JLCQ=,,,,
@@ -62169,7 +62169,7 @@ frontend Javascript inclusion.",0.4.3,60293,2014-07-12 00:00:00,2023-09-29 18:44
 - MIT
 ",15872,"--- []
 ",>= 0,xPZAnQ+OxlwhvKgsRiVWqsNnpRwF0Qlk+JehvYXPvBA=,"",>= 0,,,0.0.1,,,ruby,collect_plus-0.0.1,JGZWipKNPih8I8uogMXnI0mEQWqOU6xYWdvBAWD/9eg=,d69448d5c62c805971b1732a738be2c3,,,
-564253,Chris Oliver,A simple Rails 3 and Rails 4 calendar,1.1.5,53285,2014-07-12 00:00:00,2023-09-29 18:44:40.936381,A simple Rails 3 and Rails 4 calendar,ruby,2014-07-12 16:12:57.721842,t,f,36,f,simple_calendar-1.1.5,"--- []
+564253,Chris Oliver,A simple Rails 3 and Rails 4 calendar,1.1.5,53285,2014-07-12 00:00:00,2023-09-29 18:44:40.936381,A simple Rails 3 and Rails 4 calendar,ruby,2014-07-12 16:12:57.721842,t,f,37,f,simple_calendar-1.1.5,"--- []
 ",10240,"--- []
 ",>= 0,WqC4Hgjgf1/qqMPqSHUDSw8IDcb34Wdq5G1tOMvHJiY=,"",>= 0,,,1.1.5,,,ruby,simple_calendar-1.1.5,2eOMMYGebyB8rVE3yP5A0TYVkHgWparNbCx6iELqYbs=,,,,
 564254,"kylejginavan, chebyte","Upload, delete, update, comment on youtube videos all from one gem.",2.4.1,30521,2014-07-12 00:00:00,2023-09-29 18:44:41.007622,The most complete Ruby wrapper for youtube api's,ruby,2014-07-12 16:21:47.529396,t,f,1,f,youtube_it-2.4.1,"--- []
@@ -62890,7 +62890,7 @@ commands - we will then invoke run_program() with its name.
 564391,Thomas Cannon,Dependency-free object validation library for Ruby 1.8.7+,0.0.3,101696,2014-07-12 04:00:00,2023-09-29 18:44:51.749552,Dependency-free object validation library for Ruby 1.8.7+,ruby,2014-07-13 03:38:43.636702,t,f,4,f,duck-hunt-0.0.3,"--- []
 ",24576,"--- []
 ",>= 0,wB30Jzg05nmLVMC4s614bpWHDu2JARqL3Ff/TMQNusw=,"",>= 0,,,0.0.3,,,ruby,duck-hunt-0.0.3,UdSbfa41XeTzPookClN6t4NWh+8PNQj3C8H6zM0l8FY=,,,,
-564392,Richard Huang,help to kill N+1 queries and unused eager loading.,4.12.0,21697,2014-07-13 00:00:00,2023-09-29 18:44:51.818037,help to kill N+1 queries and unused eager loading.,ruby,2014-07-13 03:45:32.064252,t,f,78,f,bullet-4.12.0,"---
+564392,Richard Huang,help to kill N+1 queries and unused eager loading.,4.12.0,21697,2014-07-13 00:00:00,2023-09-29 18:44:51.818037,help to kill N+1 queries and unused eager loading.,ruby,2014-07-13 03:45:32.064252,t,f,79,f,bullet-4.12.0,"---
 - MIT
 ",35328,"--- []
 ",>= 0,QCsBUIYuSxi9wnUNykCiSY+T5S7U7hUJYSVGYnWv9fQ=,"",>= 1.3.6,,,4.12,,,ruby,bullet-4.12.0,vv4cONytrWvD8X2cNVLaxjC9sVd2gnYn06BKMrFD9GU=,,,,
@@ -64335,7 +64335,7 @@ See also http://d3js.org/
 It defines Task model for keeping the information about the tasks and Lock for assigning the tasks
 to resources. The locking allows dealing with preventing multiple colliding tasks to be run on the
 same resource. It also optionally provides Dynflow infrastructure for using it for managing the tasks.
-",0.6.5,91717,2014-07-14 00:00:00,2023-09-29 18:45:18.509296,Foreman plugin for showing tasks information for resoruces and users,ruby,2014-07-14 15:27:00.92148,t,f,193,f,foreman-tasks-0.6.5,"--- []
+",0.6.5,91717,2014-07-14 00:00:00,2023-09-29 18:45:18.509296,Foreman plugin for showing tasks information for resoruces and users,ruby,2014-07-14 15:27:00.92148,t,f,194,f,foreman-tasks-0.6.5,"--- []
 ",41984,"--- []
 ",>= 0,oJARxdAXWokxT/zaH7YnBltn6pYD7QRDaJwEwpVeZUM=,"",>= 0,,,0.6.5,,,ruby,foreman-tasks-0.6.5,bTtGEwg5QOZPRgZaZEe9fgAA2Sbvu5DkLoN16QtqtQY=,,,,
 564745,Ivan Malykh,This gem wraps the OpenCPU REST API.,0.7.2,96247,2014-07-14 00:00:00,2023-09-28 04:21:19.957871,Wrapper around OpenCPU REST API,ruby,2014-07-14 15:29:09.665962,f,f,18,f,opencpu-0.7.2,"---
@@ -64889,7 +64889,7 @@ rush to build something amazing; don't use it if you like missing deadlines.
 - MIT
 ",23040,"--- []
 ",>= 2.1.0,Ag7LdrdYxhd82Oc5emkRfhVa4uWShPuOWpxx6Ve0A8s=,"",>= 0,,,1.5.2,,,ruby,active_mocker-1.5.2,gdYjXUIh1IzHarUNkfaB7kEKK/AommGnN7XCq/aQYuk=,,,,
-564884,Burke Libbey,Secret management by encrypting values in a JSON hash with a public/private keypair,0.3.0,94570,2014-07-14 00:00:00,2023-09-29 18:45:30.553095,Asymmetric keywise encryption for JSON,ruby,2014-07-14 21:18:39.445086,t,f,13,f,ejson-0.3.0,"---
+564884,Burke Libbey,Secret management by encrypting values in a JSON hash with a public/private keypair,0.3.0,94570,2014-07-14 00:00:00,2023-09-29 18:45:30.553095,Asymmetric keywise encryption for JSON,ruby,2014-07-14 21:18:39.445086,t,f,14,f,ejson-0.3.0,"---
 - MIT
 ",11776,"--- []
 ",>= 0,RhHcWgJabwar6+suiPREZQYqG+mSlBLMb95X36awdV4=,"",>= 0,,,0.3,,,ruby,ejson-0.3.0,CWEV+lCnsNFmZFqV88L5xgw9vf7dJfeurqr/boV++pE=,,,,
@@ -66693,7 +66693,7 @@ The gem provides interface to AWS cloud services.
 - MIT
 ",7680,"--- []
 ",>= 0,A33gstxc1JPin1yNkODTcrh1rEzMgFoGNoHci7rKdqo=,"",>= 0,,,1,,,ruby,jquery-inputfit-rails-1.0.0,Q4lcM22roWVaZ5Lpjw66qiVxBG5aX5+PW5QNq78r+lg=,,,,
-565313,Sam Pohlenz,Seamlessly integrates TinyMCE into the Rails asset pipeline introduced in Rails 3.1.,4.1.2,44733,2014-07-16 00:00:00,2023-09-29 18:46:01.400929,Rails asset pipeline integration for TinyMCE.,ruby,2014-07-16 00:31:42.178593,t,f,192,f,tinymce-rails-4.1.2,"---
+565313,Sam Pohlenz,Seamlessly integrates TinyMCE into the Rails asset pipeline introduced in Rails 3.1.,4.1.2,44733,2014-07-16 00:00:00,2023-09-29 18:46:01.400929,Rails asset pipeline integration for TinyMCE.,ruby,2014-07-16 00:31:42.178593,t,f,193,f,tinymce-rails-4.1.2,"---
 - MIT
 ",837632,"--- []
 ",>= 0,LfqX62Skook/3gUTeUIXJRtfFyr5PsstzZeKa8pV9gI=,"",>= 0,,,4.1.2,,,ruby,tinymce-rails-4.1.2,32DzUL4gVkWN/S66DJyAzoTAww8O4RGyQHJfX+RXFKU=,,,,
@@ -68404,7 +68404,7 @@ If you don't have RubyGems installed, you can still do it manually:
 
 For more details and other options, see:
 
-  ruby setup.rb --help",2.4.0,16475,2014-07-17 00:00:00,2023-09-29 18:46:31.104789,RubyGems is a package management framework for Ruby,ruby,2014-07-17 00:47:55.742491,t,f,210,f,rubygems-update-2.4.0,"---
+  ruby setup.rb --help",2.4.0,16475,2014-07-17 00:00:00,2023-09-29 18:46:31.104789,RubyGems is a package management framework for Ruby,ruby,2014-07-17 00:47:55.742491,t,f,211,f,rubygems-update-2.4.0,"---
 - Ruby
 - MIT
 ",439808,"--- []
@@ -68897,7 +68897,7 @@ supports Ruby 1.8, so make sure that your gem specification is set properly (to
 - GPLv3
 ",12288,"--- []
 ",>= 0,2NdWAKdBEgIvMPc9ABtxKjQQDjbuYZyh/VM+ElZDTPM=,"",>= 0,,,0.1,,,ruby,ecomdev-chefspec-0.1.0,ROW4mC7a/ps8ImMMfEehUEHohsEE31hSacN7VEat1rU=,,,,
-565846,Ilya Sadykov,Adaptor to use Allure framework along with the RSpec 2,0.3.2,89339,2014-07-17 00:00:00,2023-09-29 18:46:40.207482,allure-rspec-0.3.2,ruby,2014-07-17 08:30:49.803607,t,f,81,f,allure-rspec-0.3.2,"---
+565846,Ilya Sadykov,Adaptor to use Allure framework along with the RSpec 2,0.3.2,89339,2014-07-17 00:00:00,2023-09-29 18:46:40.207482,allure-rspec-0.3.2,ruby,2014-07-17 08:30:49.803607,t,f,84,f,allure-rspec-0.3.2,"---
 - Apache2
 ",15360,"--- []
 ",>= 0,7IVD0hXJ/oLxxbxOwmsT2aEUi1MXIU3xctv4i13AwLw=,"",>= 0,,,0.3.2,,,ruby,allure-rspec-0.3.2,YyPMOZCNvJHeGLzf234Sh6+CEv+4xCDcfqgRiAIg5B4=,,,,
@@ -69039,11 +69039,11 @@ supports Ruby 1.8, so make sure that your gem specification is set properly (to
 - MIT
 ",5120,"--- []
 ",>= 0,sPm75IKiyNr1Gwk6nh08l00PioE390FBO6aMDyQAoZM=,"","",2015-04-28 22:44:54.028428,,1.0.1,,,ruby,chanakya-1.0.1,,,6cc38e5d0e176ce8626f8a5935de2116,,
-565882,Sergio Cambra,User may reorder and hide/show list columns,3.2.7,73521,2014-07-17 00:00:00,2023-09-29 18:46:42.061714,User specific column configuration for ActiveScaffold,ruby,2014-07-17 10:27:27.765942,t,f,18,f,active_scaffold_config_list-3.2.7,"---
+565882,Sergio Cambra,User may reorder and hide/show list columns,3.2.7,73521,2014-07-17 00:00:00,2023-09-29 18:46:42.061714,User specific column configuration for ActiveScaffold,ruby,2014-07-17 10:27:27.765942,t,f,19,f,active_scaffold_config_list-3.2.7,"---
 - MIT
 ",8704,"--- []
 ",>= 0,b0URDB84NJE0IgOOrlySd7qrpKMSiw6H5aDdGZbqHHc=,"",>= 0,,,3.2.7,,,ruby,active_scaffold_config_list-3.2.7,Lng3MjSbd+65Brut9Cf/eNHk6MVbnHg4hjvUnJ6NSmo=,,,,
-565883,Sergio Cambra,User may reorder and hide/show list columns,3.2.8,73521,2014-07-17 00:00:00,2023-09-29 18:46:42.179397,User specific column configuration for ActiveScaffold,ruby,2014-07-17 10:36:01.247682,t,f,17,f,active_scaffold_config_list-3.2.8,"---
+565883,Sergio Cambra,User may reorder and hide/show list columns,3.2.8,73521,2014-07-17 00:00:00,2023-09-29 18:46:42.179397,User specific column configuration for ActiveScaffold,ruby,2014-07-17 10:36:01.247682,t,f,18,f,active_scaffold_config_list-3.2.8,"---
 - MIT
 ",8704,"--- []
 ",>= 0,nywZaFxx1f/RDmu7ZY2U7HFS07jzjDYuPHH9pbrmUuw=,"",>= 0,,,3.2.8,,,ruby,active_scaffold_config_list-3.2.8,RsAdu++Z1ARgX2SAaP3Y2uhD0YyfD7Y6WshtLjkP9+c=,,,,
@@ -69120,7 +69120,7 @@ supports Ruby 1.8, so make sure that your gem specification is set properly (to
 - MIT
 ",49664,"--- []
 ",>= 0,TyBXUqTzcw/UxYZ4u6tMg/Tipso7vqTN8YzYanBYnrc=,"",>= 0,,,0.9,,,ruby,simplecov-0.9.0,YQYmjJwuoiBN1lUWblSVahjGO7xFVClhiIC4qkCpsEg=,,,,
-565903,Sergio Cambra,User may reorder and hide/show list columns,3.2.9,73521,2014-07-17 00:00:00,2023-09-29 18:46:43.785676,User specific column configuration for ActiveScaffold,ruby,2014-07-17 11:16:15.587591,t,f,16,f,active_scaffold_config_list-3.2.9,"---
+565903,Sergio Cambra,User may reorder and hide/show list columns,3.2.9,73521,2014-07-17 00:00:00,2023-09-29 18:46:43.785676,User specific column configuration for ActiveScaffold,ruby,2014-07-17 11:16:15.587591,t,f,17,f,active_scaffold_config_list-3.2.9,"---
 - MIT
 ",8704,"--- []
 ",>= 0,SHIsaRHhLb2FYK1oTLgKJNfXqfyH3EYz6Yoo9sD+MWk=,"",>= 0,,,3.2.9,,,ruby,active_scaffold_config_list-3.2.9,6LDDI+MOwBMxs1pL86hWwnPgS7qAoz31cTRZIdTHeQ0=,,,,
@@ -70125,7 +70125,7 @@ embedded, http experimentations
 - MIT
 ",13824,"--- []
 ",>= 1.9.3,acDYjBFSm/gVv+FK7qetbKh8vwNuSiE2ZISpuWshbGU=,"",>= 0,,,1.2.4,,,ruby,bddfire-1.2.4,dGnMKNiHTk27jASKThll97siS//90rHLGi9jUHMa9Jo=,,,,
-566159,Burke Libbey,Secret management by encrypting values in a JSON hash with a public/private keypair,0.4.0,94570,2014-07-17 00:00:00,2023-09-29 18:47:03.424818,Asymmetric keywise encryption for JSON,ruby,2014-07-17 21:19:49.106144,t,f,12,f,ejson-0.4.0,"---
+566159,Burke Libbey,Secret management by encrypting values in a JSON hash with a public/private keypair,0.4.0,94570,2014-07-17 00:00:00,2023-09-29 18:47:03.424818,Asymmetric keywise encryption for JSON,ruby,2014-07-17 21:19:49.106144,t,f,13,f,ejson-0.4.0,"---
 - MIT
 ",12288,"--- []
 ",>= 0,KQnfYudtS5ahxxQAApy5vCHt9d4PILCvSrxwWH6wC0c=,"",>= 0,,,0.4,,,ruby,ejson-0.4.0,GYHmDEjqJmTURPmC82V1dRw641Gb0dJ5OtlRGoGdruE=,,,,
@@ -70255,7 +70255,7 @@ If you don't have RubyGems installed, you can still do it manually:
 
 For more details and other options, see:
 
-  ruby setup.rb --help",2.4.1,16475,2014-07-17 00:00:00,2023-09-29 18:47:05.341732,RubyGems is a package management framework for Ruby,ruby,2014-07-17 22:41:18.228293,t,f,209,f,rubygems-update-2.4.1,"---
+  ruby setup.rb --help",2.4.1,16475,2014-07-17 00:00:00,2023-09-29 18:47:05.341732,RubyGems is a package management framework for Ruby,ruby,2014-07-17 22:41:18.228293,t,f,210,f,rubygems-update-2.4.1,"---
 - Ruby
 - MIT
 ",440320,"--- []
@@ -70594,7 +70594,7 @@ For more details and other options, see:
 - MIT
 ",121344,"--- []
 ",>= 1.9.3,4WxCeesaSa1+4dRetHm3vNhizgLXQQtR3KDZm0OINAY=,"",>= 0,,,2.3.6,,,ruby,transpec-2.3.6,hSS9dMziCNcQzEoxaOqVIInfHr/+9BiHTRFKECmnupk=,,,,
-566275,"André Arko, Terence Lee, Carl Lerche, Yehuda Katz","Bundler manages an application's dependencies through its entire life, across many machines, systematically and repeatably",1.6.4,19969,2014-07-18 00:00:00,2023-09-29 18:47:12.245349,The best way to manage your application's dependencies,ruby,2014-07-18 06:19:02.107575,t,f,288,f,bundler-1.6.4,"---
+566275,"André Arko, Terence Lee, Carl Lerche, Yehuda Katz","Bundler manages an application's dependencies through its entire life, across many machines, systematically and repeatably",1.6.4,19969,2014-07-18 00:00:00,2023-09-29 18:47:12.245349,The best way to manage your application's dependencies,ruby,2014-07-18 06:19:02.107575,t,f,289,f,bundler-1.6.4,"---
 - MIT
 ",293888,"--- []
 ",>= 1.8.7,xxvoPHfdedCM5rDfg4V/+AS1Aj+Fr4krw2HyCALAER8=,"",>= 1.3.6,,,1.6.4,,,ruby,bundler-1.6.4,eWQILJTx1PL7WpEokpk2P9GlLC7fwV/9LRX7yNCXtVU=,,,,
@@ -70908,7 +70908,7 @@ applications, and in mobile apps written using frameworks such as Cordova",1.0.0
 566353,Codevise Solutions Ltd,"",0.2.0,97957,2014-07-18 00:00:00,2023-09-29 18:47:17.38326,Multimedia story telling for the web.,ruby,2014-07-18 11:43:26.614849,t,f,110,f,pageflow-0.2.0,"--- []
 ",2858496,"--- []
 ",>= 0,ODFYBCosNhgXoERFwAS/MUtYigGRJyLengv48ow8jVA=,"",>= 0,,,0.2,,,ruby,pageflow-0.2.0,zGpcbtxkl+03W/nHzUWO2U9GdXgeK2Xn+0tj+ffBhMw=,,,,
-566354,Ilya Sadykov,Adaptor to use Allure framework along with the RSpec 2,0.3.3,89339,2014-07-18 00:00:00,2023-09-29 18:47:17.4938,allure-rspec-0.3.3,ruby,2014-07-18 11:43:32.271798,t,f,80,f,allure-rspec-0.3.3,"---
+566354,Ilya Sadykov,Adaptor to use Allure framework along with the RSpec 2,0.3.3,89339,2014-07-18 00:00:00,2023-09-29 18:47:17.4938,allure-rspec-0.3.3,ruby,2014-07-18 11:43:32.271798,t,f,83,f,allure-rspec-0.3.3,"---
 - Apache2
 ",15360,"--- []
 ",>= 0,2fK3Vvj9q9TSod+0lw1X7uPp92j0I22lhsbzCuJnW/g=,"",>= 0,,,0.3.3,,,ruby,allure-rspec-0.3.3,5AxfJC+s9IwBclfwYZ9llm0YaKX5ogEy01EXdMMDU+Y=,,,,
@@ -71230,7 +71230,7 @@ makes it easy to update the shared code.",0.2.26,92563,2014-07-18 00:00:00,2023-
 - MIT
 ",573952,"--- []
 ",>= 2.0.0,kg1OJKX1Jrb+KPcA9Otj038UcIdj5/fDNiCN22kBthU=,"""issue_tracker""=>""https://github.com/cybernetlab/admin_it/issues""",>= 0,,,1.3,,,ruby,admin_it-1.3.0,A4BrS1NJvsfrtCspasXrJQ7gI/n7KAnL/aR1lJQe4UM=,,,,
-566433,"Robert Beekman, Steven Weller, Thijs Cadier, Ron Cadier, Jacob Vosmaer",The official appsignal.com gem,0.9.2,65664,2014-07-18 00:00:00,2023-09-29 18:47:22.957257,Logs performance and exception data from your app to appsignal.com,ruby,2014-07-18 15:35:51.482938,t,f,569,f,appsignal-0.9.2,"---
+566433,"Robert Beekman, Steven Weller, Thijs Cadier, Ron Cadier, Jacob Vosmaer",The official appsignal.com gem,0.9.2,65664,2014-07-18 00:00:00,2023-09-29 18:47:22.957257,Logs performance and exception data from your app to appsignal.com,ruby,2014-07-18 15:35:51.482938,t,f,572,f,appsignal-0.9.2,"---
 - MIT
 ",183296,"--- []
 ",>= 1.9.3,CacYjcx83qPeNYFirCP5NDM3iEWyTgNM64p3yFZ4PpA=,"",>= 0,,,0.9.2,,,ruby,appsignal-0.9.2,y4J96Ad+06x8fw1MRi6cmqbc9i3guu2ga+KSZeRdqw8=,,,,
@@ -72642,7 +72642,7 @@ This is a text based game with several players.  The players have a name and a h
 - MIT
 ",7168,"--- []
 ",>= 0,EDSob5qwl0zFDQSHgpeLd9jBqINz0YJEzu315bGiqsk=,"",>= 0,,,1,,,ruby,latinverb_irregular_participles_retriever-1.0.0,UsPmo4c3LB88vjkINr/HzzQQrjvzXgkyoqlJhD9WOZw=,0db659547fc57740c69ec7c1c2315793,,,
-566732,Richard Huang,help to kill N+1 queries and unused eager loading.,4.13.0,21697,2014-07-19 00:00:00,2023-09-29 18:47:46.052706,help to kill N+1 queries and unused eager loading.,ruby,2014-07-19 12:03:54.014642,t,f,77,f,bullet-4.13.0,"---
+566732,Richard Huang,help to kill N+1 queries and unused eager loading.,4.13.0,21697,2014-07-19 00:00:00,2023-09-29 18:47:46.052706,help to kill N+1 queries and unused eager loading.,ruby,2014-07-19 12:03:54.014642,t,f,78,f,bullet-4.13.0,"---
 - MIT
 ",35328,"--- []
 ",>= 0,wzzbos+MPeLU3M+TKLmurP+4kkXXwh42ijmcBRBFL2A=,"",>= 1.3.6,,,4.13,,,ruby,bullet-4.13.0,HqcSfGJv4KmB4drq2on2umqugDNFghRPKhrO43NrxqQ=,,,,
@@ -73676,7 +73676,7 @@ and install the dependencies by 'bundle install'.
 - MIT
 ",6656,"--- []
 ",>= 0,3edp2+FNhPLrL7DUDWAiiP64a8pxwlnK8diBus0cJK0=,"",>= 0,,,0.0.1,,,ruby,rspec-bdd-0.0.1,pf8p3dnKJGIaQ1fIWaSdgDF8FmLywSkMKsX98c34TOE=,,,,
-566956,"Bryan Rite, Ryan Bates",Continuation of the simple authorization solution for Rails which is decoupled from user roles. All permissions are stored in a single location.,1.9.0,93319,2014-07-20 00:00:00,2023-09-29 18:48:01.820921,Simple authorization solution for Rails.,ruby,2014-07-20 18:41:07.243441,t,f,34,f,cancancan-1.9.0,"---
+566956,"Bryan Rite, Ryan Bates",Continuation of the simple authorization solution for Rails which is decoupled from user roles. All permissions are stored in a single location.,1.9.0,93319,2014-07-20 00:00:00,2023-09-29 18:48:01.820921,Simple authorization solution for Rails.,ruby,2014-07-20 18:41:07.243441,t,f,35,f,cancancan-1.9.0,"---
 - MIT
 ",47616,"--- []
 ",>= 1.8.7,uM8Dqh5uV44lXTlV8TcubzAJ45xNrnYHsWI8hq6Wrt4=,"",>= 1.3.4,,,1.9,,,ruby,cancancan-1.9.0,uRycp2CjnYo7Ssh+2Q2NF0DeQwxb93yh7RvS//NYXTo=,,,,
@@ -74629,7 +74629,7 @@ The default template is +ruby-lang+.
 - MIT
 ",11264,"--- []
 ",>= 0,1E8WDMOxyTOwDK/bmYTluvwVjzGr4IsffRWcCkhrQSY=,"",>= 0,,,0.0.6,,,ruby,lyrics_finder-0.0.6,ih15nCYSBu6nTqsdLJIZnuHvjk4scZ0SenQ5yoJl3Kg=,,,,
-567182,Ilya Sadykov,Adaptor to use Allure framework along with the RSpec 2,0.3.4,89339,2014-07-21 00:00:00,2023-09-29 18:48:18.373728,allure-rspec-0.3.4,ruby,2014-07-21 14:55:59.779966,t,f,79,f,allure-rspec-0.3.4,"---
+567182,Ilya Sadykov,Adaptor to use Allure framework along with the RSpec 2,0.3.4,89339,2014-07-21 00:00:00,2023-09-29 18:48:18.373728,allure-rspec-0.3.4,ruby,2014-07-21 14:55:59.779966,t,f,82,f,allure-rspec-0.3.4,"---
 - Apache2
 ",15872,"--- []
 ",>= 0,lPOmrQjgmnRTT9ewmgM/7xXxqRW0eUl2lK50wlEraiA=,"",>= 0,,,0.3.4,,,ruby,allure-rspec-0.3.4,DE6lepBjTo7nGLHolV942Uz3P0kp1F2f5D0nyA5IsN8=,,,,
@@ -75165,7 +75165,7 @@ Fit files from other devices may or may not work.
 - Apache 2
 ",14336,"--- []
 ",>= 0,x7g/xIvtuzuo3BLas0O3JNWwk22AZe75jkMrp1SqHGo=,"",>= 0,,,0.0.1,,,ruby,ldpath-0.0.1,r+kuy3O6aQ85k9XLJirxWdYkaUpTpYgK12rVgO3FAmE=,,,,
-567303,"Bryan Rite, Ryan Bates",Continuation of the simple authorization solution for Rails which is decoupled from user roles. All permissions are stored in a single location.,1.9.1,93319,2014-07-21 00:00:00,2023-09-29 18:48:26.934143,Simple authorization solution for Rails.,ruby,2014-07-21 20:42:15.743616,t,f,33,f,cancancan-1.9.1,"---
+567303,"Bryan Rite, Ryan Bates",Continuation of the simple authorization solution for Rails which is decoupled from user roles. All permissions are stored in a single location.,1.9.1,93319,2014-07-21 00:00:00,2023-09-29 18:48:26.934143,Simple authorization solution for Rails.,ruby,2014-07-21 20:42:15.743616,t,f,34,f,cancancan-1.9.1,"---
 - MIT
 ",47616,"--- []
 ",>= 1.8.7,LHL/5oS6FeSXkuEPqiH/epvpX7prxdN1ZjVwXbKOpMg=,"",>= 1.3.4,,,1.9.1,,,ruby,cancancan-1.9.1,Rs3CSHqH3lp10ZO6Rj1WiwGRt0UMQcmtPRBlEOPCcfQ=,,,,
@@ -75385,7 +75385,7 @@ Fit files from other devices may or may not work.
 - MIT
 ",58880,"--- []
 ",>= 1.8.7,wMKZka+rS5Ky2wlHGdDvPfPq04ptNtMRRsLjk8se99c=,"",>= 0,,,3.0.3,,,ruby,rspec-expectations-3.0.3,zLt+5fgh0HGGltrFb37wQhJNWG0Yea23IFRhkR1N82s=,,,,
-567360,"Jonathan Rochkind, Matt Mitchell, Chris Beer, Jessie Keck, Jason Ronallo, Vernon Chapman, Mark A. Matienzo, Dan Funk, Naomi Dushay, Justin Coyne",Blacklight is an open source Solr user interface discovery platform. You can use Blacklight to enable searching and browsing of your collections. Blacklight uses the Apache Solr search engine to search full text and/or metadata.,5.5.2,40893,2014-07-21 00:00:00,2023-09-29 18:48:30.243805,Blacklight provides a discovery interface for any Solr (http://lucene.apache.org/solr) index.,ruby,2014-07-21 23:25:01.545253,t,f,214,f,blacklight-5.5.2,"---
+567360,"Jonathan Rochkind, Matt Mitchell, Chris Beer, Jessie Keck, Jason Ronallo, Vernon Chapman, Mark A. Matienzo, Dan Funk, Naomi Dushay, Justin Coyne",Blacklight is an open source Solr user interface discovery platform. You can use Blacklight to enable searching and browsing of your collections. Blacklight uses the Apache Solr search engine to search full text and/or metadata.,5.5.2,40893,2014-07-21 00:00:00,2023-09-29 18:48:30.243805,Blacklight provides a discovery interface for any Solr (http://lucene.apache.org/solr) index.,ruby,2014-07-21 23:25:01.545253,t,f,215,f,blacklight-5.5.2,"---
 - Apache 2.0
 ",195584,"--- []
 ",>= 0,6Daqv+SBfrpvv3kVf2U0GxcEcg6sogmsLoAR1Om+KQ8=,"",>= 0,,,5.5.2,,,ruby,blacklight-5.5.2,cwGPBd51A8uR6VQ5g9cYkunIYBIBzLcb8fjWgXLvNcM=,,,,
@@ -76115,7 +76115,7 @@ It can also can pre-fill missing keys, including from Google Translate, and it c
 - MIT
 ",7168,"--- []
 ",>= 0,27Wmfug9Gm2O2MDKk7yEPsCPe7kQxtI9crrId5+dWBs=,"",>= 0,,,0.0.8,,,ruby,crafty_clicks-0.0.8,PSisVupXIj9pY017P8XNDPnY32CFVe2J7oGKA/Gdrok=,b65e41426955ac78aa922b5c5bf48e35,,,
-567527,Killbill core team,Rails UI plugin for Killbill administration.,0.7.0,61304,2014-07-22 00:00:00,2023-09-29 18:48:42.282605,Killbill Admin UI plugin,ruby,2014-07-22 12:19:43.556298,t,f,70,f,kaui-0.7.0,"---
+567527,Killbill core team,Rails UI plugin for Killbill administration.,0.7.0,61304,2014-07-22 00:00:00,2023-09-29 18:48:42.282605,Killbill Admin UI plugin,ruby,2014-07-22 12:19:43.556298,t,f,71,f,kaui-0.7.0,"---
 - Apache License (2.0)
 ",155136,"--- []
 ",>= 1.8.7,Jm6poHOXeuWBu5qGGeKlMEncAcZUeEJew8W7C9bH5wE=,"",>= 0,,,0.7,,,ruby,kaui-0.7.0,y6zJA2lAOanQaA/q0VK8IUY1JOeMRzEMQDuZugGIYkE=,,,,
@@ -77357,7 +77357,7 @@ use the more idiomatic: &lt;tt&gt;view &lt;&lt; subview&lt;/tt&gt;.
 - MIT
 ",111104,"--- []
 ",>= 0,Zpicgroj5CczpgYXUuVLzKmrtCMr3UjxU03wLmCREgw=,"","",2015-04-28 22:45:12.694398,,0.0.1,,,ruby,hash-params-0.0.1,,,,,
-567842,Kouhei Sutou,"",1.0.8,69063,2014-07-23 00:00:00,2023-09-29 18:49:02.850852,Groonga-query-log is a collection of library and tools to process [Groonga](http://groonga.org/)'s query log. You can write a program to process query log by using groonga-query-log as a library. You can analyze your Groonga's queries and test with your Groonga's query log by using groonga-query-log as a tool.,ruby,2014-07-23 04:42:33.459636,t,f,71,f,groonga-query-log-1.0.8,"---
+567842,Kouhei Sutou,"",1.0.8,69063,2014-07-23 00:00:00,2023-09-29 18:49:02.850852,Groonga-query-log is a collection of library and tools to process [Groonga](http://groonga.org/)'s query log. You can write a program to process query log by using groonga-query-log as a library. You can analyze your Groonga's queries and test with your Groonga's query log by using groonga-query-log as a tool.,ruby,2014-07-23 04:42:33.459636,t,f,72,f,groonga-query-log-1.0.8,"---
 - LGPLv2.1+
 ",44544,"--- []
 ",>= 0,CnUMC5+wYxVSjjiDpZkkVlBx4jAzy3ofAifVMURhVQM=,"",>= 0,,,1.0.8,,,ruby,groonga-query-log-1.0.8,p7UGyK04ylSjEkssmg+t+2gg7FMBrHJeWYeJQcDZCiA=,,,,
@@ -78963,7 +78963,7 @@ A chat bot utilizing Markov chains. It speaks Russian and English.
 - MIT
 ",10752,"--- []
 ",>= 0,rylrm/hsws+9Uk1fUBl3laoErA0Q+BS5YGsre1/asR0=,"",>= 0,,,0.2.2,,,ruby,activerecord-pg_array-0.2.2,cKBDLlRjz9QgmI8fJYdmIcFl6psLuvOS+NjqOA00GS0=,4096e4dc05c430021f066fc3927087bc,,,
-568225,"André Arko, Terence Lee, Carl Lerche, Yehuda Katz","Bundler manages an application's dependencies through its entire life, across many machines, systematically and repeatably",1.6.5,19969,2014-07-24 00:00:00,2023-09-29 18:49:29.925579,The best way to manage your application's dependencies,ruby,2014-07-24 01:16:07.59176,t,f,287,f,bundler-1.6.5,"---
+568225,"André Arko, Terence Lee, Carl Lerche, Yehuda Katz","Bundler manages an application's dependencies through its entire life, across many machines, systematically and repeatably",1.6.5,19969,2014-07-24 00:00:00,2023-09-29 18:49:29.925579,The best way to manage your application's dependencies,ruby,2014-07-24 01:16:07.59176,t,f,288,f,bundler-1.6.5,"---
 - MIT
 ",294400,"--- []
 ",>= 1.8.7,FLQvor61Td+gDZ/k1+ufzh0/C87TTEmEF7onv4oDneg=,"",>= 1.3.6,,,1.6.5,,,ruby,bundler-1.6.5,xivjIf6sQ/gXCJDcWKFqx2mwnUfk1F3hbPtlC5Qs7cE=,,,,
@@ -78993,7 +78993,7 @@ A chat bot utilizing Markov chains. It speaks Russian and English.
 568232,Ryan Ahearn,"Implements the iCalendar specification (RFC-5545) in Ruby.  This allows
 for the generation and parsing of .ics files, which are used by a
 variety of calendaring applications.
-",2.1.1,17552,2014-07-24 00:00:00,2023-09-29 18:49:30.312119,A ruby implementation of the iCalendar specification (RFC-5545).,ruby,2014-07-24 02:13:03.784055,t,f,30,f,icalendar-2.1.1,"--- []
+",2.1.1,17552,2014-07-24 00:00:00,2023-09-29 18:49:30.312119,A ruby implementation of the iCalendar specification (RFC-5545).,ruby,2014-07-24 02:13:03.784055,t,f,31,f,icalendar-2.1.1,"--- []
 ",29696,"--- []
 ",>= 1.9.2,/bM/F2LWqas976LhYqmQl8sAI4hy4UHiUJiwWg3E1bM=,"",>= 0,,,2.1.1,,,ruby,icalendar-2.1.1,t9uOPyFhPw8CvCCaTQudL0cn8v5j2Lfeo/ImtFrgtMc=,,,,
 568233,Shota Fukumori (sora_h),Deploy tool using tarballs and serf for lot of servers,0.0.1.alpha12,99272,2014-07-24 00:00:00,2023-09-29 18:49:30.397591,Fast deploy tool using tarballs and serf,ruby,2014-07-24 02:13:54.205233,t,t,28,f,mamiya-0.0.1.alpha12,"---
@@ -79426,7 +79426,7 @@ variety of calendaring applications.
 It defines Task model for keeping the information about the tasks and Lock for assigning the tasks
 to resources. The locking allows dealing with preventing multiple colliding tasks to be run on the
 same resource. It also optionally provides Dynflow infrastructure for using it for managing the tasks.
-",0.6.6,91717,2014-07-24 00:00:00,2023-09-29 18:49:37.51967,Foreman plugin for showing tasks information for resoruces and users,ruby,2014-07-24 10:49:31.572617,t,f,192,f,foreman-tasks-0.6.6,"--- []
+",0.6.6,91717,2014-07-24 00:00:00,2023-09-29 18:49:37.51967,Foreman plugin for showing tasks information for resoruces and users,ruby,2014-07-24 10:49:31.572617,t,f,193,f,foreman-tasks-0.6.6,"--- []
 ",41984,"--- []
 ",>= 0,Ln90o2c2sUN6RC/9WlmscORGPGndiSB5rXtni8G+JQs=,"",>= 0,,,0.6.6,,,ruby,foreman-tasks-0.6.6,ZykYafPLAOAlR+DjIYB3/V/qhB7Ew6Zr+Rgux+3VoTU=,,,,
 568344,"Pavel Pokorny, Ivan Necas",Rails REST API documentation tool,0.2.2,61898,2014-07-24 00:00:00,2023-09-29 18:49:37.587148,Rails REST API documentation tool,ruby,2014-07-24 10:55:33.539468,t,f,58,f,apipie-rails-0.2.2,"--- []
@@ -79635,7 +79635,7 @@ same resource. It also optionally provides Dynflow infrastructure for using it f
 - MIT
 ",12800,"--- []
 ",>= 0,IhGSQV72jUT6NVisUvrBeb3q8LVH57rQqqA7fyxouHM=,"",>= 0,,,0.6.1,,,ruby,worker-army-0.6.1,T95RzXTiV4XxzF9QdAcCT+NIToj3yuA/2YI94JJuWRw=,,,,
-568396,"Robert Beekman, Steven Weller, Thijs Cadier, Ron Cadier, Jacob Vosmaer",The official appsignal.com gem,0.9.3,65664,2014-07-24 00:00:00,2023-09-29 18:49:40.646654,Logs performance and exception data from your app to appsignal.com,ruby,2014-07-24 13:29:10.225774,t,f,568,f,appsignal-0.9.3,"---
+568396,"Robert Beekman, Steven Weller, Thijs Cadier, Ron Cadier, Jacob Vosmaer",The official appsignal.com gem,0.9.3,65664,2014-07-24 00:00:00,2023-09-29 18:49:40.646654,Logs performance and exception data from your app to appsignal.com,ruby,2014-07-24 13:29:10.225774,t,f,571,f,appsignal-0.9.3,"---
 - MIT
 ",183296,"--- []
 ",>= 1.9.3,IVRRYSg1zt7NAyLGqPeZORrzf09NK+BJl0vNvqdZde4=,"",>= 0,,,0.9.3,,,ruby,appsignal-0.9.3,+vS19cFp+BxYLsnTDYJ4IAX34F4NpyQ92nUrADjLSao=,,,,
@@ -79901,7 +79901,7 @@ automating Job &amp; Pipeline creation from the YAML files checked-in with your 
 - MIT
 ",6656,"--- []
 ",>= 0,R72KJ9zeug1z1v3U5ohvtTedePl+JdaQsp5KOkJNBe4=,"",>= 0,,,0.0.1,,,ruby,whistleblower-0.0.1,k9fwDeY7GK2BMzWzaMvRcg1ImevcH9rDMMB3Z9IwOQw=,0a88fd6e1714a47aeb979f2781d64b8b,,,
-568462,Ilya Sadykov,Adaptor to use Allure framework along with the RSpec 2,0.4.0,89339,2014-07-24 00:00:00,2023-09-29 18:49:45.631803,allure-rspec-0.4.0,ruby,2014-07-24 15:41:17.928614,t,f,78,f,allure-rspec-0.4.0,"---
+568462,Ilya Sadykov,Adaptor to use Allure framework along with the RSpec 2,0.4.0,89339,2014-07-24 00:00:00,2023-09-29 18:49:45.631803,allure-rspec-0.4.0,ruby,2014-07-24 15:41:17.928614,t,f,81,f,allure-rspec-0.4.0,"---
 - Apache2
 ",16384,"--- []
 ",>= 0,CP9gcVHykn+KaMBK+0k+wZW6NvQLS1Xi5m9zwhDCNmo=,"",>= 0,,,0.4,,,ruby,allure-rspec-0.4.0,3k4tGk92OKSZgKzkZvzcUNwS0T3pR/Z3ynFlsU7mVk4=,,,,
@@ -79918,7 +79918,7 @@ automating Job &amp; Pipeline creation from the YAML files checked-in with your 
 - MIT
 ",11776,"--- []
 ",>= 0,RsT9gpqriUId5WaDhmeQA26INsXJ4fddBwhYwhUh0hQ=,"",>= 0,,,0.0.5,,,ruby,aform-0.0.5,P6CY9x886umG0Zev0y+OAyTFegbrCKlPIbxmFJDqWlY=,,,,
-568466,Ilya Sadykov,Adaptor to use Allure framework along with the RSpec 2,0.4.1,89339,2014-07-24 00:00:00,2023-09-29 18:49:45.861114,allure-rspec-0.4.1,ruby,2014-07-24 15:57:27.223991,t,f,77,f,allure-rspec-0.4.1,"---
+568466,Ilya Sadykov,Adaptor to use Allure framework along with the RSpec 2,0.4.1,89339,2014-07-24 00:00:00,2023-09-29 18:49:45.861114,allure-rspec-0.4.1,ruby,2014-07-24 15:57:27.223991,t,f,80,f,allure-rspec-0.4.1,"---
 - Apache2
 ",16384,"--- []
 ",>= 0,zkCXKD7rnr1tjqUV0oLTD0UfLug1VqlB4J8A/CDWi+E=,"",>= 0,,,0.4.1,,,ruby,allure-rspec-0.4.1,H0uespJ2iDMQ3SQ7xGtGPs6l3eF6rHCCG/ZHEpMa5kg=,,,,
@@ -82287,7 +82287,7 @@ that the router then routes to the originator.
 - MIT
 ",6656,"--- []
 ",>= 0,xVXImqNaywl3JPJKBOJoYIwdj4MV3aJPcKJls41iH5U=,"",>= 0,,,0.0.1,,,ruby,markesparke-0.0.1,4ZQzNi4cjjzP6+t16cbGpZkSweWjvaaRJ3ghZV/pzJo=,e79b64a8076fa68827f78fe69492af91,,,
-568989,Imran Khan,Adaptor to use Allure framework with cucumber,0.1.0,102375,2014-07-25 00:00:00,2023-09-29 18:50:24.376029,allure-cucumber-0.1.0,ruby,2014-07-25 20:53:16.09984,t,f,74,f,allure-cucumber-0.1.0,"---
+568989,Imran Khan,Adaptor to use Allure framework with cucumber,0.1.0,102375,2014-07-25 00:00:00,2023-09-29 18:50:24.376029,allure-cucumber-0.1.0,ruby,2014-07-25 20:53:16.09984,t,f,77,f,allure-cucumber-0.1.0,"---
 - MIT
 ",9216,"--- []
 ",>= 0,IU4u5eslcjaPtdVec1xXZ3kFNpjhT0VZCf/ttDCrF+g=,"",>= 0,,,0.1,,,ruby,allure-cucumber-0.1.0,6FPFPEGysdIZf047LPUQYqjNwvlYELenN13DnI7T9Lo=,,,,
@@ -82558,7 +82558,7 @@ jasmine, evergreen, and many other frameworks.
 - MIT
 ",45568,"--- []
 ",>= 0,T+zAn6iE3IL7inNygSDxOcW/nmAkzkaqxyhVc7lgyVg=,"",>= 0,2018-02-06 00:43:05.210286,,1.21.1,,,ruby,tddium-1.21.1,,,,,
-569051,Ilya Sadykov,Adaptor to use Allure framework along with the RSpec 2,0.4.2,89339,2014-07-25 00:00:00,2023-09-29 18:50:28.85627,allure-rspec-0.4.2,ruby,2014-07-26 00:03:21.531109,t,f,76,f,allure-rspec-0.4.2,"---
+569051,Ilya Sadykov,Adaptor to use Allure framework along with the RSpec 2,0.4.2,89339,2014-07-25 00:00:00,2023-09-29 18:50:28.85627,allure-rspec-0.4.2,ruby,2014-07-26 00:03:21.531109,t,f,79,f,allure-rspec-0.4.2,"---
 - Apache2
 ",16896,"--- []
 ",>= 0,B5TZacAP0LZ0IkX88HJ+0hW6bfUwiqtuNCtheU7wnTM=,"",>= 0,,,0.4.2,,,ruby,allure-rspec-0.4.2,LoJyetTPiyv/IvKS1uPKlL6o3Vyu4KIPbGrvplny7To=,,,,
@@ -82566,7 +82566,7 @@ jasmine, evergreen, and many other frameworks.
 - MIT
 ",251392,"--- []
 ",>= 0,jeDxtNCM7x+fzTjbfYXXK6yQhpuRWU1mkhWmqn7UgW4=,"",>= 0,,,0.0.3,,,ruby,playa-0.0.3,j6lsOrcA3dHQfiYKYhchzQmrLogFJMPVxNy9m5CTpdw=,,,,
-569053,Andrew Benton,"A simple library for communicating with the Twilio REST API, building TwiML, and generating Twilio Client Capability Tokens",3.11.6,37688,2014-07-26 00:00:00,2023-09-29 18:50:29.175861,"A simple library for communicating with the Twilio REST API, building TwiML, and generating Twilio Client Capability Tokens",ruby,2014-07-26 00:26:28.42824,t,f,325,f,twilio-ruby-3.11.6,"---
+569053,Andrew Benton,"A simple library for communicating with the Twilio REST API, building TwiML, and generating Twilio Client Capability Tokens",3.11.6,37688,2014-07-26 00:00:00,2023-09-29 18:50:29.175861,"A simple library for communicating with the Twilio REST API, building TwiML, and generating Twilio Client Capability Tokens",ruby,2014-07-26 00:26:28.42824,t,f,326,f,twilio-ruby-3.11.6,"---
 - MIT
 ",164352,"--- []
 ",>= 1.8.7,VYHeaTKi05FFpZlSHBv+7fxiq0s4oyrlu730mJVlOec=,"",>= 0,,,3.11.6,,,ruby,twilio-ruby-3.11.6,HrI8QsvUlO+drjheLtgn/P8SRwFGba6bTqGFXkSukBk=,,,,
@@ -82895,7 +82895,7 @@ jasmine, evergreen, and many other frameworks.
 - MIT
 ",18944,"--- []
 ",>= 0,YzQpYFhbVXrAuPQz3sFXNnBciUPuBrGHglsaFf1iGF8=,"",> 1.3.1,,,3.rc.14,,,ruby,octopress-3.0.0.rc.14,5e7OjC/u3Tdf4v4uXXg6tzPtHqPWsww9zXY1eOrlL+A=,,,,
-569133,Daniel E. Doherty,Write a longer description. Optional.,0.0.1,102404,2014-07-26 00:00:00,2023-09-29 18:50:34.806874,fat_core provides some useful core extensions,ruby,2014-07-26 13:29:02.962628,t,f,103,f,fat_core-0.0.1,"---
+569133,Daniel E. Doherty,Write a longer description. Optional.,0.0.1,102404,2014-07-26 00:00:00,2023-09-29 18:50:34.806874,fat_core provides some useful core extensions,ruby,2014-07-26 13:29:02.962628,t,f,104,f,fat_core-0.0.1,"---
 - MIT
 ",26624,"--- []
 ",>= 0,iHUlPErudDuyhw6EI1s4Rjcgew1zCkTEZqidbTvTHLE=,"",>= 0,,,0.0.1,,,ruby,fat_core-0.0.1,7hvj+r9X1clXEmNB1O7qbCsl4KPAY/jDaQxXDiLNKK0=,,,,
@@ -83961,7 +83961,7 @@ When you run `rspec -f d advanced_subject_spec.rb` it will output:
 569367,MacKinley Smith,Polymorphic content blocks made simple.,0.8.0,89183,2014-07-27 00:00:00,2023-09-29 18:50:51.43761,Polymorphic content blocks made simple.,ruby,2014-07-27 23:13:07.891669,t,f,34,f,polyblock-0.8.0,"--- []
 ",39100416,"--- []
 ",>= 0,V3s7PtQQf9fb5030WtSnQPcMBTXowFHUUkwItaTG/yY=,"",>= 0,,,0.8,,,ruby,polyblock-0.8.0,TuOOqVRfK6XQszS5UkkSNQMAPbwKVnqTDXD+WVV6sGo=,,,,
-569368,"Tim Hunter, Omer Bar-or, Benjamin Thomas, Moncef Maiza",RMagick is an interface between Ruby and ImageMagick.,2.13.3.rc1,14986,2014-07-27 00:00:00,2023-09-29 18:50:51.505141,Ruby binding to ImageMagick,ruby,2014-07-27 23:21:57.356843,t,t,59,f,rmagick-2.13.3.rc1,"---
+569368,"Tim Hunter, Omer Bar-or, Benjamin Thomas, Moncef Maiza",RMagick is an interface between Ruby and ImageMagick.,2.13.3.rc1,14986,2014-07-27 00:00:00,2023-09-29 18:50:51.505141,Ruby binding to ImageMagick,ruby,2014-07-27 23:21:57.356843,t,t,61,f,rmagick-2.13.3.rc1,"---
 - MIT
 ",1542656,"---
 - ImageMagick 6.4.9 or later
@@ -84518,7 +84518,7 @@ See the documentation at [github](https://github.com/phluid61/mug).
 569492,Jani Patokallio,"",0.6.1,33330,2014-07-28 00:00:00,2023-09-29 18:50:59.744976,Connect to the mediawiki API,ruby,2014-07-28 11:06:28.813906,t,f,6,f,mediawiki-gateway-0.6.1,"--- []
 ",32256,"--- []
 ",>= 0,zqxYJt5e/YHAYd9VMIAyHsD4JAy3ArQd5Z9yOEtm6CM=,"",>= 0,,,0.6.1,,,ruby,mediawiki-gateway-0.6.1,/iQ7pGDxM1xBeGdFyDdsI3t4nYywh0M5eXPMJCNgLZM=,,,,
-569493,Aslak Hellesøy,Behaviour Driven Development with elegance and joy,1.3.16,15658,2014-07-28 00:00:00,2023-09-29 18:50:59.840677,cucumber-1.3.16,ruby,2014-07-28 11:06:50.034605,t,f,71,f,cucumber-1.3.16,"--- []
+569493,Aslak Hellesøy,Behaviour Driven Development with elegance and joy,1.3.16,15658,2014-07-28 00:00:00,2023-09-29 18:50:59.840677,cucumber-1.3.16,ruby,2014-07-28 11:06:50.034605,t,f,72,f,cucumber-1.3.16,"--- []
 ",274432,"--- []
 ",>= 0,whgQf5YB+HVoS6zriNpdZg8tBMLGxmJvWYHkAZrgkoU=,"",>= 0,,,1.3.16,,,ruby,cucumber-1.3.16,kHe7y++2cLzIyBiwE7x1fMyaGMiYiAhT7Ps8hnFKm6A=,,,,
 569494,Angel García Pérez,"A gateway to send SMS using HTTP POST, through IT Cloud Services Colombia, written in ruby",0.2.0,102265,2014-07-24 00:00:00,2023-09-29 18:50:59.877392,IT Cloud Services Colombia send SMS HTTP gateway,ruby,2014-07-28 11:12:25.344003,t,f,4,f,it_cloud_sms-0.2.0,"--- []
@@ -85305,7 +85305,7 @@ commands - we will then invoke run_program() with its name.
 - Apachev2
 ",18432,"--- []
 ",>= 0,pwX9bjr2ptx5BwhT7zfQ9Yhvqb8vvuhSMU+XhhxAowI=,"",>= 0,,,0.9.15,,,ruby,cicd-builder-0.9.15,qKEOVf/TzFxgnI6fwPizse2LEuJ8zBPw+6wUhwLOow4=,,,,
-569673,"Ben McRedmond, Ciaran Lee, Darragh Curran, Jeff Gardner, Kyle Daigle, Declan McGrath, Jamie Osler, Bob Long",Intercom (https://www.intercom.io) is a customer relationship management and messaging tool for web app owners. This library wraps the api provided by Intercom. See http://docs.intercom.io/api for more details. ,2.1.3,53941,2014-07-28 00:00:00,2023-09-29 18:51:11.47661,Ruby bindings for the Intercom API,ruby,2014-07-28 19:53:00.253549,t,f,79,f,intercom-2.1.3,"---
+569673,"Ben McRedmond, Ciaran Lee, Darragh Curran, Jeff Gardner, Kyle Daigle, Declan McGrath, Jamie Osler, Bob Long",Intercom (https://www.intercom.io) is a customer relationship management and messaging tool for web app owners. This library wraps the api provided by Intercom. See http://docs.intercom.io/api for more details. ,2.1.3,53941,2014-07-28 00:00:00,2023-09-29 18:51:11.47661,Ruby bindings for the Intercom API,ruby,2014-07-28 19:53:00.253549,t,f,80,f,intercom-2.1.3,"---
 - MIT
 ",159232,"--- []
 ",~> 2.0,Pp4hskqup0glnhF4/VASDZaDoi7PkoHvzBwtbZbCuJU=,"",>= 0,,,2.1.3,,,ruby,intercom-2.1.3,8ySssIXxtqRNvnIN0cDN/yvc7R+WIS1w6IDTdh4UCI8=,,,,
@@ -87119,7 +87119,7 @@ initial view of the page cuts off (the ""fold""), and is easily configurable.
 - MIT
 ",5120,"--- []
 ",>= 0,HzkBmrDTsB+as4u1N1K/jGoQAdnJummrLOfCweUEmjk=,"",>= 0,,,0.0.2,,,ruby,opendatakit-0.0.2,o9UeOiDhOooQbp935EsyFu89jUo0q1llKTLoIiTWZlw=,,,,
-570100,"Mike Karlesky, Mark VanderVoord, Greg Williams, Matt Fletcher",Ceedling provides a set of tools to deploy its guts in a folder or which can be required in a Rakefile,0.15.2,39650,2014-07-29 00:00:00,2023-09-29 18:51:43.541816,Ceedling is a set of tools for the automation of builds and test running for C,ruby,2014-07-29 20:16:53.165981,t,f,35,f,ceedling-0.15.2,"---
+570100,"Mike Karlesky, Mark VanderVoord, Greg Williams, Matt Fletcher",Ceedling provides a set of tools to deploy its guts in a folder or which can be required in a Rakefile,0.15.2,39650,2014-07-29 00:00:00,2023-09-29 18:51:43.541816,Ceedling is a set of tools for the automation of builds and test running for C,ruby,2014-07-29 20:16:53.165981,t,f,36,f,ceedling-0.15.2,"---
 - MIT
 ",1805312,"--- []
 ",>= 0,8/CcWws/bfhYy9hnVkl0AkMfP9Xp7wqaGxn+k0CdX3E=,"",>= 0,,,0.15.2,,,ruby,ceedling-0.15.2,wCmVMJVXkhdBogA+ASPiCUwn0JQ9rQN0Pb0jpTlAKWM=,,,,
@@ -87485,7 +87485,7 @@ It can also can pre-fill missing keys, including from Google Translate, and it c
 570190,David Copeland,"Build command-suite CLI apps that are awesome.  Bootstrap your app, add commands, options and documentation while maintaining a well-tested idiomatic command-line app",2.12.0,17640,2014-07-29 00:00:00,2023-09-29 18:51:50.189267,Build command-suite CLI apps that are awesome.,ruby,2014-07-29 23:52:11.120804,t,f,32,f,gli-2.12.0,"--- []
 ",75776,"--- []
 ",>= 0,mPFWmR0O0i+zqg/EbQjIri5AKHAZpubKEx+ShF8wnrE=,"",>= 0,,,2.12,,,ruby,gli-2.12.0,QLGGK92qZfeQwnf1vtsrR+qEzQoMYm3+t8I/6Ou9jLI=,,,,
-570191,Mark Larsen,"",1.2.0,100326,2014-07-29 00:00:00,2023-09-29 18:51:50.267473,Test coverage reports for Xcode projects,ruby,2014-07-29 23:52:19.771201,t,f,48,f,slather-1.2.0,"---
+570191,Mark Larsen,"",1.2.0,100326,2014-07-29 00:00:00,2023-09-29 18:51:50.267473,Test coverage reports for Xcode projects,ruby,2014-07-29 23:52:19.771201,t,f,49,f,slather-1.2.0,"---
 - MIT
 ",78848,"--- []
 ",>= 0,mveZpYz9bSli9UihglnhvNAekdeZjcL26WdVFXsy3IM=,"",>= 0,,,1.2,,,ruby,slather-1.2.0,hTL/TOv2qAhtb4sR/3ZthpnSZNfSpZI++Glg4r0VfRs=,,,,
@@ -87665,7 +87665,7 @@ Changes from Suspenders:
 - MIT
 ",97792,"--- []
 ",>= 0,c/Qj6d/O2DwxArgGEyOPIopDGszBe3mzW1qlW8LPOH8=,"","",2015-04-28 22:45:44.478434,,0.8.2,,,ruby,maestrano-ruby-test-0.8.2,,,7dd278bd5b7fd57eca432f71e7e5495f,,
-570233,"Ross Boucher, Greg Brockman",Stripe is the easiest way to accept payments online.  See https://stripe.com for details.,1.15.0,43921,2014-07-30 00:00:00,2023-09-29 18:51:52.342244,Ruby bindings for the Stripe API,ruby,2014-07-30 03:38:39.153357,t,f,508,f,stripe-1.15.0,"---
+570233,"Ross Boucher, Greg Brockman",Stripe is the easiest way to accept payments online.  See https://stripe.com for details.,1.15.0,43921,2014-07-30 00:00:00,2023-09-29 18:51:52.342244,Ruby bindings for the Stripe API,ruby,2014-07-30 03:38:39.153357,t,f,509,f,stripe-1.15.0,"---
 - MIT
 ",173056,"--- []
 ",>= 0,yPfEKmYk6ICv2V6XKeZq/rkJ8skDjf+pJOd7pdUbipw=,"",>= 0,,,1.15,,,ruby,stripe-1.15.0,X34kzhkU4EYUWyR9tFdjIihW5p+AL7eTBIzixcYBDyM=,,,,
@@ -87752,7 +87752,7 @@ Changes from Suspenders:
 - MIT
 ",988160,"--- []
 ",>= 2.1.0,tjqWpchPSdm24Axn8rOL4OQjd8TH524IG87j5QSwmdE=,"","",2015-04-28 22:45:44.836857,,0.11.6,,,ruby,middleman-presentation-0.11.6,,,,,
-570256,Sam Pohlenz,Seamlessly integrates TinyMCE into the Rails asset pipeline introduced in Rails 3.1.,4.1.3,44733,2014-07-30 00:00:00,2023-09-29 18:51:53.776252,Rails asset pipeline integration for TinyMCE.,ruby,2014-07-30 05:19:40.186223,t,f,191,f,tinymce-rails-4.1.3,"---
+570256,Sam Pohlenz,Seamlessly integrates TinyMCE into the Rails asset pipeline introduced in Rails 3.1.,4.1.3,44733,2014-07-30 00:00:00,2023-09-29 18:51:53.776252,Rails asset pipeline integration for TinyMCE.,ruby,2014-07-30 05:19:40.186223,t,f,192,f,tinymce-rails-4.1.3,"---
 - MIT
 ",840704,"--- []
 ",>= 0,5HAcB3K61ZKoOpAac1GJe+L1644eh9lsPDaP8SC+PV8=,"",>= 0,,,4.1.3,,,ruby,tinymce-rails-4.1.3,ZV3S40kaWQTdlM6UxhRLAeWLor3fLPeyPIwmUb0/S9Q=,,,,
@@ -87866,7 +87866,7 @@ Changes from Suspenders:
 - MIT
 ",988160,"--- []
 ",>= 2.1.0,KW06W6bKVS5rGIkC0FNlFpagpybvfuSJ4UH/ilKu9bQ=,"","",2015-04-28 22:45:45.969327,,0.11.8,,,ruby,middleman-presentation-0.11.8,,,,,
-570284,SonicGarden,"",0.1.1.beta8,70702,2014-07-30 00:00:00,2023-09-29 18:51:55.951752,Client for the CopyTuner copy management service,ruby,2014-07-30 07:01:22.017021,t,t,94,f,copy_tuner_client-0.1.1.beta8,"--- []
+570284,SonicGarden,"",0.1.1.beta8,70702,2014-07-30 00:00:00,2023-09-29 18:51:55.951752,Client for the CopyTuner copy management service,ruby,2014-07-30 07:01:22.017021,t,t,95,f,copy_tuner_client-0.1.1.beta8,"--- []
 ",38400,"--- []
 ",>= 0,xi8OaB+5DhVfd/USXqzRn8oU7275P1q0aDr1a6SQpB8=,"",> 1.3.1,,,0.1.1.beta.8,,,ruby,copy_tuner_client-0.1.1.beta8,mcfbMWLLz821SJpZhomsh92vqu78hcvDwO6YdzJoIlA=,,,,
 570285,"Neil E. Pearson, Gerard (Gerry) Caulfield","This is a Ruby version of Netfira's WebConnect server-side library
@@ -88523,7 +88523,7 @@ It can also can pre-fill missing keys, including from Google Translate, and it c
 - MIT
 ",178688,"--- []
 ",>= 1.9.3,Yr8AG8dTfPbn/t0DdcAkBf0f6xscaGF+KkMiHLJGEDg=,"",> 1.3.1,,,0.7.rc.2,,,ruby,concurrent-ruby-0.7.0.rc2,vwQ0Ma349mGOsXzuJ7mtl3Q3LMY9ElbXjeP4CDxM8cs=,,,,
-570447,"Mike Karlesky, Mark VanderVoord, Greg Williams, Matt Fletcher",Ceedling provides a set of tools to deploy its guts in a folder or which can be required in a Rakefile,0.15.3,39650,2014-07-30 00:00:00,2023-09-29 18:52:07.080151,Ceedling is a set of tools for the automation of builds and test running for C,ruby,2014-07-30 15:52:34.321551,t,f,34,f,ceedling-0.15.3,"---
+570447,"Mike Karlesky, Mark VanderVoord, Greg Williams, Matt Fletcher",Ceedling provides a set of tools to deploy its guts in a folder or which can be required in a Rakefile,0.15.3,39650,2014-07-30 00:00:00,2023-09-29 18:52:07.080151,Ceedling is a set of tools for the automation of builds and test running for C,ruby,2014-07-30 15:52:34.321551,t,f,35,f,ceedling-0.15.3,"---
 - MIT
 ",1816576,"--- []
 ",>= 0,e6Zo6PIDPZXx6ARdqylsCFsDldIGdycHx9K97R6LhxM=,"",>= 0,,,0.15.3,,,ruby,ceedling-0.15.3,XW1ly9J1vMljrAD2lO/eUnUiDjsroxYIl1XwlXV4r6Y=,,,,
@@ -88701,7 +88701,7 @@ themes, grammars, snippets, key bindings, etc.
 - MIT
 ",12800,"--- []
 ",>= 0,IGPN5b0FMYUOqtlZJ7/K7svg/Yna0IdU7Ak3jkkhwSg=,"",>= 0,,,0.1,,,ruby,cine_io-0.1.0,A/XVn7Hn8Lrr7639gSy+17Nl+2E7vQO4aogzl+QMWPI=,,,,
-570493,Jeremy Evans,"Routing tree web framework, inspired by Sinatra and Cuba",0.9.0,102604,2014-07-30 00:00:00,2023-09-29 18:52:10.08265,Routing tree web framework,ruby,2014-07-30 17:49:06.439658,t,f,146,f,roda-0.9.0,"---
+570493,Jeremy Evans,"Routing tree web framework, inspired by Sinatra and Cuba",0.9.0,102604,2014-07-30 00:00:00,2023-09-29 18:52:10.08265,Routing tree web framework,ruby,2014-07-30 17:49:06.439658,t,f,147,f,roda-0.9.0,"---
 - MIT
 ",37888,"--- []
 ",>= 0,phVv/HxMnUb7rhqm4pqnBzRXXcr4fz2lvREE0uynB6A=,"",>= 0,,,0.9,,,ruby,roda-0.9.0,4L763gJzm1cxYwQvhTA3ZKMwPYyg7XrvHvr4cjh/blo=,,,,
@@ -88910,7 +88910,7 @@ supports Sinatra and Rails.  It offers the following features:
 570542,Matt Palmer,"",0.1.1,101523,2014-07-31 00:00:00,2023-09-29 18:52:13.636369,An RFC6962-compliant implementation of Merkle Hash Trees,ruby,2014-07-30 19:58:33.846913,t,f,0,t,merkle-hash-tree-0.1.1,"--- []
 ",13824,"--- []
 ",>= 0,ZJM5V0DrUSKyT0LGKk3zCgKATv2dEmG9qEPU59p9MTc=,"",>= 0,,,0.1.1,,,ruby,merkle-hash-tree-0.1.1,OmH1Ciha/u3XCFnvKQ9rUl3O8oyW++5JGWJozFpQvAA=,633d11b9dc57777e3a2d5ac188d54a37,,,
-570543,"Mike Karlesky, Mark VanderVoord, Greg Williams, Matt Fletcher",Ceedling provides a set of tools to deploy its guts in a folder or which can be required in a Rakefile,0.15.4,39650,2014-07-30 00:00:00,2023-09-29 18:52:13.694684,Ceedling is a set of tools for the automation of builds and test running for C,ruby,2014-07-30 19:59:54.687479,t,f,33,f,ceedling-0.15.4,"---
+570543,"Mike Karlesky, Mark VanderVoord, Greg Williams, Matt Fletcher",Ceedling provides a set of tools to deploy its guts in a folder or which can be required in a Rakefile,0.15.4,39650,2014-07-30 00:00:00,2023-09-29 18:52:13.694684,Ceedling is a set of tools for the automation of builds and test running for C,ruby,2014-07-30 19:59:54.687479,t,f,34,f,ceedling-0.15.4,"---
 - MIT
 ",1812480,"--- []
 ",>= 0,QWOs+d24CPK2GQSmSTUiOUUUtqyWWGS7zrFIo2XSDbE=,"",>= 0,,,0.15.4,,,ruby,ceedling-0.15.4,p/IagO+40yRwuS+G9fH2OOiJqWwbUAwz0Rpmoz20oRs=,,,,
@@ -89143,7 +89143,7 @@ supports Sinatra and Rails.  It offers the following features:
 ",9728,"--- []
 ",>= 0,usyqcLFRRHRt0vvmJRUnetR+rmwxmBGvdyxQPLeaqIA=,"",>= 0,,,1,,,ruby,grape-entity-matchers-1.0.0,yuTabxxpccaVHRintAxu0XecbwpzTYinaAUKCIepfaM=,,,,
 570599,"Alpana Pande, Bess Sadler, Chris Fitzpatrick, Douglas Kim, Richard Anderson, Willy Mene, Michael Klein","Contains classes to make http connections with a client-cert, use Jhove, and call Suri
-Also contains core classes to build robots",3.2.3,100718,2014-07-30 00:00:00,2023-09-28 04:23:20.925186,Core services used by the SULAIR Digital Library,ruby,2014-07-30 23:27:11.103479,f,f,41,f,lyber-core-3.2.3,"--- []
+Also contains core classes to build robots",3.2.3,100718,2014-07-30 00:00:00,2023-09-28 04:23:20.925186,Core services used by the SULAIR Digital Library,ruby,2014-07-30 23:27:11.103479,f,f,42,f,lyber-core-3.2.3,"--- []
 ",10240,"--- []
 ",>= 0,x+sXCzqf4nNGU0rlQm1a91xdlqXuxiJjq6badAJ+4Ho=,"","",2015-04-28 22:45:48.90138,,3.2.3,,,ruby,lyber-core-3.2.3,,,,,
 570600,Adam Jacob,"A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.",12.0.0.alpha.0,20556,2014-07-30 00:00:00,2023-09-29 18:52:17.441925,"A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.",ruby,2014-07-30 23:29:06.575857,t,t,214,f,chef-12.0.0.alpha.0,"--- []
@@ -90305,7 +90305,7 @@ information about the performance of your web application as it runs
 in production. The New Relic Ruby Agent is dual-purposed as a either a
 Gem or plugin, hosted on
 http://github.com/newrelic/rpm/
-",3.9.1.236,17520,2014-07-28 00:00:00,2023-09-29 18:52:37.151128,New Relic Ruby Agent,ruby,2014-07-31 16:40:08.688891,t,f,136,f,newrelic_rpm-3.9.1.236,"---
+",3.9.1.236,17520,2014-07-28 00:00:00,2023-09-29 18:52:37.151128,New Relic Ruby Agent,ruby,2014-07-31 16:40:08.688891,t,f,137,f,newrelic_rpm-3.9.1.236,"---
 - New Relic
 - MIT
 - Ruby
@@ -90873,7 +90873,7 @@ Works with Capistrano 3 (only).
 ",8192,"--- []
 ",>= 0,Pw7nBHYhwrZp5Nkmu8D+9QJW1fdr1luuuS5e8qaUQoM=,"",>= 0,,,0.4.1,,,ruby,grape-appsignal-0.4.1,GcVWoaDHPb5ruIoHPvEGsLhVUhVnmqiq5UIRsw13R5w=,,,,
 570978,"Alpana Pande, Bess Sadler, Chris Fitzpatrick, Douglas Kim, Richard Anderson, Willy Mene, Michael Klein","Contains classes to make http connections with a client-cert, use Jhove, and call Suri
-Also contains core classes to build robots",3.2.4,100718,2014-07-31 00:00:00,2023-09-29 18:52:45.502908,Core services used by the SULAIR Digital Library,ruby,2014-07-31 22:08:58.758886,t,f,40,f,lyber-core-3.2.4,"--- []
+Also contains core classes to build robots",3.2.4,100718,2014-07-31 00:00:00,2023-09-29 18:52:45.502908,Core services used by the SULAIR Digital Library,ruby,2014-07-31 22:08:58.758886,t,f,41,f,lyber-core-3.2.4,"--- []
 ",10240,"--- []
 ",>= 0,2fVOXjLK4vGUI4lO2gQpLwSu/0mxAD0VW60O1NR4jek=,"",>= 1.3.6,,,3.2.4,,,ruby,lyber-core-3.2.4,HaUiarLfX7F5baZrUIiVe2J7yudWRxsfX/zyMAxM4fw=,,,,
 570979,Max De Marzi,A Ruby wrapper to the Neo4j Rest API see http://docs.neo4j.org/chunked/stable/rest-api.html for more details.,1.6.2,99192,2014-07-31 00:00:00,2023-09-28 04:23:29.039508,ruby wrapper to Neo4j Rest API,ruby,2014-07-31 22:09:27.118682,f,f,2,f,neography-down-1.6.2,"---
@@ -91143,7 +91143,7 @@ puts stock.exchange             # =&gt; US
 - MIT
 ",8704,"--- []
 ",>= 0,6RflFbKa0SDqwWwMn+ktMVqPU/ZIaP+4McfGfKyEsVA=,"",>= 0,,,0.0.5,,,ruby,mypeople-0.0.5,lPRuhJabfoG9YJW5pNenMGtTqeptiPNr4dDS/xRxyHM=,b3761c3db0d9d7f93b043bd4a9fdc830,,,
-571041,"Tim Hunter, Omer Bar-or, Benjamin Thomas, Moncef Maiza",RMagick is an interface between Ruby and ImageMagick.,2.13.3,14986,2014-07-31 00:00:00,2023-09-29 18:52:49.925512,Ruby binding to ImageMagick,ruby,2014-08-01 02:32:21.774029,t,f,58,f,rmagick-2.13.3,"---
+571041,"Tim Hunter, Omer Bar-or, Benjamin Thomas, Moncef Maiza",RMagick is an interface between Ruby and ImageMagick.,2.13.3,14986,2014-07-31 00:00:00,2023-09-29 18:52:49.925512,Ruby binding to ImageMagick,ruby,2014-08-01 02:32:21.774029,t,f,60,f,rmagick-2.13.3,"---
 - MIT
 ",3089920,"---
 - ImageMagick 6.4.9 or later
@@ -91209,7 +91209,7 @@ puts stock.exchange             # =&gt; US
 - MIT
 ",19456,"--- []
 ",>= 0,de5pKsx69iih/JaLMdyxgxn0uyUwIVqZ+MS1LpfITBs=,"","",2015-04-28 22:45:53.83096,,0.1.16,,,ruby,omf_rc_shm-0.1.16,,,,,
-571058,"Mike Karlesky, Mark VanderVoord, Greg Williams, Matt Fletcher",Ceedling provides a set of tools to deploy its guts in a folder or which can be required in a Rakefile,0.15.5,39650,2014-08-01 00:00:00,2023-09-29 18:52:51.227214,Ceedling is a set of tools for the automation of builds and test running for C,ruby,2014-08-01 04:10:47.160318,t,f,32,f,ceedling-0.15.5,"---
+571058,"Mike Karlesky, Mark VanderVoord, Greg Williams, Matt Fletcher",Ceedling provides a set of tools to deploy its guts in a folder or which can be required in a Rakefile,0.15.5,39650,2014-08-01 00:00:00,2023-09-29 18:52:51.227214,Ceedling is a set of tools for the automation of builds and test running for C,ruby,2014-08-01 04:10:47.160318,t,f,33,f,ceedling-0.15.5,"---
 - MIT
 ",1805312,"--- []
 ",>= 0,0oOBUrVxshFBa1vAQpp0ZHM43ifZzkRE9cZPMwPfEvo=,"",>= 0,,,0.15.5,,,ruby,ceedling-0.15.5,dOQkqa4r1xfRb6MOp2WAG1+jCtRKbz7Tl5o0a428o0Q=,,,,
@@ -91777,7 +91777,7 @@ with libmecab and naist-jdic so that you can use easily at Heroku
 ",>= 0,jwn9QTdS2kxSYNuCnRaO9wwWQLHlG/AXh7WuMJTA4vs=,"",>= 0,,,0.5,,,ruby,docker-spoon-0.5.0,Uz/ub9vYPOlzPNKwGAeS94VToTv7+WoGcRJoKCBFTg4=,,,,
 571190,Sylvester Keil,"CiteProc-Ruby is a Citation Style Language (CSL) 1.0.1 compatible cite
 processor implementation written in pure Ruby.
-",1.0.4,40127,2014-08-01 00:00:00,2023-09-29 18:53:01.131296,A Citation Style Language (CSL) cite processor,ruby,2014-08-01 13:49:16.936556,t,f,27,f,citeproc-ruby-1.0.4,"---
+",1.0.4,40127,2014-08-01 00:00:00,2023-09-29 18:53:01.131296,A Citation Style Language (CSL) cite processor,ruby,2014-08-01 13:49:16.936556,t,f,28,f,citeproc-ruby-1.0.4,"---
 - AGPL
 ",53760,"--- []
 ",>= 1.9.3,D0CFWbbs2m7gPXKyFXGaNsA21EKxDCq5F2CLQtkBtLU=,"",>= 0,,,1.0.4,,,ruby,citeproc-ruby-1.0.4,p+DC5TEUq1R3qMf+X8mn20vUWFH3JdINAEGIMN1NOr4=,,,,
@@ -92767,11 +92767,11 @@ multiple, different applications.
 - Apache2
 ",9216,"--- []
 ",>= 0,pumjiQIoxySC17SCLdpANZbLdZubyU8LIVKKr+Y9Now=,"",>= 0,,,0.6,,,ruby,allure-ruby-api-0.6,2/yOVJHD/2wQ6EDyqrY1qwf0MB4B8cFZUBEfZ0a3j6o=,,,,
-571410,Ilya Sadykov,Adaptor to use Allure framework along with the RSpec 2,0.5.0,89339,2014-08-01 00:00:00,2023-09-29 18:53:17.968773,allure-rspec-0.5.0,ruby,2014-08-01 23:39:09.778387,t,f,75,f,allure-rspec-0.5.0,"---
+571410,Ilya Sadykov,Adaptor to use Allure framework along with the RSpec 2,0.5.0,89339,2014-08-01 00:00:00,2023-09-29 18:53:17.968773,allure-rspec-0.5.0,ruby,2014-08-01 23:39:09.778387,t,f,78,f,allure-rspec-0.5.0,"---
 - Apache2
 ",14336,"--- []
 ",>= 0,4/MBrc/6BurRHOkhtOFxekCScvvnFzdLk6CsWZRvtsw=,"",>= 0,,,0.5,,,ruby,allure-rspec-0.5.0,50Bo0J2FJ11001nF2SneGqr/oa780P1b9T57zr26HRA=,,,,
-571411,Ilya Sadykov,Adaptor to use Allure framework along with the RSpec 2,0.5.1,89339,2014-08-01 00:00:00,2023-09-29 18:53:18.028969,allure-rspec-0.5.1,ruby,2014-08-01 23:41:23.88898,t,f,74,f,allure-rspec-0.5.1,"---
+571411,Ilya Sadykov,Adaptor to use Allure framework along with the RSpec 2,0.5.1,89339,2014-08-01 00:00:00,2023-09-29 18:53:18.028969,allure-rspec-0.5.1,ruby,2014-08-01 23:41:23.88898,t,f,77,f,allure-rspec-0.5.1,"---
 - Apache2
 ",14336,"--- []
 ",>= 0,EyDEdMDCcFc7WsrRgRxB30isBkc9dWGqdlQP3ipI1Bg=,"",>= 0,,,0.5.1,,,ruby,allure-rspec-0.5.1,X3YQtpnlss8gdbqH7Z0e+IuBg02OW/rYcxNmSW5FpvQ=,,,,
@@ -93400,7 +93400,7 @@ using a strict syntax definition and supporting several common extensions.
 - MIT
 ",31744,"--- []
 ",>= 0,iZpOUEnk5JK8K8LOE+PgTW32fw5dcEBeUDg0tPrdg0Y=,"",> 1.3.1,,,2.beta.16,,,ruby,serverspec-2.0.0.beta16,EczAaZ9SOROXSsHQeviIC6vSYFjnraQXxOexxXGLCys=,,,,
-571559,"Mike Karlesky, Mark VanderVoord, Greg Williams, Matt Fletcher",Ceedling provides a set of tools to deploy its guts in a folder or which can be required in a Rakefile,0.15.6,39650,2014-08-02 00:00:00,2023-09-29 18:53:28.488271,Ceedling is a set of tools for the automation of builds and test running for C,ruby,2014-08-02 17:46:40.064346,t,f,31,f,ceedling-0.15.6,"---
+571559,"Mike Karlesky, Mark VanderVoord, Greg Williams, Matt Fletcher",Ceedling provides a set of tools to deploy its guts in a folder or which can be required in a Rakefile,0.15.6,39650,2014-08-02 00:00:00,2023-09-29 18:53:28.488271,Ceedling is a set of tools for the automation of builds and test running for C,ruby,2014-08-02 17:46:40.064346,t,f,32,f,ceedling-0.15.6,"---
 - MIT
 ",3167232,"--- []
 ",>= 0,7b/NXap/M5YtB2OwitMsn8g94pAl2Tbb7xDi270S8Lc=,"",>= 0,,,0.15.6,,,ruby,ceedling-0.15.6,NDsYEF5Md/USI8CW4IgR6/g7t5SFrFbmuhXiExP4i2o=,,,,
@@ -93751,7 +93751,7 @@ See the LICENSE file.",1.0.0,102785,2014-08-03 00:00:00,2023-09-29 18:53:32.4461
     ActiveRecord has always stored the base class in polymorphic _type columns when using STI. This can have non-trivial
     performance implications in certain cases. This gem adds 'store_base_sti_class' configuration options which controls
     whether ActiveRecord will store the base class or the actual class. Default to true for backwards compatibility.
-  ",0.2.0,58344,2014-08-03 00:00:00,2023-09-29 18:53:33.232538,Modifies ActiveRecord 3.0.5 - 4.0.1 with the ability to store the actual class (instead of the base class) in polymorhic _type columns when using STI,ruby,2014-08-03 01:40:44.493126,t,f,18,f,store_base_sti_class-0.2.0,"---
+  ",0.2.0,58344,2014-08-03 00:00:00,2023-09-29 18:53:33.232538,Modifies ActiveRecord 3.0.5 - 4.0.1 with the ability to store the actual class (instead of the base class) in polymorhic _type columns when using STI,ruby,2014-08-03 01:40:44.493126,t,f,19,f,store_base_sti_class-0.2.0,"---
 - MIT
 ",24064,"--- []
 ",>= 0,V7VegmOljPoJbPXzAK+HR/cqIJDqPb/XUpm1No3PNUc=,"",>= 0,,,0.2,,,ruby,store_base_sti_class-0.2.0,93gJRRam9dVHAxXqQCrdfjhHYgfcbcWfeM3ZDw0BlgI=,,,,
@@ -94256,7 +94256,7 @@ This provides test result notification support.
 - MIT
 ",10240,"--- []
 ",>= 0,qFsXU4t+sa5hVPj4PoIniRE6RtadVuY5RlOZwquZp8A=,"",>= 0,,,0.0.6,,,ruby,tfa-0.0.6,+6F1UzPld/Mnb+Y1NRKkLfX20ILzXAtChnO5UzxUcLA=,,,,
-571759,Richard Huang,help to kill N+1 queries and unused eager loading.,4.13.1,21697,2014-08-03 00:00:00,2023-09-29 18:53:42.200433,help to kill N+1 queries and unused eager loading.,ruby,2014-08-03 15:44:50.098039,t,f,76,f,bullet-4.13.1,"---
+571759,Richard Huang,help to kill N+1 queries and unused eager loading.,4.13.1,21697,2014-08-03 00:00:00,2023-09-29 18:53:42.200433,help to kill N+1 queries and unused eager loading.,ruby,2014-08-03 15:44:50.098039,t,f,77,f,bullet-4.13.1,"---
 - MIT
 ",35328,"--- []
 ",>= 0,GVMDw0Dm8DnAE5k0gGDvEzcePnl1PDAZeeMznITklb4=,"",>= 1.3.6,,,4.13.1,,,ruby,bullet-4.13.1,y0mtmljdxihRpGFh3LhIBXEtVNDYcqaf45A29QEygcI=,,,,
@@ -94277,7 +94277,7 @@ This provides test result notification support.
 ",7680,"--- []
 ",>= 0,pSRIfQVvDuvENT/RVpxH/1hzwHa9F3oSWLMre2RXiEQ=,"",>= 0,,,0.0.18,,,ruby,spline-0.0.18,CxQKD4cr76FjgyK4EunRVgtQJ8Ihf41sqvdNY8T5gew=,,,,
 571764,Luis Lavena,"Provide a standard and simplified way to build and package
-Ruby extensions (C, Java) using Rake as glue.",0.9.3,17068,2014-08-03 00:00:00,2023-09-29 18:53:42.466336,"Rake-based Ruby Extension (C, Java) task generator.",ruby,2014-08-03 16:22:24.903305,t,f,38,f,rake-compiler-0.9.3,"---
+Ruby extensions (C, Java) using Rake as glue.",0.9.3,17068,2014-08-03 00:00:00,2023-09-29 18:53:42.466336,"Rake-based Ruby Extension (C, Java) task generator.",ruby,2014-08-03 16:22:24.903305,t,f,39,f,rake-compiler-0.9.3,"---
 - MIT
 ",33792,"--- []
 ",>= 1.8.7,0U4lXk5XImfvh4lMopNHoY/gG/J1CYUd4B1pb/UUB9U=,"",>= 1.8.25,,,0.9.3,,,ruby,rake-compiler-0.9.3,I/e4H0Vxxn4tcUP8dFgU601odPhTo0NFPsU+94ya3K8=,,,,
@@ -95477,7 +95477,7 @@ gaudi -s project/root to create a directory structure for a Gaudi based project
 - MIT
 ",11264,"--- []
 ",>= 0,uo6hNhEdHE4g6mPtAU/Eo6ubEMGfUdASRBFl84qCES4=,"",>= 0,,,0.0.1,,,ruby,iban_calculator-0.0.1,VtvhiEEJmM5/jzan6FbwBGln5Efoj6Ae0FA9/oFGL6Y=,,,,
-572034,"Robert Beekman, Steven Weller, Thijs Cadier, Ron Cadier, Jacob Vosmaer",The official appsignal.com gem,0.10.beta.1,65664,2014-08-04 00:00:00,2023-09-28 04:23:50.065159,Logs performance and exception data from your app to appsignal.com,ruby,2014-08-04 14:29:46.352311,f,t,563,f,appsignal-0.10.beta.1,"---
+572034,"Robert Beekman, Steven Weller, Thijs Cadier, Ron Cadier, Jacob Vosmaer",The official appsignal.com gem,0.10.beta.1,65664,2014-08-04 00:00:00,2023-09-28 04:23:50.065159,Logs performance and exception data from your app to appsignal.com,ruby,2014-08-04 14:29:46.352311,f,t,566,f,appsignal-0.10.beta.1,"---
 - MIT
 ",192512,"--- []
 ",>= 1.9.3,Sz8kPLMCPCDCLxdA+WQ4Qc7/IkQAx9gi3UQMc3UCUpA=,"","",2015-04-28 22:46:05.747316,,0.10.beta.1,,,ruby,appsignal-0.10.beta.1,,,,,
@@ -95697,7 +95697,7 @@ Net::LDAP has been tested against modern popular LDAP servers including
 OpenLDAP and Active Directory. The current release is mostly compliant with
 earlier versions of the IETF LDAP RFCs (2251–2256, 2829–2830, 3377, and 3771).
 Our roadmap for Net::LDAP 1.0 is to gain full &lt;em&gt;client&lt;/em&gt; compliance with
-the most recent LDAP RFCs (4510–4519, plus portions of 4520–4532).",0.7.0,22687,2014-08-04 00:00:00,2023-09-29 18:54:03.483072,"Net::LDAP for Ruby (also called net-ldap) implements client access for the Lightweight Directory Access Protocol (LDAP), an IETF standard protocol for accessing distributed directory services",ruby,2014-08-04 16:10:23.854665,t,f,19,f,net-ldap-0.7.0,"---
+the most recent LDAP RFCs (4510–4519, plus portions of 4520–4532).",0.7.0,22687,2014-08-04 00:00:00,2023-09-29 18:54:03.483072,"Net::LDAP for Ruby (also called net-ldap) implements client access for the Lightweight Directory Access Protocol (LDAP), an IETF standard protocol for accessing distributed directory services",ruby,2014-08-04 16:10:23.854665,t,f,20,f,net-ldap-0.7.0,"---
 - MIT
 ",70656,"--- []
 ",>= 1.8.7,0500HJkqu3Jz2Lg8vjKjjmn9606raE29LbEjLkBlpLQ=,"",>= 0,,,0.7,,,ruby,net-ldap-0.7.0,FApwXRYH7DJAcjdiU9yWwneJzUk/Ejk6WuL9NexRRJ8=,,,,
@@ -96947,7 +96947,7 @@ commands - we will then invoke run_program() with its name.
 - MIT
 ",4608,"--- []
 ",>= 0,RngUrgFdsKlAEkrFjZZL6j4yNCcop378yVVEswhoYJM=,"",> 1.3.1,,,pre.88,,,ruby,gameon-0.0.0.pre88,PiVe2ImASK5QwI2Ep5m+b1EBMIKgR+F3QMKDuJ/c4Vw=,,,,
-572383,Imran Khan,Adaptor to use Allure framework with cucumber,0.2.0,102375,2014-08-05 00:00:00,2023-09-28 04:23:56.649012,allure-cucumber-0.2.0,ruby,2014-08-05 11:34:55.119368,f,f,73,f,allure-cucumber-0.2.0,"---
+572383,Imran Khan,Adaptor to use Allure framework with cucumber,0.2.0,102375,2014-08-05 00:00:00,2023-09-28 04:23:56.649012,allure-cucumber-0.2.0,ruby,2014-08-05 11:34:55.119368,f,f,76,f,allure-cucumber-0.2.0,"---
 - MIT
 ",9216,"--- []
 ",>= 0,Rn++rn7DmbaDfWVvcD5UriJIF3KmMaV7AQeXepivu48=,"","",2015-04-28 22:46:09.131478,,0.2,,,ruby,allure-cucumber-0.2.0,,,,,
@@ -96960,7 +96960,7 @@ commands - we will then invoke run_program() with its name.
 - MIT
 ",192000,"--- []
 ",>= 0,7332u/DYEQr9R7sfknxXsQ7UXhtl3FLLrGdf4dwr0Iw=,"",> 1.3.1,,,1.6.18.travis.610.5,,,ruby,travis-1.6.18.travis.610.5,/JuuK8qW0IIb2awfDcmNhWOeh5/PV0FiKvIy3a3C7NQ=,,,,
-572386,Imran Khan,Adaptor to use Allure framework with cucumber,0.2.1,102375,2014-08-05 00:00:00,2023-09-29 18:54:23.714016,allure-cucumber-0.2.1,ruby,2014-08-05 11:56:52.192403,t,f,72,f,allure-cucumber-0.2.1,"---
+572386,Imran Khan,Adaptor to use Allure framework with cucumber,0.2.1,102375,2014-08-05 00:00:00,2023-09-29 18:54:23.714016,allure-cucumber-0.2.1,ruby,2014-08-05 11:56:52.192403,t,f,75,f,allure-cucumber-0.2.1,"---
 - MIT
 ",8192,"--- []
 ",>= 0,tfSbjKjl61c7cZgs7fdQKkEuIPXt/k6kh1KUWNQrqv4=,"",>= 0,,,0.2.1,,,ruby,allure-cucumber-0.2.1,EnuSg9+78udyeI7BhohhB1134IUMrBzRCbS3lYhpSl8=,,,,
@@ -97000,7 +97000,7 @@ plugin by Giovanni Cappellotto.",0.3.1,83876,2014-08-05 00:00:00,2023-09-29 18:5
 - Apache2
 ",9216,"--- []
 ",>= 0,1xJJf7vqJEmT8sM/V8yRdRp0gKzqVXmZws6wEDUUdrg=,"",>= 0,,,0.6.1,,,ruby,allure-ruby-adaptor-api-0.6.1,FXdjEINpGY1b9RKRgm4poRwEdIgQXqsrHlDsMfRXSs0=,,,,
-572396,Ilya Sadykov,Adaptor to use Allure framework along with the RSpec 2,0.5.2,89339,2014-08-05 00:00:00,2023-09-29 18:54:24.390028,allure-rspec-0.5.2,ruby,2014-08-05 12:21:21.716863,t,f,73,f,allure-rspec-0.5.2,"---
+572396,Ilya Sadykov,Adaptor to use Allure framework along with the RSpec 2,0.5.2,89339,2014-08-05 00:00:00,2023-09-29 18:54:24.390028,allure-rspec-0.5.2,ruby,2014-08-05 12:21:21.716863,t,f,76,f,allure-rspec-0.5.2,"---
 - Apache2
 ",14336,"--- []
 ",>= 0,/22cNk6sCr/e4xX8yrkcGTGzj71pAt9jpm5FlPxuf64=,"",>= 0,,,0.5.2,,,ruby,allure-rspec-0.5.2,Qi9hKrevrx+xA/kJMQ5M7c/53ImZMhOLVHieiA4SyJI=,,,,
@@ -97033,11 +97033,11 @@ plugin by Giovanni Cappellotto.",0.3.1,83876,2014-08-05 00:00:00,2023-09-29 18:5
 - MIT
 ",8704,"--- []
 ",>= 0,1Z+a/9aWMdBrHNO2WscpG+g2rbHAjijMzd8sz4EEAaY=,"",>= 0,,,0.0.2,,,ruby,mobilywscli-0.0.2,q9UFwDF1zhQPmSCIPUkfCt4iIScUVjFkkq4f91OzRAA=,,,,
-572404,"Robert Beekman, Steven Weller, Thijs Cadier, Ron Cadier, Jacob Vosmaer",The official appsignal.com gem,0.9.4,65664,2014-08-05 00:00:00,2023-09-29 18:54:24.863014,Logs performance and exception data from your app to appsignal.com,ruby,2014-08-05 12:41:48.889618,t,f,567,f,appsignal-0.9.4,"---
+572404,"Robert Beekman, Steven Weller, Thijs Cadier, Ron Cadier, Jacob Vosmaer",The official appsignal.com gem,0.9.4,65664,2014-08-05 00:00:00,2023-09-29 18:54:24.863014,Logs performance and exception data from your app to appsignal.com,ruby,2014-08-05 12:41:48.889618,t,f,570,f,appsignal-0.9.4,"---
 - MIT
 ",183808,"--- []
 ",>= 1.9.3,yzSG4daO5vEakdZshX6f0BPJKhdWgORKGdeUgBI/XHM=,"",>= 0,,,0.9.4,,,ruby,appsignal-0.9.4,vDsixNZXoBqwZ4uOlBQ99paVplr2ny3AX4whHKv+F3s=,,,,
-572405,"Robert Beekman, Steven Weller, Thijs Cadier, Ron Cadier, Jacob Vosmaer",The official appsignal.com gem,0.10.beta.2,65664,2014-08-05 00:00:00,2023-09-28 04:23:57.051086,Logs performance and exception data from your app to appsignal.com,ruby,2014-08-05 12:44:25.609787,f,t,562,f,appsignal-0.10.beta.2,"---
+572405,"Robert Beekman, Steven Weller, Thijs Cadier, Ron Cadier, Jacob Vosmaer",The official appsignal.com gem,0.10.beta.2,65664,2014-08-05 00:00:00,2023-09-28 04:23:57.051086,Logs performance and exception data from your app to appsignal.com,ruby,2014-08-05 12:44:25.609787,f,t,565,f,appsignal-0.10.beta.2,"---
 - MIT
 ",193024,"--- []
 ",>= 1.9.3,eSFLoWCCm4lpoHqOsh8+7zPKfFg76qhnKqxrFyFhuDI=,"","",2015-04-28 22:46:09.290877,,0.10.beta.2,,,ruby,appsignal-0.10.beta.2,,,,,
@@ -97049,7 +97049,7 @@ plugin by Giovanni Cappellotto.",0.3.1,83876,2014-08-05 00:00:00,2023-09-29 18:5
 - MIT
 ",9216,"--- []
 ",>= 0,AhBQ5LhKHMh95hzWuL+1kiToyv4qPeWVeoPABD6/QH0=,"",>= 0,,,0.0.35,,,ruby,mondupe-0.0.35,XYIrwHISYODDm/xjV9L61qe8bami4xuH1B4Bo3TRkg8=,,,,
-572408,"Robert Beekman, Steven Weller, Thijs Cadier, Ron Cadier, Jacob Vosmaer",The official appsignal.com gem,0.10.0.beta.0,65664,2014-08-05 00:00:00,2023-09-29 18:54:25.044185,Logs performance and exception data from your app to appsignal.com,ruby,2014-08-05 12:49:24.876742,t,t,564,f,appsignal-0.10.0.beta.0,"---
+572408,"Robert Beekman, Steven Weller, Thijs Cadier, Ron Cadier, Jacob Vosmaer",The official appsignal.com gem,0.10.0.beta.0,65664,2014-08-05 00:00:00,2023-09-29 18:54:25.044185,Logs performance and exception data from your app to appsignal.com,ruby,2014-08-05 12:49:24.876742,t,t,567,f,appsignal-0.10.0.beta.0,"---
 - MIT
 ",193024,"--- []
 ",>= 1.9.3,3OUEiLGgijNDwgHmULlyDOt4E/zWLrxIckBLqMhsiHQ=,"",> 1.3.1,,,0.10.beta,,,ruby,appsignal-0.10.0.beta.0,nDooVvJNx6s9WGEjBL7MKnCdq5GpYPmYgEQddvRCGa4=,,,,
@@ -98536,7 +98536,7 @@ library for use in the UK Government Single Domain project",2.0.1,48307,2014-08-
 It defines Task model for keeping the information about the tasks and Lock for assigning the tasks
 to resources. The locking allows dealing with preventing multiple colliding tasks to be run on the
 same resource. It also optionally provides Dynflow infrastructure for using it for managing the tasks.
-",0.6.7,91717,2014-08-06 00:00:00,2023-09-29 18:54:49.348137,Foreman plugin for showing tasks information for resoruces and users,ruby,2014-08-06 14:07:34.647741,t,f,191,f,foreman-tasks-0.6.7,"--- []
+",0.6.7,91717,2014-08-06 00:00:00,2023-09-29 18:54:49.348137,Foreman plugin for showing tasks information for resoruces and users,ruby,2014-08-06 14:07:34.647741,t,f,192,f,foreman-tasks-0.6.7,"--- []
 ",41984,"--- []
 ",>= 0,6tmKKjjTd91W0zovNN/VLNb3HUBUhFZLI6vNMKgFj/g=,"",>= 0,,,0.6.7,,,ruby,foreman-tasks-0.6.7,4ZJbDjj23xVLxzh+2U6SY9ywf0N1uKGSEDreSQKdlSw=,,,,
 572779,"Ant Nettleship, Shuo Chen","dds devise to your app and installs (if it's not there already). Provides a generator to create a model (if not already there) add the appropriate migrations, routes, and views.",1.2.8,102642,2014-08-06 00:00:00,2023-09-28 04:24:03.791529,A gem for adding CAS authentication to your Rails applications.,ruby,2014-08-06 14:08:50.14655,f,f,2,f,epi_cas-1.2.8,"---
@@ -98566,7 +98566,7 @@ same resource. It also optionally provides Dynflow infrastructure for using it f
 572785,William Barry,CMS built on rails with love.,0.4.68,78333,2014-08-06 00:00:00,2023-09-29 18:54:49.757409,CMS built on rails.,ruby,2014-08-06 14:16:04.190127,t,f,746,f,caboose-cms-0.4.68,"--- []
 ",464896,"--- []
 ",>= 0,oGsnQzNDbzv89l2PhUaZl59jsRlpzKbWmTQH4mQAncU=,"",>= 0,,,0.4.68,,,ruby,caboose-cms-0.4.68,X0Rl/6RkOw9tAm5K6RBjy61F50EsvPfXgRAbQJt6wEk=,,,,
-572786,"Robert Beekman, Steven Weller, Thijs Cadier, Ron Cadier, Jacob Vosmaer",The official appsignal.com gem,0.9.5,65664,2014-08-06 00:00:00,2023-09-29 18:54:49.839164,Logs performance and exception data from your app to appsignal.com,ruby,2014-08-06 14:16:12.043602,t,f,566,f,appsignal-0.9.5,"---
+572786,"Robert Beekman, Steven Weller, Thijs Cadier, Ron Cadier, Jacob Vosmaer",The official appsignal.com gem,0.9.5,65664,2014-08-06 00:00:00,2023-09-29 18:54:49.839164,Logs performance and exception data from your app to appsignal.com,ruby,2014-08-06 14:16:12.043602,t,f,569,f,appsignal-0.9.5,"---
 - MIT
 ",183808,"--- []
 ",>= 1.9.3,GQTNc7o95M85YEUkKOrQ9H1at4mfr5y9Xxt6IbnahFg=,"",>= 0,,,0.9.5,,,ruby,appsignal-0.9.5,GkExWXFQFutc0l2SgL8Ft5XNl+Fi4/TDarOONv7rF3c=,,,,
@@ -99378,7 +99378,7 @@ and you're good to go.",1.3.0,44236,2014-08-06 00:00:00,2023-09-29 18:54:59.4199
 - Apache 2
 ",37888,"--- []
 ",>= 0,YS+GtOY0w/huXPVeeUCfsnbyLaUtqURPoYLB5b7xw+Y=,"",>= 0,,,1.4,,,ruby,migration_bundler-1.4.0,GFmpT96zOECZbtpzahFVFOFQ07FD2xB/VKKVQwwPyBo=,,,,
-572972,Applitools team,Applitools Ruby SDK,2.1.0,87230,2014-08-06 00:00:00,2023-09-29 18:55:01.748684,Applitools Ruby SDK,ruby,2014-08-06 22:55:03.329613,t,f,293,f,eyes_selenium-2.1.0,"---
+572972,Applitools team,Applitools Ruby SDK,2.1.0,87230,2014-08-06 00:00:00,2023-09-29 18:55:01.748684,Applitools Ruby SDK,ruby,2014-08-06 22:55:03.329613,t,f,294,f,eyes_selenium-2.1.0,"---
 - Apache License, Version 2.0
 ",146432,"--- []
 ",>= 0,ZPz/aza5xozp2vdtZi3LwGp0kg72DA+Vs1aq73oheqE=,"",>= 0,,,2.1,,,ruby,eyes_selenium-2.1.0,2yBQjOz++ScE+DW2RHmNOFs/V78UgJe6e0r144FWh7Q=,,,,
@@ -99992,7 +99992,7 @@ This gem leverages Guard's watch ability to insert files inline within another f
 - MIT
 ",113152,"--- []
 ",>= 0,bYYM/bPlRdrXoz1ysV2zyl9pAgig4/fzEkvfRStYC1Q=,"",>= 0,,,0.0.1,,,ruby,safran-0.0.1,IwC/BYc7qehodajXvosiE4nCXGf80vY5Tw9Ul6nG6eI=,a137f448146db620d92e0a3b3e31d1d3,,,
-573117,"Robert Beekman, Steven Weller, Thijs Cadier, Ron Cadier, Jacob Vosmaer",The official appsignal.com gem,0.9.6,65664,2014-08-07 00:00:00,2023-09-29 18:55:10.304639,Logs performance and exception data from your app to appsignal.com,ruby,2014-08-07 09:56:39.453579,t,f,565,f,appsignal-0.9.6,"---
+573117,"Robert Beekman, Steven Weller, Thijs Cadier, Ron Cadier, Jacob Vosmaer",The official appsignal.com gem,0.9.6,65664,2014-08-07 00:00:00,2023-09-29 18:55:10.304639,Logs performance and exception data from your app to appsignal.com,ruby,2014-08-07 09:56:39.453579,t,f,568,f,appsignal-0.9.6,"---
 - MIT
 ",183808,"--- []
 ",>= 1.9.3,lx3+KMsAdt8q8V/MiaF5k9cBFZbN0uMNuQ1TqIt42OQ=,"",>= 0,,,0.9.6,,,ruby,appsignal-0.9.6,3LWkvQ8XL5ROXG4jjQPs35bAchx94RnTcsJiukzEYjw=,,,,
@@ -100552,7 +100552,7 @@ a numeric, a boolean, a date, a time, an URI, and so on.  ",3.1.0,44282,2014-08-
 - MIT
 ",13312,"--- []
 ",>= 0,SWNk0Npu5MflOZ6hOwMAx9t4+CUAYzHUoGYfE6Zze3A=,"",>= 0,,,0.4.1,,,ruby,bipbip-0.4.1,g5RQGtoF0Z6WBb3DHQrZhk8Qa9tsMU4RgR1C+9hsNk4=,,,,
-573255,"Jonathan Rochkind, Matt Mitchell, Chris Beer, Jessie Keck, Jason Ronallo, Vernon Chapman, Mark A. Matienzo, Dan Funk, Naomi Dushay, Justin Coyne",Blacklight is an open source Solr user interface discovery platform. You can use Blacklight to enable searching and browsing of your collections. Blacklight uses the Apache Solr search engine to search full text and/or metadata.,5.5.3,40893,2014-08-07 00:00:00,2023-09-29 18:55:20.564803,Blacklight provides a discovery interface for any Solr (http://lucene.apache.org/solr) index.,ruby,2014-08-07 16:38:57.188077,t,f,213,f,blacklight-5.5.3,"---
+573255,"Jonathan Rochkind, Matt Mitchell, Chris Beer, Jessie Keck, Jason Ronallo, Vernon Chapman, Mark A. Matienzo, Dan Funk, Naomi Dushay, Justin Coyne",Blacklight is an open source Solr user interface discovery platform. You can use Blacklight to enable searching and browsing of your collections. Blacklight uses the Apache Solr search engine to search full text and/or metadata.,5.5.3,40893,2014-08-07 00:00:00,2023-09-29 18:55:20.564803,Blacklight provides a discovery interface for any Solr (http://lucene.apache.org/solr) index.,ruby,2014-08-07 16:38:57.188077,t,f,214,f,blacklight-5.5.3,"---
 - Apache 2.0
 ",196096,"--- []
 ",>= 0,HYRNAh+7IhTF6hKjHsPJbwfYGBX5+vynauUZIsDbDJY=,"",>= 0,,,5.5.3,,,ruby,blacklight-5.5.3,DtpssErFDsy1SIWpE5Wg1lX1+MSjp7pz6sgzJGB/kDg=,,,,
@@ -100772,7 +100772,7 @@ c8f6a2",1.2681.0,56895,2014-08-07 00:00:00,2023-09-29 18:55:22.586332,BOSH blobs
 573307,snori,This library helps you to develop interactive graphical user interface.,0.1.7,45657,2014-08-07 00:00:00,2023-09-29 18:55:23.435999,A Graphical User Interface Tool Kit.,ruby,2014-08-07 18:10:03.660193,t,f,77,f,reflexion-0.1.7,"--- []
 ",89088,"--- []
 ",>= 1.9.0,1cbADRkUo9ZFPgn/huVUUO2BRvhLPjuyR3yoxyRpbtg=,"",>= 0,,,0.1.7,,,ruby,reflexion-0.1.7,tfbJ/W/DVsDf3XNKslh599mu7vQCM8nABDzmzu/qJwM=,,,,
-573308,"Ben McRedmond, Ciaran Lee, Darragh Curran, Jeff Gardner, Kyle Daigle, Declan McGrath, Jamie Osler, Bob Long",Intercom (https://www.intercom.io) is a customer relationship management and messaging tool for web app owners. This library wraps the api provided by Intercom. See http://docs.intercom.io/api for more details. ,2.1.4,53941,2014-08-07 00:00:00,2023-09-29 18:55:23.530029,Ruby bindings for the Intercom API,ruby,2014-08-07 18:12:18.037688,t,f,78,f,intercom-2.1.4,"---
+573308,"Ben McRedmond, Ciaran Lee, Darragh Curran, Jeff Gardner, Kyle Daigle, Declan McGrath, Jamie Osler, Bob Long",Intercom (https://www.intercom.io) is a customer relationship management and messaging tool for web app owners. This library wraps the api provided by Intercom. See http://docs.intercom.io/api for more details. ,2.1.4,53941,2014-08-07 00:00:00,2023-09-29 18:55:23.530029,Ruby bindings for the Intercom API,ruby,2014-08-07 18:12:18.037688,t,f,79,f,intercom-2.1.4,"---
 - MIT
 ",159232,"--- []
 ",~> 2.0,FrS82Cmek2gz/FbfYb+2HxsYrAhsKtEiLf7kU8kkalQ=,"",>= 0,,,2.1.4,,,ruby,intercom-2.1.4,LQ3ny7BT9KY5+hZhG2LBWCpMgPvFzEvLxoWBaq7DrT0=,,,,
@@ -101869,7 +101869,7 @@ friendly to how Heroku addons work.
 573561,Thomas Baustert,bundler patch to support private gem server (pgs),0.1.2,81079,2014-08-08 00:00:00,2023-09-29 18:55:39.529163,bundler patch to support private gem server (pgs),ruby,2014-08-08 12:04:02.316721,t,f,2,f,bundler-pgs-0.1.2,"--- []
 ",8192,"--- []
 ",>= 0,2CbT5ydZqqVmkoGx6FsXTYZJwbirUqp++fn3dJAoNzU=,"",>= 0,,,0.1.2,,,ruby,bundler-pgs-0.1.2,xwK4JfxyYUM4siAB2WJ9z1aoydXyByqtVQnx895mXso=,,,,
-573562,"Bryan Rite, Ryan Bates",Continuation of the simple authorization solution for Rails which is decoupled from user roles. All permissions are stored in a single location.,1.9.2,93319,2014-08-08 00:00:00,2023-09-29 18:55:39.587549,Simple authorization solution for Rails.,ruby,2014-08-08 12:14:38.675317,t,f,32,f,cancancan-1.9.2,"---
+573562,"Bryan Rite, Ryan Bates",Continuation of the simple authorization solution for Rails which is decoupled from user roles. All permissions are stored in a single location.,1.9.2,93319,2014-08-08 00:00:00,2023-09-29 18:55:39.587549,Simple authorization solution for Rails.,ruby,2014-08-08 12:14:38.675317,t,f,33,f,cancancan-1.9.2,"---
 - MIT
 ",48128,"--- []
 ",>= 1.8.7,uvDg1d2FUpPc8crdM1cRm0o82xq37BI90zQC7NYAxzo=,"",>= 1.3.4,,,1.9.2,,,ruby,cancancan-1.9.2,s4Fha9/pjE142C5gzRIgM4246BvqeKFasoHDKC0Dqo0=,,,,
@@ -102179,7 +102179,7 @@ that the router then routes to the originator.
 ",2.3.8,46943,2014-08-08 00:00:00,2023-09-29 18:55:43.661663,Agent for interfacing server with RightScale system,ruby,2014-08-08 17:33:08.337699,t,f,14,f,right_agent-2.3.8,"--- []
 ",247808,"--- []
 ",>= 1.8.7,l3M4LWSrk14q2lzTbJoneHpvS8ig4UxKpR4uANflQbM=,"",>= 0,,,2.3.8,,,ruby,right_agent-2.3.8,2E6eEveYYdZtpNWptHgaE2KYBuoq7UJzJGbrkesxOnY=,,,,
-573636,"Eloy Espinaco, Pablo Oldani",Use SalesForce as an ActiveModel,0.3.1,79598,2014-08-08 00:00:00,2023-09-29 18:55:43.76399,Help you implement models persisting on Sales Force within Rails using RESTForce,ruby,2014-08-08 17:37:30.765472,t,f,24,f,active_force-0.3.1,"---
+573636,"Eloy Espinaco, Pablo Oldani",Use SalesForce as an ActiveModel,0.3.1,79598,2014-08-08 00:00:00,2023-09-29 18:55:43.76399,Help you implement models persisting on Sales Force within Rails using RESTForce,ruby,2014-08-08 17:37:30.765472,t,f,25,f,active_force-0.3.1,"---
 - MIT
 ",13824,"--- []
 ",~> 2.0,xASwa3ijoZqXXFhf8Dsc53vfzHg3yzYC4fybFEjgyBI=,"",>= 0,,,0.3.1,,,ruby,active_force-0.3.1,lyfCNIIxCUqjeKA0bTGwugT6LLRlebwBAYcypnJERZ0=,,,,
@@ -102207,7 +102207,7 @@ that the router then routes to the originator.
 - MIT
 ",9728,"--- []
 ",>= 1.9.3,rdPqBhgPdiyE/1UVbK/MW6TeQ1VSiKWlS4G1kM1KMp4=,"",>= 0,,,0.2.3,,,ruby,ackr-0.2.3,sk/nL2PCaU+ARzgScY0U9u3MjTGk6PiBqoBmw5xRA1I=,,,,
-573643,"Eloy Espinaco, Pablo Oldani",Use SalesForce as an ActiveModel,0.3.2,79598,2014-08-08 00:00:00,2023-09-29 18:55:44.281028,Help you implement models persisting on Sales Force within Rails using RESTForce,ruby,2014-08-08 17:51:20.124072,t,f,23,f,active_force-0.3.2,"---
+573643,"Eloy Espinaco, Pablo Oldani",Use SalesForce as an ActiveModel,0.3.2,79598,2014-08-08 00:00:00,2023-09-29 18:55:44.281028,Help you implement models persisting on Sales Force within Rails using RESTForce,ruby,2014-08-08 17:51:20.124072,t,f,24,f,active_force-0.3.2,"---
 - MIT
 ",13824,"--- []
 ",~> 2.0,Dtlpefpm6WhxeOSArdFaW4IqRllssGu/2Ehn80X2NPs=,"",>= 0,,,0.3.2,,,ruby,active_force-0.3.2,aGDFzHw0K7UPiQ1bRGC8LoZoEXrz+CMJuEPmlMMs59Y=,,,,
@@ -104126,7 +104126,7 @@ You can use AdaBoost and Naive Bayes easily.
 - Apache
 ",5632,"--- []
 ",>= 0,brDVjaYegvdk9C+aDyAdw+ZJGrn3VFWHZgHgRNK+dew=,"",>= 0,,,0.1,,,ruby,bosh_lite_helpers-0.1.0,kHdQzN/QvWIeOcvdtO2HfQJ1R4QYm2rdK7EWPi5iq50=,b7f3d306a9b227774e8d5b8cdf7ef80e,,,
-574050,"Brian Dewey, Waldemar Quevedo",An Org mode parser written in Ruby.,0.9.8,24900,2014-08-11 00:00:00,2023-09-29 18:56:09.973347,This gem contains Ruby routines for parsing org-mode files.,ruby,2014-08-10 15:20:26.346773,t,f,3,f,org-ruby-0.9.8,"---
+574050,"Brian Dewey, Waldemar Quevedo",An Org mode parser written in Ruby.,0.9.8,24900,2014-08-11 00:00:00,2023-09-29 18:56:09.973347,This gem contains Ruby routines for parsing org-mode files.,ruby,2014-08-10 15:20:26.346773,t,f,5,f,org-ruby-0.9.8,"---
 - MIT
 ",34304,"--- []
 ",>= 0,QYwfrqMXHAoCl4SfSdrxQM+ouOyCHLPZQ7AGvAStyOE=,"",>= 0,,,0.9.8,,,ruby,org-ruby-0.9.8,P+wde/CM7+BtgCCShUuozpbNs34wsOzngTgJyjfpHwA=,,,,
