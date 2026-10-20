@@ -17147,7 +17147,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 32368,33742,http://github.com/dorren/couchrest_model_search,,,,,,2010-10-13 15:20:10.822775,2010-10-13 15:20:10.834232
 32369,33743,http://github.com/jugyo/www,,,,,,2010-10-13 15:35:28.990518,2010-10-13 15:35:28.997959
 32370,33744,http://wedesoft.github.io/hornetseye-openexr/,,,,,,2010-10-13 15:44:50.523965,2025-06-30 11:36:29.405461
-32371,33745,http://github.com/rubiety/message_block,"","","",https://github.com/rubiety/message_block,"",2010-10-13 16:15:20.95912,2013-02-17 15:18:34.977163
+32371,33745,https://github.com/eigenben/message_block,"","","",https://github.com/rubiety/message_block,"",2010-10-13 16:15:20.95912,2026-10-14 19:12:49.503373
 32372,33746,"",,,,,,2010-10-13 16:43:25.863077,2011-11-28 16:38:47.664599
 32373,33747,http://github.com/setepo/make_text_search,,,,,,2010-10-13 18:41:25.238897,2010-10-13 18:41:25.245167
 32374,33748,http://github.com/groupme/paddock,,,,,,2010-10-13 18:44:47.35896,2010-10-13 18:44:47.364571
@@ -17167,7 +17167,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 32388,33762,http://github.com/bobbyw/maskedmail,,,,,,2010-10-14 03:12:08.737757,2010-10-14 03:12:08.75811
 32389,33763,http://github.com/adzap/timeliness,"","","",http://github.com/adzap/timeliness,"",2010-10-14 04:28:25.798539,2010-10-14 04:33:08.168407
 32390,33764,http://github.com/re5et/xbmc-jsonrpc,,,,,,2010-10-14 04:54:11.388876,2010-10-14 04:54:11.39487
-32391,33765,http://github.com/rubiety/nilify_blanks,,,,,,2010-10-14 06:04:49.852109,2010-10-14 06:04:49.857816
+32391,33765,https://github.com/rubiety/nilify_blanks,,,,,,2010-10-14 06:04:49.852109,2026-10-14 18:01:14.703567
 32392,33766,http://github.com/arirusso/crontest,,,,,,2010-10-14 06:17:36.401267,2010-10-14 06:17:36.406919
 32393,33767,http://github.com/mholling/subdomain_routes,,,,,,2010-10-14 06:50:31.319257,2014-08-11 00:57:10.710916
 32394,33768,http://github.com/gudleik/rails-skeleton,,,,,,2010-10-14 08:02:01.657637,2010-10-14 08:02:01.663448
@@ -17213,7 +17213,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 32434,33808,http://github.com/cyx/shield,,,,,,2010-10-15 02:34:58.333632,2010-10-15 02:34:58.344715
 32435,33809,http://engineersatlarge.com/?p=7,,,,,,2010-10-15 03:47:46.365475,2010-10-20 19:51:10.284121
 32436,33810,http://rubygems.org/gems/strobe,,,,,,2010-10-15 04:17:34.60902,2010-10-15 04:17:34.614866
-32437,33811,http://github.com/rubiety/has_draft,,,,,,2010-10-15 04:31:56.399791,2010-10-15 04:44:00.652813
+32437,33811,https://github.com/eigenben/has_draft,,,,,,2010-10-15 04:31:56.399791,2026-10-15 06:22:08.255144
 32438,33812,http://github.com/TwP/bones-rcov,,,,,,2010-10-15 04:33:04.541651,2010-10-15 04:33:04.548108
 32439,33813,http://github.com/TwP/bones-rspec,,,,,,2010-10-15 04:34:39.562875,2010-10-15 04:34:39.56517
 32440,33814,http://github.com/TwP/bones-rspec-2,,,,,,2010-10-15 04:35:40.629634,2010-10-15 04:35:40.631782
@@ -17517,7 +17517,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 32745,34120,http://github.com/bmarini/fbapp,,,,,,2010-10-24 18:55:06.735253,2010-10-24 18:55:06.742784
 32746,34121,http://github.com/netfeed/cinch-title,,,,,,2010-10-24 19:54:58.96299,2010-10-24 19:54:58.968594
 32747,34122,http://github.com/jesnault/expect4r,"",http://rubydoc.info/github/jesnault/expect4r/master/file/README.rdoc,"","","",2010-10-24 21:05:26.778855,2010-10-28 18:31:06.201628
-32748,34123,http://github.com/rubiety/jazz_model,,,,,,2010-10-24 21:24:01.969347,2010-10-24 21:24:01.975724
+32748,34123,https://github.com/eigenben/jazz_model,,,,,,2010-10-24 21:24:01.969347,2026-10-14 17:52:42.776283
 32749,34124,http://github.com/eveel/moneta,,,,,,2010-10-24 22:08:27.015539,2010-10-25 00:36:34.795511
 32750,34125,http://github.com/citizenlogistics/simplvisor,,,,,,2010-10-25 00:44:02.123833,2010-10-25 00:44:02.137854
 32751,34126,http://github.com/bkerley/cans,,,,,,2010-10-25 01:18:01.405948,2010-10-25 01:18:01.413039
@@ -19668,7 +19668,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 35011,36467,https://github.com/RISCfuture/ip_address_validator,https://github.com/RISCfuture/ip_address_validator/wiki,http://rdoc.info/github/RISCfuture/ip_address_validator/master/frames,"",https://github.com/RISCfuture/ip_address_validator,https://github.com/RISCfuture/ip_address_validator/issues,2010-12-30 22:25:08.552556,2026-05-14 17:44:42.503237
 35012,36468,https://github.com/phstc/mongomapper_id2,,,,,,2010-12-30 23:15:48.826494,2010-12-30 23:15:48.832406
 35013,36469,http://github.com/cout/ftdic/,,,,,,2010-12-30 23:38:21.645508,2010-12-30 23:38:21.651827
-35014,36470,http://github.com/rubiety/validates_lengths_from_database,,,,,,2010-12-30 23:50:13.335852,2010-12-30 23:50:13.34187
+35014,36470,https://github.com/eigenben/validates_lengths_from_database,,,,,,2010-12-30 23:50:13.335852,2026-10-14 18:26:17.651599
 35015,36471,http://github.com/jkeen/tracking_number,,,,,,2010-12-31 00:11:39.90817,2010-12-31 00:11:39.915739
 35016,36472,https://github.com/halfdan/piwik_analytics/,,,,,,2010-12-31 01:30:24.101317,2010-12-31 01:30:24.107034
 35017,36473,http://github.com/jcangas/version_info,"","","",http://github.com/jcangas/version_info,"",2010-12-31 01:30:28.314409,2011-01-08 17:05:25.170197
@@ -22953,7 +22953,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 38356,39900,http://github.com/socialcast/delete_paranoid,,,,,,2011-03-31 03:33:54.136699,2012-04-24 21:06:55.141792
 38357,39901,http://github.com/obi-a/likethat,,,,,,2011-03-31 04:11:16.663317,2011-03-31 04:11:16.668468
 38358,39902,http://wiki.opscode.com/display/chef,,,,,,2011-03-31 04:20:02.174812,2011-03-31 04:20:02.179715
-38359,39903,,,,,,,2011-03-31 04:36:09.544832,2011-03-31 04:36:09.544832
+38359,39903,https://github.com/msx2/swear_jar,,,,,,2011-03-31 04:36:09.544832,2026-10-19 19:36:06.279289
 38360,39904,https://github.com/celluloid/celluloid,https://github.com/celluloid/celluloid/wiki,http://rubydoc.info/gems/celluloid/frames,https://groups.google.com/group/celluloid-ruby,https://github.com/celluloid/celluloid,https://github.com/celluloid/celluloid/issues,2011-03-31 05:00:51.29867,2013-02-03 08:16:37.182871
 38361,39905,http://github.com/erikh/unixinfo,,,,,,2011-03-31 05:51:35.903283,2011-03-31 05:51:35.908403
 38362,39906,http://gembundler.com,"",https://github.com/will/bundle,"",https://github.com/will/bundle,"",2011-03-31 05:59:01.29477,2011-03-31 05:59:53.686794
@@ -27044,7 +27044,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 42503,44157,http://github.com/marekjelen/noderb,,,,,,2011-07-19 10:55:31.233355,2011-07-19 10:55:31.23852
 42504,44158,"",,,,,,2011-07-19 12:30:57.646332,2011-07-19 12:30:57.651766
 42505,44159,http://github.com/mort666/jira4r,,,,,,2011-07-19 13:04:23.281051,2011-07-19 13:04:23.286205
-42506,44160,https://github.com/ploubser/JSON-Grep,"",http://www.rubydoc.info/gems/jgrep/frames,"",https://github.com/ploubser/JSON-Grep,https://github.com/ploubser/JSON-Grep/issues,2011-07-19 13:42:19.448364,2015-11-25 19:17:38.374772
+42506,44160,https://github.com/voxpupuli/JSON-Grep,"",http://www.rubydoc.info/gems/jgrep/frames,"",https://github.com/ploubser/JSON-Grep,https://github.com/ploubser/JSON-Grep/issues,2011-07-19 13:42:19.448364,2026-10-16 07:46:51.875343
 42507,44161,http://github.com/hackedunit/maxmind,,,,,,2011-07-19 14:12:26.143333,2011-07-19 14:12:26.148514
 42508,44162,https://github.com/murui/cache_wagon,,,,,,2011-07-19 15:01:19.459766,2011-07-19 15:01:19.464542
 42509,44163,http://github.com/txus/fastest,,,,,,2011-07-19 15:06:38.609866,2011-07-19 15:06:38.614813
@@ -27937,7 +27937,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 43409,45096,http://github.com/pyrat/solon,,,,,,2011-08-14 18:56:28.095686,2011-08-14 18:56:28.109729
 43410,45097,https://github.com/mowat27/rawk,,,,,,2011-08-14 19:40:09.425716,2011-08-14 20:02:27.738756
 43411,45098,http://github.com/redding/assert,,,,,,2011-08-14 20:00:18.352488,2012-11-21 15:30:00.801515
-43412,45099,http://github.com/inukshuk/edtf-ruby,,,,,,2011-08-14 20:27:37.447522,2011-11-10 17:26:55.490826
+43412,45099,https://github.com/inukshuk/edtf-ruby,,,,,,2011-08-14 20:27:37.447522,2026-10-18 11:56:22.508262
 43413,45100,"",,,,,,2011-08-14 21:44:21.919592,2011-08-14 21:44:21.924616
 43414,45101,"",,,,,,2011-08-14 22:20:38.421014,2011-08-14 22:20:38.426074
 43415,45102,https://github.com/verdammelt/rangehash,,,,,,2011-08-14 22:51:04.54606,2011-08-14 22:51:04.551391
@@ -36183,7 +36183,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 51762,54623,https://github.com/m0tive/getpass,,,,,,2012-02-27 22:44:03.197862,2012-02-27 22:44:03.202621
 51763,54624,https://github.com/atpsoft/sqlstmt,,,,,,2012-02-27 23:14:20.799964,2012-02-27 23:14:20.80474
 51764,54625,http://google.com,https://github.com/icpsha/vmc,https://github.com/icpsha/vmc,"",https://github.com/icpsha/vmc,"",2012-02-28 00:12:29.248028,2012-02-28 00:13:33.449378
-51765,54626,http://github.com/amoeba-rb/amoeba,,,,,,2012-02-28 00:25:37.997574,2021-06-30 20:36:02.163309
+51765,54626,https://github.com/amoeba-rb/amoeba,,,,,,2012-02-28 00:25:37.997574,2026-10-18 20:09:41.395587
 51766,54627,http://rubygems.org/gems/virtusprinter,"","","",https://github.com/virtus/virtusprinter,"",2012-02-28 01:36:38.586258,2012-02-29 23:07:21.246203
 51767,54628,https://github.com/eric/metriks,,,,,,2012-02-28 02:33:06.223964,2012-03-03 08:02:11.222193
 51768,54629,http://github.com/headleyra/mesh,,,,,,2012-02-28 03:42:01.683741,2012-02-28 03:42:01.688613
@@ -38661,7 +38661,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 54264,57137,https://github.com/crsven/score_watch,,,,,,2012-04-16 00:31:54.937559,2012-04-16 00:39:49.030262
 54265,57138,http://github.com/foca/migrake-sql_store,,,,,,2012-04-16 00:51:56.227246,2012-04-16 00:51:56.230022
 54266,57139,https://github.com/chrishein/movie_show_times,https://github.com/chrishein/movie_show_times/wiki,"","",https://github.com/chrishein/movie_show_times,https://github.com/chrishein/movie_show_times/issues,2012-04-16 02:27:00.749116,2012-04-20 04:14:19.431148
-54267,57140,http://firehose.io/,"","","",https://github.com/firehoseio/firehose,https://github.com/firehoseio/firehose/issues,2012-04-16 03:22:05.536414,2016-02-13 17:02:02.782113
+54267,57140,https://github.com/firehoseio/next,"","","",https://github.com/firehoseio/firehose,https://github.com/firehoseio/firehose/issues,2012-04-16 03:22:05.536414,2026-10-18 18:26:22.987855
 54268,57141,http://github.com/gamepoet/hashes,,,,,,2012-04-16 04:44:31.327155,2012-04-16 04:44:31.329781
 54269,57142,http://github.com/seeingidog/aws-pricing,,,,,,2012-04-16 05:06:27.129469,2012-04-16 05:06:27.132138
 54270,57143,"",,,,,,2012-04-16 05:43:14.896031,2012-04-16 05:43:14.898437
@@ -41966,7 +41966,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 57610,60504,https://github.com/ifad/chronomodel,,,,,,2012-06-22 11:30:40.650786,2015-10-29 08:31:39.051831
 57611,60505,https://github.com/blarralde/text_sanitizer,,,,,,2012-06-22 12:48:54.904665,2012-06-22 12:48:54.908494
 57612,60506,https://github.com/alexfarrill/chimp_light,,,,,,2012-06-22 13:10:54.606271,2012-06-22 13:10:54.610185
-57613,60507,"",,,,,,2012-06-22 13:23:21.810887,2012-06-22 13:23:21.81304
+57613,60507,https://github.com/elektronaut/postnummer_norge,,,,,,2012-06-22 13:23:21.810887,2026-10-19 20:59:03.496447
 57614,60508,http://github.com/joinwire/newrelic-moped,,,,,,2012-06-22 13:45:54.369769,2012-07-24 18:30:51.602096
 57615,60509,https://forwardhq.com,,,,,,2012-06-22 13:56:10.593255,2012-10-01 04:11:09.154189
 57617,60511,"",,,,,,2012-06-22 13:56:48.741595,2012-06-22 13:56:48.744419
@@ -55449,7 +55449,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 71274,74239,"",,,,,,2013-03-19 09:04:56.993743,2013-03-19 09:04:56.996375
 71275,74240,http://www.github.com/ankurcha/stemcell,"",https://github.com/ankurcha/stemcell/blob/master/README.md,https://groups.google.com/a/cloudfoundry.org/group/bosh-users/topics,https://github.com/ankurcha/stemcell/,https://github.com/ankurcha/stemcell/issues,2013-03-19 10:58:06.763898,2013-03-19 11:01:32.621164
 71276,74241,http://github.com/moretea/goliath_rack_sprockets,,,,,,2013-03-19 11:09:10.18227,2013-03-19 11:09:10.184234
-71277,74242,http://didww.github.io/credit_card_validations/,,,,,,2013-03-19 11:19:56.393116,2021-03-18 15:40:39.87468
+71277,74242,https://github.com/didww/credit_card_validations,,,,,,2013-03-19 11:19:56.393116,2026-10-18 10:07:22.917741
 71278,74243,https://github.com/technicalpanda/awrence,,,,,,2013-03-19 11:43:04.324585,2021-02-01 19:52:22.554548
 71279,74244,http://github.com/calebclark/activesupport-inflector,,,,,,2013-03-19 11:52:14.512798,2013-03-19 11:52:14.515127
 71280,74245,http://github.com/nandosola/imageutils,,,,,,2013-03-19 11:57:46.57946,2013-03-19 11:57:46.581649
@@ -61153,7 +61153,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 77072,80045,"",,,,,,2013-06-26 14:20:10.232558,2013-06-26 14:20:10.234984
 77073,80046,http://rubygems.org/gems/hola,,,,,,2013-06-26 14:31:14.139863,2013-06-26 14:31:14.142592
 77074,80047,http://yepdev.com,,,,,,2013-06-26 14:37:03.94431,2013-06-26 14:37:03.94652
-77075,80048,http://github.com/dblock/mongoid-tag-collectible,,,,,,2013-06-26 15:01:05.185748,2013-06-26 15:01:05.188102
+77075,80048,http://github.com/mongoid/mongoid-tag-collectible,,,,,,2013-06-26 15:01:05.185748,2026-10-15 02:04:27.734938
 77076,80049,https://github.com/hainesr/ruby-zip-container,"",http://mygrid.github.io/ruby-zip-container/,"",https://github.com/myGrid/ruby-zip-container,https://github.com/myGrid/ruby-zip-container/issues,2013-06-26 15:22:55.37625,2025-08-09 20:57:39.089368
 77077,80050,https://github.com/blogsoso/acts_as_paranoid,,,,,,2013-06-26 15:52:09.134719,2013-06-26 15:52:09.136913
 77078,80051,http://github.com/reenhanced/cloudmine,,,,,,2013-06-26 15:52:56.32244,2013-06-26 15:52:56.325038
@@ -78714,7 +78714,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 94800,97919,http://gitlab.alibaba-inc.com/aligems/alibaba-kfc,,,,,,2014-05-04 09:06:20.52541,2014-05-04 09:06:20.528475
 94801,97920,https://github.com/agilecreativity/ebooks_renamer,,,,,,2014-05-04 09:29:48.587166,2014-05-04 09:29:48.589351
 94802,97921,https://github.com/gotqn/thumbnail_hover_effect,,,,,,2014-05-04 09:48:18.421455,2014-06-02 21:22:53.882904
-94803,97922,http://pond.org.uk/,,,,,,2014-05-04 09:50:21.969127,2026-05-17 15:56:35.322422
+94803,97922,https://pond.org.uk/,,,,,,2014-05-04 09:50:21.969127,2026-10-15 21:17:59.859589
 94804,97923,http://izumin.info/,,,,,,2014-05-04 10:11:45.568282,2014-05-04 10:11:45.570692
 94805,97924,http://github.com/mickey/rails-frontend,,,,,,2014-05-04 12:58:20.249286,2014-05-04 12:58:20.251886
 94806,97925,http://github.com/ahmadhasankhan/will_announce,,,,,,2014-05-04 13:25:54.997405,2014-05-04 13:25:54.999751

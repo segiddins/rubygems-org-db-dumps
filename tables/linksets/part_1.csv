@@ -17120,7 +17120,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 117610,120712,https://github.com/pboksz/admin_auth,,,,,,2015-02-12 14:41:02.343687,2015-02-12 14:41:02.345687
 117611,120713,http://github.com/raphink/hiera-eyaml-gpg_ruby,,,,,,2015-02-12 14:42:47.527289,2015-02-12 14:42:47.529098
 117612,120714,https://scrivito.com,,,,,,2015-02-12 14:45:21.520159,2015-02-12 14:45:21.521833
-117613,120715,https://github.com/fixrb/matchi,"","","","",https://github.com/fixrb/matchi/issues,2015-02-12 14:56:47.396826,2015-03-10 15:46:45.802988
+117613,120715,https://fixrb.dev/gems/matchi/,"","","","",https://github.com/fixrb/matchi/issues,2015-02-12 14:56:47.396826,2026-10-18 01:18:16.117691
 117614,120716,https://github.com/SpringMT/rack-unix_domain_socket_status,,,,,,2015-02-12 14:59:38.75623,2015-02-12 14:59:38.757387
 117615,120717,https://github.com/varvet/godmin-tags,,,,,,2015-02-12 15:04:25.150256,2015-02-12 15:04:25.151602
 117616,120718,https://github.com/sittercity/flagon,,,,,,2015-02-12 15:09:39.692434,2015-02-12 16:02:10.891181
@@ -23006,7 +23006,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 123609,126727,https://github.com/sensu-plugins/sensu-plugins-entropy-checks,,,,,,2015-05-22 12:31:23.205662,2015-05-22 12:31:23.207421
 123610,126728,https://github.com/sensu-plugins/sensu-plugins-filesystem-checks,,,,,,2015-05-22 13:06:51.8481,2015-05-22 13:06:51.84999
 123611,126729,"",,,,,,2015-05-22 13:15:35.70092,2015-05-22 13:15:35.702893
-123612,126730,https://github.com/shinyscorpion/arch,,,,,,2015-05-22 13:21:45.279014,2015-05-22 13:21:45.281108
+123612,126730,https://github.com/romanzow/arch.rb,,,,,,2015-05-22 13:21:45.279014,2026-10-13 16:48:54.516629
 123613,126731,https://github.com/sensu-plugins/sensu-plugins-graphite,,,,,,2015-05-22 13:30:59.459485,2015-05-22 13:30:59.461451
 123614,126732,https://github.com/3scale/rack-x_served_by,,,,,,2015-05-22 13:40:08.207171,2015-05-22 13:40:08.208994
 123615,126733,https://github.com/mixradio/vanilli-ruby,,,,,,2015-05-22 13:42:18.26968,2015-05-22 13:42:18.272321
@@ -30505,7 +30505,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 131420,134550,https://github.com/supermarin/xcpretty,,,,,,2015-10-14 20:49:33.205905,2015-10-14 20:49:33.207999
 131421,134551,https://github.com/engineyard/cabal-util,,,,,,2015-10-14 20:59:57.908435,2015-10-14 20:59:57.910465
 131422,134552,https://github.com/nickswift/birthcert,,,,,,2015-10-14 21:04:05.072009,2015-10-14 21:04:05.07425
-131423,134553,https://github.com/fixrb/aw,,,,,,2015-10-14 21:04:25.885906,2015-10-14 21:04:25.887258
+131423,134553,https://fixrb.dev/gems/aw/,,,,,,2015-10-14 21:04:25.885906,2026-10-18 23:46:06.965817
 131424,134554,http://eterry1388.github.io/git-conflict-blame,"","","",https://github.com/eterry1388/git-conflict-blame,"",2015-10-14 22:06:40.737263,2015-10-16 18:09:15.347761
 131425,134555,http://github.com/zensaburou/sinatra_auth_oauthed,,,,,,2015-10-14 22:29:28.133697,2015-10-14 22:29:28.135477
 131426,134556,http://spree-contrib.github.io/spree_api_v2,,,,,,2015-10-14 22:41:48.677182,2015-10-14 22:41:48.679226
@@ -35502,7 +35502,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 136604,139736,"",,,,,,2016-01-28 16:39:02.369856,2016-01-28 16:39:02.371899
 136605,139737,https://github.com/kapost/seismograph,,,,,,2016-01-28 17:02:26.643455,2016-01-28 17:02:26.645283
 136606,139738,https://github.com/TransparencyToolkit/DirCrawl,,,,,,2016-01-28 17:56:58.347397,2016-08-09 20:46:33.375145
-136607,139739,http://flori.github.com/mize,,,,,,2016-01-28 18:25:07.096376,2016-01-28 18:25:07.098519
+136607,139739,https://github.com/flori/mize,,,,,,2016-01-28 18:25:07.096376,2026-10-17 22:36:10.956604
 136608,139740,https://github.com/l8nite/rspce-gem,,,,,,2016-01-28 18:29:16.077639,2016-01-28 18:29:16.079471
 136609,139741,https://github.com/sputnikgugja/role_hier,,,,,,2016-01-28 18:35:18.348601,2016-01-28 19:28:26.862648
 136610,139742,https://github.com/Jacobkg/kill_process,,,,,,2016-01-28 18:51:47.362783,2016-01-28 18:51:47.364126
@@ -82331,7 +82331,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 184988,188370,https://www.github.com/baweaver/ast_builder,,,,,,2019-12-04 22:11:14.449718,2019-12-04 22:11:14.451351
 184989,188371,https://datahen.com,,,,,,2019-12-04 23:23:15.956312,2019-12-04 23:23:15.957903
 184990,188372,https://github.com/chaintope/tapyrusrb,,,,,,2019-12-05 00:29:43.158951,2019-12-05 00:29:43.1604
-184991,188373,https://github.com/Altivi/lz-string,,,,,,2019-12-05 00:57:26.125784,2019-12-05 00:57:26.126718
+184991,188373,https://github.com/altivi/lz_string,,,,,,2019-12-05 00:57:26.125784,2026-10-16 13:46:17.175628
 184992,188374,https://github.com/wallaby-rails/wallaby-core,,,,,,2019-12-05 01:21:34.852217,2019-12-05 01:21:34.853105
 184993,188375,https://github.com/aws/aws-sdk-ruby,,,,,,2019-12-05 03:09:55.819052,2019-12-05 03:09:55.819838
 184994,188376,https://github.com/futabooo/fastlane-plugin-android_version_manage,,,,,,2019-12-05 03:36:30.197952,2019-12-05 03:36:30.198746
@@ -90900,7 +90900,7 @@ id,rubygem_id,home,wiki,docs,mail,code,bugs,created_at,updated_at
 193581,197069,https://github.com/getjets/jets-testing,,,,,,2020-11-29 10:18:54.725105,2020-11-29 10:18:54.726069
 193582,197070,https://github.com/getjets/jets-bundler,,,,,,2020-11-29 10:22:04.037283,2020-11-29 10:22:04.038675
 193583,197071,https://gitlab.com/mongalless/izokatu,,,,,,2020-11-29 12:41:26.768428,2020-11-29 12:41:26.769579
-193584,197072,https://github.com/customink/lambdakiq,,,,,,2020-11-29 12:48:49.312681,2020-11-29 12:48:49.313577
+193584,197072,https://github.com/rails-lambda/lambdakiq,,,,,,2020-11-29 12:48:49.312681,2026-10-13 19:46:13.243866
 193585,197073,https://cliz.in,,,,,,2020-11-29 13:35:10.286757,2020-11-29 13:35:10.288536
 193586,197074,https://theglitchy.com/sandbox/russian_color_names,,,,,,2020-11-29 13:39:29.066174,2020-11-29 14:44:51.453274
 193587,197075,https://github.com/filewatcher/filewatcher-matrix,,,,,,2020-11-29 14:10:29.949616,2020-11-29 14:17:08.902239
